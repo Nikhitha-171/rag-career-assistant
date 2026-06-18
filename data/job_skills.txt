@@ -1,0 +1,11 @@
+Machine Learning Engineer Skills
+
+Python
+Machine Learning
+Deep Learning
+NLP
+Pandas
+NumPy
+Scikit-learn
+Git
+SQL
