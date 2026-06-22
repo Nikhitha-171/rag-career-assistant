@@ -1,0 +1,17 @@
+Data Scientist Skills
+
+Python
+SQL
+Statistics
+Machine Learning
+Pandas
+NumPy
+Data Visualization
+
+Roadmap
+
+1. Learn Python
+2. Learn Statistics
+3. Learn SQL
+4. Learn Machine Learning
+5. Build Projects

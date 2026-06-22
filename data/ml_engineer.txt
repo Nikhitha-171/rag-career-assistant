@@ -1,0 +1,23 @@
+Machine Learning Engineer
+
+Skills
+
+Python
+SQL
+Machine Learning
+Deep Learning
+NLP
+Pandas
+NumPy
+Git
+Docker
+MLOps
+
+Roadmap
+
+1. Learn Python
+2. Learn Statistics
+3. Learn Machine Learning
+4. Learn Deep Learning
+5. Build Projects
+6. Learn MLOps

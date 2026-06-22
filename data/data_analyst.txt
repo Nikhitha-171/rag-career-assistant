@@ -1,0 +1,16 @@
+Data Analyst Skills
+
+Excel
+SQL
+Power BI
+Tableau
+Python
+Data Cleaning
+
+Roadmap
+
+1. Learn Excel
+2. Learn SQL
+3. Learn Power BI
+4. Learn Python
+5. Build Projects
