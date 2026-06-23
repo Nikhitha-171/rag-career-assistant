@@ -1,17 +1,37 @@
-Data Scientist Skills
+Role: Data Scientist
 
-Python
-SQL
-Statistics
-Machine Learning
-Pandas
-NumPy
-Data Visualization
+Description:
+Data Scientists analyze data, discover insights, and build predictive models for business decisions.
 
-Roadmap
+Skills:
+- Python
+- SQL
+- Statistics
+- Probability
+- Machine Learning
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Data Visualization
+- Feature Engineering
+- Model Evaluation
+- Communication Skills
 
+Roadmap:
 1. Learn Python
-2. Learn Statistics
+2. Learn Statistics and Probability
 3. Learn SQL
-4. Learn Machine Learning
-5. Build Projects
+4. Learn Data Analysis
+5. Learn Data Visualization
+6. Learn Machine Learning
+7. Build Data Science Projects
+8. Learn Advanced ML Techniques
+9. Create a Portfolio
+10. Apply for Jobs
+
+Projects:
+- Sales Forecasting
+- Customer Segmentation
+- Credit Risk Analysis
+- Recommendation System

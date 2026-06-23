@@ -1,16 +1,32 @@
-Data Analyst Skills
+Role: Data Analyst
 
-Excel
-SQL
-Power BI
-Tableau
-Python
-Data Cleaning
+Description:
+Data Analysts collect, clean, analyze, and visualize data to help organizations make informed decisions.
 
-Roadmap
+Skills:
+- Excel
+- SQL
+- Power BI
+- Tableau
+- Python
+- Pandas
+- Data Cleaning
+- Data Visualization
+- Reporting
+- Statistics
 
+Roadmap:
 1. Learn Excel
 2. Learn SQL
-3. Learn Power BI
-4. Learn Python
-5. Build Projects
+3. Learn Data Cleaning
+4. Learn Power BI or Tableau
+5. Learn Python
+6. Build Dashboards
+7. Build Portfolio Projects
+8. Apply for Internships
+
+Projects:
+- Sales Dashboard
+- HR Analytics Dashboard
+- Customer Insights Dashboard
+- Business Performance Analysis

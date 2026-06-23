@@ -1,23 +1,38 @@
-Machine Learning Engineer
+Role: Machine Learning Engineer
 
-Skills
+Description:
+Machine Learning Engineers build, train, deploy, and maintain machine learning models.
 
-Python
-SQL
-Machine Learning
-Deep Learning
-NLP
-Pandas
-NumPy
-Git
-Docker
-MLOps
+Skills:
+- Python
+- SQL
+- Pandas
+- NumPy
+- Statistics
+- Machine Learning
+- Deep Learning
+- NLP
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- Git
+- Docker
+- MLOps
 
-Roadmap
-
+Roadmap:
 1. Learn Python
-2. Learn Statistics
-3. Learn Machine Learning
-4. Learn Deep Learning
-5. Build Projects
-6. Learn MLOps
+2. Learn Statistics and Mathematics
+3. Learn SQL
+4. Learn Pandas and NumPy
+5. Learn Machine Learning
+6. Learn Deep Learning
+7. Build Projects
+8. Learn Git and Docker
+9. Learn MLOps
+10. Apply for Internships
+
+Projects:
+- House Price Prediction
+- Customer Churn Prediction
+- Resume Screening System
+- AI Career Assistant
