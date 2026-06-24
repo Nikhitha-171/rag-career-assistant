@@ -1,0 +1,26 @@
+{
+  "career": "Data Scientist",
+  "skills": [
+    "Python",
+    "SQL",
+    "Statistics",
+    "Probability",
+    "Pandas",
+    "NumPy",
+    "Machine Learning",
+    "Data Visualization"
+  ],
+  "roadmap": [
+    "Learn Python",
+    "Learn Statistics",
+    "Learn SQL",
+    "Learn Data Analysis",
+    "Learn Machine Learning",
+    "Build Projects"
+  ],
+  "projects": [
+    "Sales Forecasting",
+    "Customer Segmentation",
+    "Recommendation System"
+  ]
+}

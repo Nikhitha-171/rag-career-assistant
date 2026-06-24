@@ -1,0 +1,23 @@
+{
+  "career": "Data Analyst",
+  "skills": [
+    "Excel",
+    "SQL",
+    "Power BI",
+    "Tableau",
+    "Python",
+    "Data Cleaning"
+  ],
+  "roadmap": [
+    "Learn Excel",
+    "Learn SQL",
+    "Learn Power BI",
+    "Learn Python",
+    "Build Dashboards"
+  ],
+  "projects": [
+    "Sales Dashboard",
+    "HR Analytics Dashboard",
+    "Customer Insights Dashboard"
+  ]
+}

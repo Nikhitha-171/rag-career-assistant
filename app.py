@@ -1,71 +1,30 @@
 import streamlit as st
+import json
 from pathlib import Path
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from sentence_transformers import SentenceTransformer
-import faiss
 
 # ==========================
-# Page Configuration
+# Page Config
 # ==========================
 st.set_page_config(
     page_title="AI Career Assistant",
-    page_icon="🎯",
-    layout="wide"
+    page_icon="🎯"
 )
 
-# ==========================
-# Header
-# ==========================
 st.title("🎯 AI Career Assistant")
-st.write("Get career guidance, skills, roadmaps, and project ideas.")
+st.write("Ask about skills, roadmaps, or projects for careers.")
 
 # ==========================
-# Sidebar
+# Load JSON Files
 # ==========================
-st.sidebar.title("Supported Careers")
+data_folder = Path("data_json")
 
-st.sidebar.write("""
-- Machine Learning Engineer
-- Data Scientist
-- Data Analyst
-""")
+careers = {}
 
-# ==========================
-# Load Documents
-# ==========================
-data_folder = Path("data")
-
-all_text = ""
-
-for file in data_folder.glob("*.txt"):
+for file in data_folder.glob("*.json"):
     with open(file, "r", encoding="utf-8") as f:
-        all_text += f.read() + "\n"
+        data = json.load(f)
 
-# ==========================
-# Chunk Documents
-# ==========================
-splitter = RecursiveCharacterTextSplitter(
-    chunk_size=300,
-    chunk_overlap=50
-)
-
-chunks = splitter.split_text(all_text)
-
-# ==========================
-# Create Embeddings
-# ==========================
-model = SentenceTransformer("all-MiniLM-L6-v2")
-
-embeddings = model.encode(chunks)
-
-# ==========================
-# Create FAISS Index
-# ==========================
-dimension = embeddings.shape[1]
-
-index = faiss.IndexFlatL2(dimension)
-
-index.add(embeddings)
+    careers[data["career"].lower()] = data
 
 # ==========================
 # Chat Input
@@ -77,16 +36,65 @@ if question:
     with st.chat_message("user"):
         st.write(question)
 
-    # Query Embedding
-    query_embedding = model.encode([question])
+    q = question.lower()
 
-    # Retrieve Top 2 Chunks
-    distances, indices = index.search(query_embedding, 2)
+    selected_career = None
 
-    answer = ""
-
-    for idx in indices[0]:
-        answer += chunks[idx] + "\n\n"
+    for career_name in careers:
+        if career_name in q:
+            selected_career = careers[career_name]
+            break
 
     with st.chat_message("assistant"):
-        st.write(answer)
+
+        if selected_career:
+
+            # Skills
+            if "skill" in q:
+
+                st.subheader("Skills")
+
+                for skill in selected_career["skills"]:
+                    st.write("•", skill)
+            
+            # Projects
+            elif "project" in q:
+
+                st.subheader("Projects")
+
+                for project in selected_career["projects"]:
+                    st.write("•", project)
+
+            # Roadmap
+            elif "roadmap" in q or "become" in q or "career path" in q:
+                st.subheader("Roadmap")
+
+                for step in selected_career["roadmap"]:
+                    st.write("•", step)
+
+
+            # Default
+            else:
+
+                st.subheader(selected_career["career"])
+
+                st.write("### Skills")
+                st.write(", ".join(selected_career["skills"]))
+
+                st.write("### Roadmap")
+                for step in selected_career["roadmap"]:
+                    st.write("•", step)
+
+                st.write("### Projects")
+                for project in selected_career["projects"]:
+                    st.write("•", project)
+
+        else:
+
+            st.warning(
+                "Career not found.\n\n"
+                "Try:\n"
+                "- Machine Learning Engineer\n"
+                "- Data Scientist\n"
+                "- Data Analyst"
+            )
