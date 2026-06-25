@@ -1,0 +1,158 @@
+{
+  "career": "Graphic Designer",
+
+  "description": "A Graphic Designer creates visual content to communicate ideas, messages, and brand identities through digital and print media. They use design principles, creativity, and software tools to produce logos, posters, social media graphics, advertisements, illustrations, and marketing materials.",
+
+  "recommended_for": {
+    "interests": [
+      "Design",
+      "Creativity",
+      "Branding",
+      "Visual Communication",
+      "Digital Art",
+      "Marketing"
+    ],
+    "strengths": [
+      "Creativity",
+      "Attention to Detail",
+      "Visual Thinking",
+      "Communication Skills",
+      "Problem Solving",
+      "Time Management"
+    ]
+  },
+
+  "skills": {
+    "design_fundamentals": [
+      "Color Theory",
+      "Typography",
+      "Layout Design",
+      "Composition",
+      "Visual Hierarchy"
+    ],
+    "graphic_design": [
+      "Logo Design",
+      "Brand Identity Design",
+      "Poster Design",
+      "Social Media Design",
+      "Print Design"
+    ],
+    "digital_design": [
+      "UI Design Basics",
+      "Illustration",
+      "Photo Editing",
+      "Vector Graphics",
+      "Motion Graphics Basics"
+    ],
+    "software": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe InDesign",
+      "Canva",
+      "Figma"
+    ],
+    "professional_skills": [
+      "Client Communication",
+      "Creative Thinking",
+      "Portfolio Building",
+      "Brand Understanding"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Design Principles",
+    "Understand Color Theory and Typography",
+    "Learn Canva for Basic Design",
+    "Master Adobe Photoshop",
+    "Learn Adobe Illustrator",
+    "Practice Logo and Poster Design",
+    "Study Branding and Visual Identity",
+    "Create Social Media Design Projects",
+    "Build a Professional Portfolio",
+    "Learn UI Design Basics",
+    "Work on Freelance or Real Client Projects",
+    "Develop a Personal Design Style"
+  ],
+
+  "projects": [
+    "Personal Brand Logo Design",
+    "Event Poster Design",
+    "Social Media Campaign Graphics",
+    "Restaurant Menu Design",
+    "Brand Identity Kit",
+    "Product Packaging Design",
+    "Magazine Cover Design",
+    "Marketing Brochure Design",
+    "Mobile App UI Mockup",
+    "Complete Brand Redesign Project"
+  ],
+
+  "interview_questions": [
+    "What is graphic design?",
+    "What are the principles of design?",
+    "What is color theory?",
+    "What is typography?",
+    "What is visual hierarchy?",
+    "What is the difference between raster and vector graphics?",
+    "What is branding?",
+    "What is brand identity design?",
+    "How do you choose colors for a design project?",
+    "What is whitespace in design?",
+    "What is the purpose of a logo?",
+    "How do you approach a new design project?",
+    "What is the difference between RGB and CMYK?",
+    "What are the key features of Adobe Photoshop?",
+    "What is Adobe Illustrator used for?",
+    "How do you handle client feedback?",
+    "What makes a design effective?",
+    "How do you maintain consistency in branding?",
+    "What is a mood board?",
+    "How do you design for social media platforms?",
+    "What is responsive design?",
+    "How do you optimize graphics for web use?",
+    "What is user-centered design?",
+    "How do you manage multiple design projects?",
+    "What trends are currently popular in graphic design?",
+    "How do you balance creativity and client requirements?",
+    "How do you build a strong design portfolio?",
+    "What challenges have you faced in a design project?",
+    "How do you stay updated with design trends?",
+    "Describe your design process from concept to completion."
+  ],
+
+  "certifications": [
+    "Adobe Certified Professional - Photoshop",
+    "Adobe Certified Professional - Illustrator",
+    "Graphic Design Specialization",
+    "Canva Design School Certification",
+    "Google UX Design Certificate",
+    "Visual Elements of User Interface Design"
+  ],
+
+  "tools": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Canva",
+    "Figma",
+    "CorelDRAW",
+    "Adobe Express",
+    "Procreate"
+  ],
+
+  "job_roles": [
+    "Graphic Designer",
+    "Visual Designer",
+    "Brand Designer",
+    "Creative Designer",
+    "Marketing Designer",
+    "UI Designer",
+    "Freelance Graphic Designer"
+  ],
+
+  "salary": {
+    "entry_level": "₹3-6 LPA",
+    "mid_level": "₹6-12 LPA",
+    "senior_level": "₹12-25+ LPA"
+  }
+}

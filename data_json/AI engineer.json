@@ -1,0 +1,171 @@
+{
+  "career": "AI Engineer",
+
+  "description": "An AI Engineer designs, develops, and deploys Artificial Intelligence systems that can learn, reason, understand language, recognize patterns, and automate complex tasks. They combine machine learning, deep learning, software engineering, and data science to build intelligent applications.",
+
+  "recommended_for": {
+    "interests": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "Programming",
+      "Research",
+      "Automation"
+    ],
+    "strengths": [
+      "Logical Thinking",
+      "Problem Solving",
+      "Analytical Skills",
+      "Mathematical Aptitude",
+      "Creativity",
+      "Curiosity"
+    ]
+  },
+
+  "skills": {
+    "programming": [
+      "Python",
+      "Data Structures and Algorithms",
+      "Object-Oriented Programming",
+      "SQL"
+    ],
+    "mathematics": [
+      "Linear Algebra",
+      "Probability",
+      "Statistics",
+      "Calculus",
+      "Optimization"
+    ],
+    "machine_learning": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Feature Engineering",
+      "Model Evaluation",
+      "Ensemble Learning"
+    ],
+    "deep_learning": [
+      "Neural Networks",
+      "CNN",
+      "RNN",
+      "LSTM",
+      "Transformers",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "ai_domains": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Generative AI",
+      "Recommendation Systems",
+      "Speech Recognition"
+    ],
+    "deployment": [
+      "FastAPI",
+      "Flask",
+      "Docker",
+      "MLOps",
+      "Cloud Platforms"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Python Programming",
+    "Study Mathematics for AI",
+    "Master NumPy and Pandas",
+    "Learn Data Analysis and Visualization",
+    "Study Machine Learning Algorithms",
+    "Build Machine Learning Projects",
+    "Learn Deep Learning",
+    "Study Computer Vision",
+    "Study Natural Language Processing",
+    "Learn Generative AI and Large Language Models",
+    "Build End-to-End AI Applications",
+    "Learn MLOps and AI Deployment"
+  ],
+
+  "projects": [
+    "AI Chatbot",
+    "House Price Prediction",
+    "Spam Email Classifier",
+    "Image Classification System",
+    "Face Recognition System",
+    "Sentiment Analysis Tool",
+    "Resume Screening System",
+    "AI-Powered Recommendation System",
+    "Medical Diagnosis Assistant",
+    "RAG-Based AI Assistant"
+  ],
+
+  "interview_questions": [
+    "What is Artificial Intelligence?",
+    "What is the difference between AI, ML, and Deep Learning?",
+    "What is supervised learning?",
+    "What is unsupervised learning?",
+    "What is reinforcement learning?",
+    "What is overfitting?",
+    "What is underfitting?",
+    "What is feature engineering?",
+    "What is cross-validation?",
+    "What is the bias-variance tradeoff?",
+    "What is a neural network?",
+    "What is backpropagation?",
+    "What is gradient descent?",
+    "What is a CNN?",
+    "What is an RNN?",
+    "What are transformers?",
+    "What is attention mechanism?",
+    "What is NLP?",
+    "What is computer vision?",
+    "What is transfer learning?",
+    "What is fine-tuning?",
+    "What are embeddings?",
+    "What is a vector database?",
+    "What is Retrieval-Augmented Generation (RAG)?",
+    "What are Large Language Models (LLMs)?",
+    "How would you evaluate an AI model?",
+    "How do you handle imbalanced datasets?",
+    "What is MLOps?",
+    "How would you deploy an AI model into production?",
+    "What challenges are faced in building AI systems?"
+  ],
+
+  "certifications": [
+    "AI For Everyone",
+    "Machine Learning Specialization",
+    "Deep Learning Specialization",
+    "Google AI Essentials",
+    "IBM AI Engineering Professional Certificate",
+    "Microsoft Azure AI Engineer Associate"
+  ],
+
+  "tools": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "NumPy",
+    "Pandas",
+    "OpenCV",
+    "Hugging Face",
+    "LangChain",
+    "FAISS",
+    "Docker",
+    "Git"
+  ],
+
+  "job_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Generative AI Engineer",
+    "NLP Engineer",
+    "Computer Vision Engineer",
+    "Applied AI Engineer",
+    "AI Research Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹6-12 LPA",
+    "mid_level": "₹12-25 LPA",
+    "senior_level": "₹25-60+ LPA"
+  }
+}

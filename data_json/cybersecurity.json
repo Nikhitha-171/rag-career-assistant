@@ -1,0 +1,168 @@
+{
+  "career": "Cybersecurity Specialist",
+
+  "description": "A Cybersecurity Specialist protects computer systems, networks, applications, and data from cyber threats, attacks, and unauthorized access. They identify vulnerabilities, monitor security incidents, and implement security measures to safeguard digital assets.",
+
+  "recommended_for": {
+    "interests": [
+      "Cybersecurity",
+      "Ethical Hacking",
+      "Networking",
+      "Digital Forensics",
+      "Information Security",
+      "Technology"
+    ],
+    "strengths": [
+      "Problem Solving",
+      "Analytical Thinking",
+      "Attention to Detail",
+      "Curiosity",
+      "Critical Thinking",
+      "Persistence"
+    ]
+  },
+
+  "skills": {
+    "networking": [
+      "TCP/IP",
+      "DNS",
+      "HTTP/HTTPS",
+      "Network Security",
+      "Firewall Configuration"
+    ],
+    "security_fundamentals": [
+      "Information Security",
+      "Cryptography",
+      "Risk Assessment",
+      "Security Policies",
+      "Incident Response"
+    ],
+    "ethical_hacking": [
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Reconnaissance",
+      "Web Application Security",
+      "Security Testing"
+    ],
+    "operating_systems": [
+      "Linux",
+      "Windows Security",
+      "System Hardening",
+      "Access Control"
+    ],
+    "programming": [
+      "Python",
+      "Bash Scripting",
+      "PowerShell",
+      "SQL Basics"
+    ],
+    "cloud_security": [
+      "AWS Security",
+      "Azure Security",
+      "Identity and Access Management",
+      "Cloud Risk Management"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Computer Fundamentals",
+    "Understand Networking Concepts",
+    "Learn Linux and Windows Administration",
+    "Study Cybersecurity Fundamentals",
+    "Learn Cryptography Basics",
+    "Understand Web Application Security",
+    "Learn Ethical Hacking Techniques",
+    "Practice Vulnerability Assessment",
+    "Study Incident Response and Digital Forensics",
+    "Learn Cloud Security",
+    "Prepare for Security Certifications",
+    "Build Real-World Security Projects"
+  ],
+
+  "projects": [
+    "Network Vulnerability Scanner",
+    "Password Strength Checker",
+    "Port Scanner using Python",
+    "Log Analysis Tool",
+    "Security Monitoring Dashboard",
+    "Phishing Detection System",
+    "Malware Analysis Sandbox",
+    "Intrusion Detection System",
+    "Web Application Security Assessment",
+    "Security Information and Event Management (SIEM) Project"
+  ],
+
+  "interview_questions": [
+    "What is Cybersecurity?",
+    "What is the CIA Triad?",
+    "What is the difference between authentication and authorization?",
+    "What is a firewall?",
+    "What is encryption?",
+    "What is a VPN?",
+    "What is phishing?",
+    "What is malware?",
+    "What is ransomware?",
+    "What is social engineering?",
+    "What is penetration testing?",
+    "What is vulnerability assessment?",
+    "What is SQL injection?",
+    "What is Cross-Site Scripting (XSS)?",
+    "What is Cross-Site Request Forgery (CSRF)?",
+    "What is the principle of least privilege?",
+    "What is multi-factor authentication?",
+    "What is a DDoS attack?",
+    "What is packet sniffing?",
+    "What is DNS spoofing?",
+    "What is a man-in-the-middle attack?",
+    "What is incident response?",
+    "What is digital forensics?",
+    "What is a security audit?",
+    "What is the difference between symmetric and asymmetric encryption?",
+    "What is OWASP Top 10?",
+    "How would you secure a web application?",
+    "How do you identify security vulnerabilities in a system?",
+    "What is SIEM?",
+    "How would you respond to a cybersecurity breach?"
+  ],
+
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker (CEH)",
+    "CompTIA CySA+",
+    "CompTIA PenTest+",
+    "Certified Information Systems Security Professional (CISSP)",
+    "GIAC Security Essentials (GSEC)"
+  ],
+
+  "tools": [
+    "Wireshark",
+    "Nmap",
+    "Burp Suite",
+    "Metasploit",
+    "Kali Linux",
+    "Nessus",
+    "Snort",
+    "Splunk",
+    "OpenVAS",
+    "John the Ripper",
+    "Hydra",
+    "OWASP ZAP"
+  ],
+
+  "job_roles": [
+    "Cybersecurity Analyst",
+    "Security Engineer",
+    "Ethical Hacker",
+    "Penetration Tester",
+    "SOC Analyst",
+    "Incident Responder",
+    "Security Consultant",
+    "Cloud Security Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹5-10 LPA",
+    "mid_level": "₹10-20 LPA",
+    "senior_level": "₹20-50+ LPA"
+  }
+}

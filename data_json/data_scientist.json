@@ -1,26 +1,167 @@
 {
   "career": "Data Scientist",
-  "skills": [
+
+  "description": "A Data Scientist collects, analyzes, and interprets large amounts of data to uncover insights, solve business problems, and support data-driven decision-making using statistics, machine learning, and visualization techniques.",
+
+  "recommended_for": {
+    "interests": [
+      "Data Analysis",
+      "Machine Learning",
+      "Statistics",
+      "Artificial Intelligence",
+      "Business Intelligence",
+      "Research"
+    ],
+    "strengths": [
+      "Analytical Thinking",
+      "Problem Solving",
+      "Curiosity",
+      "Statistical Reasoning",
+      "Critical Thinking",
+      "Attention to Detail"
+    ]
+  },
+
+  "skills": {
+    "programming": [
+      "Python",
+      "R",
+      "SQL",
+      "NumPy",
+      "Pandas"
+    ],
+    "statistics": [
+      "Probability",
+      "Hypothesis Testing",
+      "Statistical Analysis",
+      "Regression Analysis",
+      "A/B Testing"
+    ],
+    "machine_learning": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Feature Engineering",
+      "Model Evaluation",
+      "Ensemble Learning"
+    ],
+    "data_visualization": [
+      "Matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Tableau",
+      "Power BI"
+    ],
+    "data_handling": [
+      "Data Cleaning",
+      "Data Wrangling",
+      "Exploratory Data Analysis",
+      "Data Collection"
+    ],
+    "big_data": [
+      "Apache Spark",
+      "Hadoop",
+      "Data Pipelines"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Python Programming",
+    "Master SQL for Data Analysis",
+    "Study Statistics and Probability",
+    "Learn NumPy and Pandas",
+    "Perform Exploratory Data Analysis",
+    "Learn Data Visualization",
+    "Study Machine Learning Algorithms",
+    "Build Data Science Projects",
+    "Learn Big Data Technologies",
+    "Develop Business Understanding",
+    "Create End-to-End Data Science Projects",
+    "Learn Model Deployment Basics"
+  ],
+
+  "projects": [
+    "Titanic Survival Prediction",
+    "House Price Prediction",
+    "Customer Segmentation",
+    "Sales Data Analysis Dashboard",
+    "Customer Churn Prediction",
+    "Credit Risk Analysis",
+    "Movie Recommendation System",
+    "Stock Market Analysis",
+    "Fraud Detection System",
+    "End-to-End Business Analytics Project"
+  ],
+
+  "interview_questions": [
+    "What is Data Science?",
+    "What is the difference between Data Science and Data Analytics?",
+    "What is Exploratory Data Analysis?",
+    "What is data cleaning?",
+    "Why is feature engineering important?",
+    "What is supervised learning?",
+    "What is unsupervised learning?",
+    "What is overfitting?",
+    "What is underfitting?",
+    "What is the difference between classification and regression?",
+    "What is hypothesis testing?",
+    "What is p-value?",
+    "What is cross-validation?",
+    "What is a confusion matrix?",
+    "What are precision and recall?",
+    "What is ROC-AUC?",
+    "What is the bias-variance tradeoff?",
+    "What is feature selection?",
+    "How does Random Forest work?",
+    "What is gradient boosting?",
+    "What is the difference between bagging and boosting?",
+    "What is dimensionality reduction?",
+    "What is PCA?",
+    "How do you handle missing values?",
+    "How do you handle outliers?",
+    "How would you analyze a large dataset?",
+    "What is A/B testing?",
+    "How would you explain a machine learning model to a non-technical stakeholder?",
+    "What is the role of SQL in Data Science?",
+    "How would you approach an end-to-end Data Science project?"
+  ],
+
+  "certifications": [
+    "IBM Data Science Professional Certificate",
+    "Google Advanced Data Analytics Professional Certificate",
+    "Data Science Specialization (Coursera)",
+    "Microsoft Certified: Azure Data Scientist Associate",
+    "AWS Certified Machine Learning Engineer",
+    "Harvard Data Science Professional Certificate"
+  ],
+
+  "tools": [
     "Python",
+    "R",
     "SQL",
-    "Statistics",
-    "Probability",
     "Pandas",
     "NumPy",
-    "Machine Learning",
-    "Data Visualization"
+    "Scikit-learn",
+    "Matplotlib",
+    "Seaborn",
+    "Tableau",
+    "Power BI",
+    "Jupyter Notebook",
+    "Apache Spark"
   ],
-  "roadmap": [
-    "Learn Python",
-    "Learn Statistics",
-    "Learn SQL",
-    "Learn Data Analysis",
-    "Learn Machine Learning",
-    "Build Projects"
+
+  "job_roles": [
+    "Data Scientist",
+    "Senior Data Scientist",
+    "Machine Learning Scientist",
+    "Applied Scientist",
+    "Business Data Scientist",
+    "Research Data Scientist",
+    "AI Scientist"
   ],
-  "projects": [
-    "Sales Forecasting",
-    "Customer Segmentation",
-    "Recommendation System"
-  ]
+
+  "salary": {
+    "entry_level": "₹6-12 LPA",
+    "mid_level": "₹12-25 LPA",
+    "senior_level": "₹25-60+ LPA"
+  }
 }

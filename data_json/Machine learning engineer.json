@@ -1,0 +1,170 @@
+{
+  "career": "Machine Learning Engineer",
+
+  "description": "A Machine Learning Engineer develops, trains, evaluates, and deploys machine learning models that enable systems to learn from data and make intelligent predictions or decisions.",
+
+  "recommended_for": {
+    "interests": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
+      "Programming",
+      "Research",
+      "Automation"
+    ],
+    "strengths": [
+      "Logical Thinking",
+      "Problem Solving",
+      "Analytical Skills",
+      "Mathematical Aptitude",
+      "Curiosity",
+      "Attention to Detail"
+    ]
+  },
+
+  "skills": {
+    "programming": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Object-Oriented Programming",
+      "Data Structures and Algorithms"
+    ],
+    "mathematics": [
+      "Linear Algebra",
+      "Probability",
+      "Statistics",
+      "Calculus"
+    ],
+    "machine_learning": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Feature Engineering",
+      "Model Evaluation",
+      "Ensemble Methods",
+      "Hyperparameter Tuning"
+    ],
+    "deep_learning": [
+      "Neural Networks",
+      "CNN",
+      "RNN",
+      "LSTM",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "data_handling": [
+      "Data Cleaning",
+      "Exploratory Data Analysis",
+      "Data Visualization",
+      "SQL"
+    ],
+    "deployment": [
+      "Flask",
+      "FastAPI",
+      "Docker",
+      "Cloud Platforms",
+      "MLOps"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Python Fundamentals",
+    "Study Statistics and Probability",
+    "Learn Linear Algebra and Calculus Basics",
+    "Master NumPy and Pandas",
+    "Learn Data Visualization",
+    "Learn SQL",
+    "Understand Machine Learning Algorithms",
+    "Build Beginner Machine Learning Projects",
+    "Learn Deep Learning",
+    "Build Advanced AI Projects",
+    "Learn Model Deployment",
+    "Study MLOps and Cloud Services"
+  ],
+
+  "projects": [
+    "Student Performance Prediction",
+    "House Price Prediction",
+    "Titanic Survival Prediction",
+    "Spam Email Detection",
+    "Customer Churn Prediction",
+    "Loan Approval Prediction",
+    "Credit Card Fraud Detection",
+    "Sales Forecasting System",
+    "Movie Recommendation System",
+    "End-to-End MLOps Pipeline"
+  ],
+
+  "interview_questions": [
+    "What is Machine Learning?",
+    "What are the different types of Machine Learning?",
+    "What is supervised learning?",
+    "What is unsupervised learning?",
+    "What is reinforcement learning?",
+    "What is overfitting?",
+    "What is underfitting?",
+    "What is the difference between training and testing data?",
+    "What is feature engineering?",
+    "What is the difference between classification and regression?",
+    "What is cross-validation?",
+    "What is the bias-variance tradeoff?",
+    "What is regularization?",
+    "What is the difference between L1 and L2 regularization?",
+    "What are precision, recall, and F1-score?",
+    "What is a confusion matrix?",
+    "What is ROC-AUC?",
+    "How does a Decision Tree work?",
+    "What is Random Forest and why is it better than a single Decision Tree?",
+    "What is the difference between bagging and boosting?",
+    "How does XGBoost work?",
+    "What is gradient descent?",
+    "What are the assumptions of Linear Regression?",
+    "How do you handle imbalanced datasets?",
+    "What is feature selection and why is it important?",
+    "How would you optimize a Machine Learning model?",
+    "What is hyperparameter tuning?",
+    "What are neural networks and how do they work?",
+    "How would you deploy a Machine Learning model into production?",
+    "What challenges are faced in building end-to-end Machine Learning systems?"
+  ],
+
+  "certifications": [
+    "Machine Learning Specialization (Coursera)",
+    "IBM Machine Learning Professional Certificate",
+    "Google Advanced Data Analytics Professional Certificate",
+    "AWS Certified Machine Learning Engineer",
+    "TensorFlow Developer Certificate",
+    "Microsoft Azure AI Engineer Associate"
+  ],
+
+  "tools": [
+    "Python",
+    "Scikit-learn",
+    "TensorFlow",
+    "PyTorch",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "SQL",
+    "Git",
+    "Docker",
+    "Jupyter Notebook"
+  ],
+
+  "job_roles": [
+    "Machine Learning Engineer",
+    "AI Engineer",
+    "Data Scientist",
+    "Research Engineer",
+    "Computer Vision Engineer",
+    "NLP Engineer",
+    "MLOps Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹5-10 LPA",
+    "mid_level": "₹10-20 LPA",
+    "senior_level": "₹20-50+ LPA"
+  }
+}

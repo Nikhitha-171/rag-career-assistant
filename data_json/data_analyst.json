@@ -1,23 +1,159 @@
 {
   "career": "Data Analyst",
-  "skills": [
+
+  "description": "A Data Analyst collects, cleans, analyzes, and visualizes data to help organizations make informed business decisions. They identify trends, generate reports, and provide actionable insights using data analysis tools and techniques.",
+
+  "recommended_for": {
+    "interests": [
+      "Data Analysis",
+      "Business Intelligence",
+      "Statistics",
+      "Problem Solving",
+      "Data Visualization",
+      "Decision Making"
+    ],
+    "strengths": [
+      "Analytical Thinking",
+      "Attention to Detail",
+      "Logical Reasoning",
+      "Communication Skills",
+      "Problem Solving",
+      "Curiosity"
+    ]
+  },
+
+  "skills": {
+    "programming": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "NumPy"
+    ],
+    "data_analysis": [
+      "Data Cleaning",
+      "Data Wrangling",
+      "Exploratory Data Analysis",
+      "Statistical Analysis",
+      "Data Interpretation"
+    ],
+    "data_visualization": [
+      "Power BI",
+      "Tableau",
+      "Excel Charts",
+      "Matplotlib",
+      "Seaborn"
+    ],
+    "statistics": [
+      "Descriptive Statistics",
+      "Probability",
+      "Hypothesis Testing",
+      "Correlation Analysis"
+    ],
+    "business_skills": [
+      "Reporting",
+      "Dashboard Creation",
+      "Business Intelligence",
+      "Data Storytelling"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Advanced Excel",
+    "Learn SQL Fundamentals",
+    "Master Data Cleaning Techniques",
+    "Learn Statistics for Data Analysis",
+    "Learn Python for Data Analysis",
+    "Master Pandas and NumPy",
+    "Perform Exploratory Data Analysis",
+    "Learn Data Visualization",
+    "Build Interactive Dashboards using Power BI or Tableau",
+    "Work on Real-World Data Analysis Projects",
+    "Learn Business Intelligence Concepts",
+    "Build a Strong Portfolio"
+  ],
+
+  "projects": [
+    "Sales Performance Dashboard",
+    "Customer Segmentation Analysis",
+    "E-commerce Data Analysis",
+    "COVID-19 Data Analysis",
+    "Retail Store Analytics",
+    "HR Employee Attrition Analysis",
+    "Netflix Data Analysis",
+    "Financial Performance Dashboard",
+    "Marketing Campaign Analysis",
+    "Business Intelligence Reporting System"
+  ],
+
+  "interview_questions": [
+    "What is Data Analysis?",
+    "What is the role of a Data Analyst?",
+    "What is data cleaning?",
+    "Why is data visualization important?",
+    "What is Exploratory Data Analysis?",
+    "What is the difference between structured and unstructured data?",
+    "What are primary and secondary data?",
+    "What is SQL and why is it important for Data Analysts?",
+    "What is a JOIN in SQL?",
+    "What is the difference between INNER JOIN and LEFT JOIN?",
+    "What is a dashboard?",
+    "What is KPI?",
+    "What is data wrangling?",
+    "What are missing values and how do you handle them?",
+    "What are outliers?",
+    "What is correlation?",
+    "What is hypothesis testing?",
+    "What is the difference between mean, median, and mode?",
+    "What is the difference between Data Analysis and Data Science?",
+    "How would you analyze declining sales in a company?",
+    "What is Power BI?",
+    "What is Tableau?",
+    "What are calculated columns and measures in Power BI?",
+    "What is DAX?",
+    "How do you optimize SQL queries?",
+    "What is normalization in databases?",
+    "How would you create a business report from raw data?",
+    "What is data storytelling?",
+    "How do you ensure data accuracy?",
+    "Describe an end-to-end data analysis project."
+  ],
+
+  "certifications": [
+    "Google Data Analytics Professional Certificate",
+    "IBM Data Analyst Professional Certificate",
+    "Microsoft Power BI Data Analyst Associate",
+    "Tableau Desktop Specialist",
+    "Data Analytics Professional Certificate (Coursera)",
+    "Microsoft Excel Expert Certification"
+  ],
+
+  "tools": [
     "Excel",
     "SQL",
+    "Python",
+    "Pandas",
+    "NumPy",
     "Power BI",
     "Tableau",
-    "Python",
-    "Data Cleaning"
+    "Google Sheets",
+    "Matplotlib",
+    "Seaborn",
+    "Jupyter Notebook"
   ],
-  "roadmap": [
-    "Learn Excel",
-    "Learn SQL",
-    "Learn Power BI",
-    "Learn Python",
-    "Build Dashboards"
+
+  "job_roles": [
+    "Data Analyst",
+    "Business Analyst",
+    "Reporting Analyst",
+    "Business Intelligence Analyst",
+    "Product Analyst",
+    "Operations Analyst",
+    "Financial Data Analyst"
   ],
-  "projects": [
-    "Sales Dashboard",
-    "HR Analytics Dashboard",
-    "Customer Insights Dashboard"
-  ]
+
+  "salary": {
+    "entry_level": "₹4-8 LPA",
+    "mid_level": "₹8-15 LPA",
+    "senior_level": "₹15-30+ LPA"
+  }
 }

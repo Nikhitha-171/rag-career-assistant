@@ -1,0 +1,160 @@
+{
+  "career": "Business Analyst",
+
+  "description": "A Business Analyst acts as a bridge between business stakeholders and technical teams. They analyze business processes, identify problems and opportunities, gather requirements, and recommend data-driven solutions to improve organizational performance and achieve business goals.",
+
+  "recommended_for": {
+    "interests": [
+      "Business Strategy",
+      "Data Analysis",
+      "Problem Solving",
+      "Business Intelligence",
+      "Project Management",
+      "Technology"
+    ],
+    "strengths": [
+      "Analytical Thinking",
+      "Communication Skills",
+      "Problem Solving",
+      "Critical Thinking",
+      "Attention to Detail",
+      "Leadership"
+    ]
+  },
+
+  "skills": {
+    "business_analysis": [
+      "Requirements Gathering",
+      "Business Process Modeling",
+      "Stakeholder Management",
+      "Gap Analysis",
+      "Documentation"
+    ],
+    "data_analysis": [
+      "Excel",
+      "SQL",
+      "Data Visualization",
+      "Reporting",
+      "Data Interpretation"
+    ],
+    "business_intelligence": [
+      "Power BI",
+      "Tableau",
+      "Dashboard Creation",
+      "KPI Analysis",
+      "Business Metrics"
+    ],
+    "project_management": [
+      "Agile Methodology",
+      "Scrum",
+      "JIRA",
+      "Risk Management",
+      "Project Planning"
+    ],
+    "communication": [
+      "Presentation Skills",
+      "Client Interaction",
+      "Negotiation",
+      "Report Writing"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Business Fundamentals",
+    "Develop Analytical Thinking Skills",
+    "Master Microsoft Excel",
+    "Learn SQL for Data Analysis",
+    "Study Business Process Modeling",
+    "Learn Requirements Gathering Techniques",
+    "Master Power BI or Tableau",
+    "Understand Agile and Scrum Methodologies",
+    "Work on Business Case Studies",
+    "Build Business Analysis Projects",
+    "Learn Stakeholder Management",
+    "Prepare for Business Analysis Certifications"
+  ],
+
+  "projects": [
+    "Sales Performance Analysis",
+    "Customer Retention Analysis",
+    "Business Process Improvement Study",
+    "Market Research Dashboard",
+    "Supply Chain Optimization Analysis",
+    "Customer Segmentation Project",
+    "Financial Performance Analysis",
+    "Business KPI Dashboard",
+    "E-Commerce Business Insights Report",
+    "End-to-End Business Intelligence Project"
+  ],
+
+  "interview_questions": [
+    "Who is a Business Analyst?",
+    "What are the responsibilities of a Business Analyst?",
+    "What is requirement gathering?",
+    "What is a business requirement document (BRD)?",
+    "What is a functional requirement document (FRD)?",
+    "What is gap analysis?",
+    "What is SWOT analysis?",
+    "What is stakeholder management?",
+    "What is business process modeling?",
+    "What is a use case?",
+    "What is Agile methodology?",
+    "What is Scrum?",
+    "What is the role of a Product Owner?",
+    "What is the difference between Agile and Waterfall?",
+    "Why is SQL important for Business Analysts?",
+    "What is data visualization?",
+    "What are KPIs?",
+    "How do you prioritize requirements?",
+    "What is user acceptance testing (UAT)?",
+    "What is risk analysis?",
+    "How do you handle conflicting stakeholder requirements?",
+    "What is a workflow diagram?",
+    "What is business intelligence?",
+    "What is Power BI?",
+    "What is Tableau?",
+    "How would you analyze declining sales?",
+    "How do you ensure requirements are clearly understood?",
+    "What metrics would you use to measure business performance?",
+    "Describe a business analysis project lifecycle.",
+    "How do you communicate technical information to non-technical stakeholders?"
+  ],
+
+  "certifications": [
+    "Entry Certificate in Business Analysis (ECBA)",
+    "Certified Business Analysis Professional (CBAP)",
+    "PMI Professional in Business Analysis (PMI-PBA)",
+    "Google Data Analytics Professional Certificate",
+    "Microsoft Power BI Data Analyst Associate",
+    "Business Analysis Fundamentals Certification"
+  ],
+
+  "tools": [
+    "Microsoft Excel",
+    "SQL",
+    "Power BI",
+    "Tableau",
+    "JIRA",
+    "Microsoft Visio",
+    "Lucidchart",
+    "Google Sheets",
+    "Confluence",
+    "Microsoft PowerPoint"
+  ],
+
+  "job_roles": [
+    "Business Analyst",
+    "Business Intelligence Analyst",
+    "Product Analyst",
+    "Operations Analyst",
+    "Systems Analyst",
+    "Functional Consultant",
+    "Strategy Analyst"
+  ],
+
+  "salary": {
+    "entry_level": "₹4-8 LPA",
+    "mid_level": "₹8-18 LPA",
+    "senior_level": "₹18-35+ LPA"
+  }
+}

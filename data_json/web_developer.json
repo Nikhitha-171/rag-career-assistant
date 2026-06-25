@@ -1,0 +1,163 @@
+{
+  "career": "Web Developer",
+
+  "description": "A Web Developer designs, builds, and maintains websites and web applications. They work with front-end and back-end technologies to create responsive, interactive, and user-friendly digital experiences.",
+
+  "recommended_for": {
+    "interests": [
+      "Web Development",
+      "Programming",
+      "UI/UX Design",
+      "Technology",
+      "Problem Solving",
+      "Software Development"
+    ],
+    "strengths": [
+      "Creativity",
+      "Logical Thinking",
+      "Problem Solving",
+      "Attention to Detail",
+      "Communication Skills",
+      "Continuous Learning"
+    ]
+  },
+
+  "skills": {
+    "frontend": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design",
+      "React",
+      "Bootstrap"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "Authentication",
+      "Server Management"
+    ],
+    "database": [
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "Database Design"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Chrome DevTools",
+      "Postman"
+    ],
+    "deployment": [
+      "Vercel",
+      "Netlify",
+      "Docker",
+      "Cloud Hosting",
+      "CI/CD Basics"
+    ]
+  },
+
+  "roadmap": [
+    "Learn HTML Fundamentals",
+    "Master CSS and Responsive Design",
+    "Learn JavaScript",
+    "Build Static Websites",
+    "Learn Git and GitHub",
+    "Learn React",
+    "Understand Backend Development with Node.js",
+    "Learn Databases",
+    "Build Full-Stack Applications",
+    "Learn Authentication and Security",
+    "Deploy Projects to the Cloud",
+    "Build a Professional Portfolio"
+  ],
+
+  "projects": [
+    "Personal Portfolio Website",
+    "Responsive Landing Page",
+    "To-Do List Application",
+    "Weather App",
+    "Blog Website",
+    "Expense Tracker",
+    "E-Commerce Website",
+    "Chat Application",
+    "Learning Management System",
+    "Full-Stack Social Media Platform"
+  ],
+
+  "interview_questions": [
+    "What is HTML?",
+    "What is the difference between HTML and HTML5?",
+    "What is CSS?",
+    "What is the box model in CSS?",
+    "What is responsive web design?",
+    "What is JavaScript?",
+    "What is the difference between let, const, and var?",
+    "What is the DOM?",
+    "What is event bubbling?",
+    "What are closures in JavaScript?",
+    "What is asynchronous programming?",
+    "What are promises in JavaScript?",
+    "What is async/await?",
+    "What is React?",
+    "What are React components?",
+    "What is the virtual DOM?",
+    "What is state in React?",
+    "What is Node.js?",
+    "What is Express.js?",
+    "What is REST API?",
+    "What is authentication?",
+    "What is authorization?",
+    "What is JWT?",
+    "What is SQL?",
+    "What is MongoDB?",
+    "What is the difference between SQL and NoSQL databases?",
+    "What is Git?",
+    "What is version control?",
+    "How would you optimize website performance?",
+    "How would you secure a web application?"
+  ],
+
+  "certifications": [
+    "Meta Front-End Developer Professional Certificate",
+    "Meta Back-End Developer Professional Certificate",
+    "The Web Developer Bootcamp",
+    "Responsive Web Design Certification",
+    "JavaScript Algorithms and Data Structures Certification",
+    "Full Stack Web Development Certification"
+  ],
+
+  "tools": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySQL",
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Postman"
+  ],
+
+  "job_roles": [
+    "Frontend Developer",
+    "Backend Developer",
+    "Full Stack Developer",
+    "Web Application Developer",
+    "JavaScript Developer",
+    "React Developer",
+    "Software Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹4-8 LPA",
+    "mid_level": "₹8-18 LPA",
+    "senior_level": "₹18-40+ LPA"
+  }
+}

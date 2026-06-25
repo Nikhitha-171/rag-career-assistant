@@ -1,0 +1,168 @@
+{
+  "career": "Cloud Engineer",
+
+  "description": "A Cloud Engineer designs, deploys, manages, and maintains cloud-based infrastructure and services. They help organizations build scalable, secure, and cost-effective solutions using cloud platforms such as AWS, Azure, and Google Cloud.",
+
+  "recommended_for": {
+    "interests": [
+      "Cloud Computing",
+      "Networking",
+      "System Administration",
+      "DevOps",
+      "Infrastructure",
+      "Technology"
+    ],
+    "strengths": [
+      "Problem Solving",
+      "Logical Thinking",
+      "Analytical Skills",
+      "Attention to Detail",
+      "Continuous Learning",
+      "System Design"
+    ]
+  },
+
+  "skills": {
+    "cloud_platforms": [
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud Platform",
+      "Cloud Architecture",
+      "Cloud Services"
+    ],
+    "networking": [
+      "TCP/IP",
+      "DNS",
+      "Load Balancing",
+      "Virtual Private Clouds",
+      "Network Security"
+    ],
+    "operating_systems": [
+      "Linux",
+      "Windows Server",
+      "Shell Scripting",
+      "System Administration"
+    ],
+    "devops": [
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Infrastructure as Code",
+      "Monitoring"
+    ],
+    "programming": [
+      "Python",
+      "Bash",
+      "PowerShell",
+      "SQL Basics"
+    ],
+    "security": [
+      "Identity and Access Management",
+      "Cloud Security",
+      "Encryption",
+      "Compliance",
+      "Risk Management"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Computer Networking Fundamentals",
+    "Learn Linux Administration",
+    "Understand Cloud Computing Concepts",
+    "Learn AWS, Azure, or Google Cloud",
+    "Study Cloud Storage and Databases",
+    "Learn Virtualization Concepts",
+    "Master Docker and Containers",
+    "Learn Kubernetes",
+    "Study Infrastructure as Code",
+    "Learn Cloud Security Best Practices",
+    "Build Cloud-Based Projects",
+    "Prepare for Cloud Certifications"
+  ],
+
+  "projects": [
+    "Static Website Hosting on Cloud",
+    "Cloud File Storage System",
+    "Serverless Web Application",
+    "Cloud Monitoring Dashboard",
+    "Containerized Application Deployment",
+    "Automated Backup Solution",
+    "Multi-Tier Cloud Architecture",
+    "Cloud Cost Optimization Dashboard",
+    "Kubernetes Cluster Deployment",
+    "Scalable E-Commerce Infrastructure"
+  ],
+
+  "interview_questions": [
+    "What is cloud computing?",
+    "What are the different cloud service models?",
+    "What is the difference between IaaS, PaaS, and SaaS?",
+    "What are the benefits of cloud computing?",
+    "What is virtualization?",
+    "What is a Virtual Private Cloud (VPC)?",
+    "What is load balancing?",
+    "What is auto-scaling?",
+    "What is cloud storage?",
+    "What is object storage?",
+    "What is Docker?",
+    "What is Kubernetes?",
+    "What is Infrastructure as Code?",
+    "What is Terraform?",
+    "What is CI/CD?",
+    "What is serverless computing?",
+    "What is AWS Lambda?",
+    "What is Identity and Access Management (IAM)?",
+    "What is cloud security?",
+    "How do you secure cloud resources?",
+    "What is disaster recovery in the cloud?",
+    "What is high availability?",
+    "What is fault tolerance?",
+    "What is a content delivery network (CDN)?",
+    "What is monitoring and logging in cloud environments?",
+    "How do you optimize cloud costs?",
+    "What is container orchestration?",
+    "What is the shared responsibility model?",
+    "How would you migrate an application to the cloud?",
+    "How would you design a scalable cloud architecture?"
+  ],
+
+  "certifications": [
+    "AWS Certified Cloud Practitioner",
+    "AWS Certified Solutions Architect Associate",
+    "Microsoft Azure Fundamentals",
+    "Microsoft Azure Administrator Associate",
+    "Google Associate Cloud Engineer",
+    "Certified Kubernetes Administrator (CKA)"
+  ],
+
+  "tools": [
+    "AWS",
+    "Microsoft Azure",
+    "Google Cloud Platform",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "Git",
+    "Prometheus",
+    "Grafana",
+    "Linux",
+    "Ansible"
+  ],
+
+  "job_roles": [
+    "Cloud Engineer",
+    "Cloud Administrator",
+    "Cloud Architect",
+    "DevOps Engineer",
+    "Site Reliability Engineer",
+    "Infrastructure Engineer",
+    "Cloud Security Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹5-10 LPA",
+    "mid_level": "₹10-20 LPA",
+    "senior_level": "₹20-50+ LPA"
+  }
+}
