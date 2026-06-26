@@ -5,13 +5,18 @@
 
   "recommended_for": {
     "interests": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science",
-      "Programming",
-      "Research",
-      "Automation"
-    ],
+     "Artificial Intelligence",
+     "AI",
+     "Machine Learning",
+     "Deep Learning",
+     "Data Science",
+     "Programming",
+     "Coding",
+     "Mathematics",
+     "Statistics",
+     "Research",
+     "Automation"
+   ],
     "strengths": [
       "Logical Thinking",
       "Problem Solving",

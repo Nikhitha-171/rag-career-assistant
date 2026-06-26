@@ -39,6 +39,99 @@ for career in careers.values():
     st.sidebar.write("• " + career["career"])
 
 # ==========================
+# CAREER RECOMMENDATION ENGINE
+# ==========================
+
+st.sidebar.markdown("---")
+st.sidebar.title("🎯 Find Your Career")
+
+user_interests = st.sidebar.text_area(
+    "Enter your interests and strengths",
+    placeholder="Example: Coding, AI, Mathematics, Statistics"
+)
+
+if st.sidebar.button("Recommend Careers"):
+
+    user_text = user_interests.lower()
+
+    keyword_map = {
+        "ai": "artificial intelligence",
+        "coding": "programming",
+        "math": "mathematics",
+        "ml": "machine learning",
+        "cyber security": "cybersecurity",
+        "biz": "business"
+    }
+
+    for short, full in keyword_map.items():
+        user_text = user_text.replace(short, full)
+
+    user_keywords = [
+        word.strip().lower()
+        for word in user_text.split(",")
+    ]
+
+    scores = []
+
+    for career in careers.values():
+
+        score = 0
+
+        recommendations = career.get("recommended_for", {})
+
+        interests = recommendations.get("interests", [])
+        strengths = recommendations.get("strengths", [])
+
+        # Match interests
+        for interest in interests:
+
+            interest_lower = interest.lower()
+
+            for keyword in user_keywords:
+
+                if (
+                    keyword in interest_lower
+                    or interest_lower in keyword
+                ):
+                    score += 2
+                    break
+
+        # Match strengths
+        for strength in strengths:
+
+            strength_lower = strength.lower()
+
+            for keyword in user_keywords:
+
+                if (
+                    keyword in strength_lower
+                    or strength_lower in keyword
+                ):
+                    score += 1
+                    break
+
+        scores.append((career["career"], score))
+
+    scores.sort(key=lambda x: x[1], reverse=True)
+
+    st.sidebar.subheader("🏆 Top Career Matches")
+
+    found_match = False
+
+    for career_name, score in scores[:3]:
+
+        if score > 0:
+            found_match = True
+            st.sidebar.success(
+                f"{career_name} - Match Score: {score}"
+            )
+
+    if not found_match:
+        st.sidebar.warning(
+            "No matching careers found. Try entering more interests."
+        )
+
+# ==========================
 # CHAT INPUT
 # ==========================
 
