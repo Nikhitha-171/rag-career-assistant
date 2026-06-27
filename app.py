@@ -1,5 +1,6 @@
 import streamlit as st
 import json
+import pandas as pd
 from pathlib import Path
 
 # ==========================
@@ -144,16 +145,62 @@ if question:
 
     q = question.lower()
 
-    selected_career = None
+    matched_careers = []
 
-    for career_name in careers:
+    for career_name, career_data in careers.items():
+
         if career_name in q:
-            selected_career = careers[career_name]
-            break
+             matched_careers.append(career_data)
+
+    selected_career = matched_careers[0] if matched_careers else None
 
     with st.chat_message("assistant"):
+       
+       if (
+        ("compare" in q or "vs" in q)
+        and len(matched_careers) == 2
+       ):
+        
+          career1 = matched_careers[0]
+          career2 = matched_careers[1]
 
-        if selected_career:
+          comparison = {
+           "Feature": [
+             "Career",
+             "Focus",
+             "Mid Salary",
+             "Key Skills",
+             "Tools",
+             "Projects"
+           ],
+
+           career1["career"]: [
+              career1["career"],
+              career1["description"][:60] + "...",
+              career1["salary"]["mid_level"],
+              ", ".join(list(career1["skills"].keys())[:3]),
+              ", ".join(career1["tools"][:4]),
+              ", ".join(career1["projects"][:3])
+           ],
+
+           career2["career"]: [
+              career2["career"],
+              career2["description"][:60] + "...",
+              career2["salary"]["mid_level"],
+              ", ".join(list(career2["skills"].keys())[:3]),
+              ", ".join(career2["tools"][:4]),
+              ", ".join(career2["projects"][:3])
+           ]
+          }
+
+          st.subheader("⚖️ Career Comparison")
+
+          df = pd.DataFrame(comparison)
+
+          st.table(df)
+
+
+       elif selected_career:
 
             # ==========================
             # DESCRIPTION
@@ -334,7 +381,7 @@ if question:
                     for category in skills.keys():
                         st.write("•", category.replace("_", " ").title())
 
-        else:
+       else:
 
             st.warning(
                 "Career not found.\n\n"
