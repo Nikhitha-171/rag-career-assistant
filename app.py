@@ -133,6 +133,71 @@ if st.sidebar.button("Recommend Careers"):
         )
 
 # ==========================
+# SKILL GAP ANALYZER
+# ==========================
+
+st.sidebar.markdown("---")
+st.sidebar.title("📈 Skill Gap Analyzer")
+
+target_career = st.sidebar.selectbox(
+    "Target Career",
+    [career["career"] for career in careers.values()]
+)
+
+user_skills = st.sidebar.text_area(
+    "Your Current Skills",
+    placeholder="Python, SQL, Pandas"
+)
+
+if st.sidebar.button("Analyze Skills"):
+
+    selected = None
+
+    for career in careers.values():
+
+        if career["career"] == target_career:
+            selected = career
+            break
+
+    required_skills = []
+
+    for category in selected["skills"].values():
+        required_skills.extend(category)
+
+    user_skill_list = [
+        skill.strip().lower()
+        for skill in user_skills.split(",")
+    ]
+
+    have_skills = []
+    missing_skills = []
+
+    for skill in required_skills:
+
+        if skill.lower() in user_skill_list:
+            have_skills.append(skill)
+        else:
+            missing_skills.append(skill)
+
+    score = int(
+        (len(have_skills) / len(required_skills)) * 100
+    )
+
+    st.sidebar.success(
+        f"Readiness Score: {score}%"
+    )
+
+    st.sidebar.write("### ✅ Skills You Have")
+
+    for skill in have_skills:
+        st.sidebar.write("•", skill)
+
+    st.sidebar.write("### ❌ Missing Skills")
+
+    for skill in missing_skills:
+        st.sidebar.write("•", skill)
+
+# ==========================
 # CHAT INPUT
 # ==========================
 
@@ -144,6 +209,17 @@ if question:
         st.write(question)
 
     q = question.lower()
+    career_aliases = {
+    "ml engineer": "machine learning engineer",
+    "ai engineer": "artificial intelligence engineer",
+    "data analyst": "data analyst",
+    "data scientist": "data scientist",
+    "web developer": "web developer",
+    "cybersecurity": "cybersecurity analyst"
+    }
+
+    for alias, full_name in career_aliases.items():
+        q = q.replace(alias, full_name)
 
     matched_careers = []
 
@@ -165,32 +241,56 @@ if question:
           career2 = matched_careers[1]
 
           comparison = {
-           "Feature": [
-             "Career",
-             "Focus",
-             "Mid Salary",
-             "Key Skills",
-             "Tools",
-             "Projects"
-           ],
+            "Feature": [
+              "Career",
+              "Mid Salary",
+              "Top Skills",
+              "Tools",
+              "Certifications",
+              "Job Roles"
+            ],
 
-           career1["career"]: [
+            career1["career"]: [
               career1["career"],
-              career1["description"][:60] + "...",
               career1["salary"]["mid_level"],
-              ", ".join(list(career1["skills"].keys())[:3]),
-              ", ".join(career1["tools"][:4]),
-              ", ".join(career1["projects"][:3])
-           ],
 
-           career2["career"]: [
-              career2["career"],
-              career2["description"][:60] + "...",
-              career2["salary"]["mid_level"],
-              ", ".join(list(career2["skills"].keys())[:3]),
-              ", ".join(career2["tools"][:4]),
-              ", ".join(career2["projects"][:3])
-           ]
+              ", ".join(
+                list(career1["skills"].keys())[:3]
+              ),
+
+              ", ".join(
+                career1["tools"][:5]
+              ),
+
+              ", ".join(
+                career1["certifications"][:3]
+              ),
+
+              ", ".join(
+                career1["job_roles"][:3]
+              )
+            ],
+
+            career2["career"]: [
+               career2["career"],
+               career2["salary"]["mid_level"],
+
+               ", ".join(
+                 list(career2["skills"].keys())[:3]
+               ),
+
+               ", ".join(
+                 career2["tools"][:5]
+               ),
+
+               ", ".join(
+                 career2["certifications"][:3]
+               ),
+
+               ", ".join(
+                 career2["job_roles"][:3]
+               )
+            ]
           }
 
           st.subheader("⚖️ Career Comparison")
