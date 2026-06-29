@@ -192,11 +192,24 @@ if st.sidebar.button("Analyze Skills"):
     for skill in have_skills:
         st.sidebar.write("•", skill)
 
-    st.sidebar.write("### ❌ Missing Skills")
+    st.sidebar.write("### 🚀 Next Skills To Learn")
 
-    for skill in missing_skills:
-        st.sidebar.write("•", skill)
+    for i, skill in enumerate(missing_skills, start=1):
+        st.sidebar.write(f"{i}. {skill}")
+    if score < 30:
+       st.sidebar.warning(
+        "Beginner Level - Focus on fundamentals."
+       )
 
+    elif score < 70:
+       st.sidebar.info(
+        "Intermediate Level - Build projects and strengthen skills."
+       )
+
+    else:
+       st.sidebar.success(
+        "Job Ready - Focus on internships and interview preparation."
+       )
 # ==========================
 # CHAT INPUT
 # ==========================
