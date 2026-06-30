@@ -1,15 +1,15 @@
 {
   "career": "Data Analyst",
 
-  "description": "A Data Analyst collects, cleans, analyzes, and visualizes data to help organizations make informed business decisions. They identify trends, generate reports, and provide actionable insights using data analysis tools and techniques.",
+  "description": "A Data Analyst collects, cleans, analyzes, and visualizes data to help organizations make informed business decisions. They identify trends, generate reports, create dashboards, and provide actionable insights using analytical and statistical techniques.",
 
   "recommended_for": {
     "interests": [
       "Data Analysis",
       "Business Intelligence",
       "Statistics",
-      "Problem Solving",
       "Data Visualization",
+      "Problem Solving",
       "Decision Making"
     ],
     "strengths": [
@@ -17,104 +17,108 @@
       "Attention to Detail",
       "Logical Reasoning",
       "Communication Skills",
-      "Problem Solving",
+      "Critical Thinking",
       "Curiosity"
     ]
   },
 
   "skills": {
-    "programming": [
-      "Python",
-      "SQL",
-      "Pandas",
-      "NumPy"
-    ],
     "data_analysis": [
       "Data Cleaning",
       "Data Wrangling",
       "Exploratory Data Analysis",
-      "Statistical Analysis",
-      "Data Interpretation"
+      "Data Interpretation",
+      "Reporting"
     ],
-    "data_visualization": [
-      "Power BI",
-      "Tableau",
-      "Excel Charts",
-      "Matplotlib",
-      "Seaborn"
+    "programming": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "Excel"
     ],
     "statistics": [
       "Descriptive Statistics",
       "Probability",
       "Hypothesis Testing",
-      "Correlation Analysis"
+      "Correlation Analysis",
+      "A/B Testing"
     ],
-    "business_skills": [
-      "Reporting",
-      "Dashboard Creation",
-      "Business Intelligence",
-      "Data Storytelling"
+    "data_visualization": [
+      "Power BI",
+      "Tableau",
+      "Matplotlib",
+      "Seaborn",
+      "Dashboard Design"
+    ],
+    "business_intelligence": [
+      "KPI Analysis",
+      "Business Metrics",
+      "Data Storytelling",
+      "Business Reporting"
     ]
   },
 
   "roadmap": [
     "Learn Advanced Excel",
-    "Learn SQL Fundamentals",
-    "Master Data Cleaning Techniques",
+    "Master SQL Fundamentals",
     "Learn Statistics for Data Analysis",
-    "Learn Python for Data Analysis",
+    "Study Data Cleaning Techniques",
+    "Learn Python Programming",
     "Master Pandas and NumPy",
     "Perform Exploratory Data Analysis",
     "Learn Data Visualization",
-    "Build Interactive Dashboards using Power BI or Tableau",
-    "Work on Real-World Data Analysis Projects",
-    "Learn Business Intelligence Concepts",
-    "Build a Strong Portfolio"
+    "Build Dashboards with Power BI",
+    "Learn Tableau",
+    "Work on Real-World Datasets",
+    "Build a Data Analytics Portfolio",
+    "Study Business Intelligence Concepts",
+    "Prepare for Data Analyst Interviews"
   ],
 
   "projects": [
     "Sales Performance Dashboard",
     "Customer Segmentation Analysis",
-    "E-commerce Data Analysis",
-    "COVID-19 Data Analysis",
-    "Retail Store Analytics",
-    "HR Employee Attrition Analysis",
     "Netflix Data Analysis",
+    "E-Commerce Data Analysis",
+    "Retail Store Analytics Dashboard",
+    "COVID-19 Data Analysis",
     "Financial Performance Dashboard",
+    "HR Employee Attrition Analysis",
     "Marketing Campaign Analysis",
     "Business Intelligence Reporting System"
   ],
 
   "interview_questions": [
-    "What is Data Analysis?",
+    "What is data analysis?",
     "What is the role of a Data Analyst?",
     "What is data cleaning?",
-    "Why is data visualization important?",
-    "What is Exploratory Data Analysis?",
+    "What is Exploratory Data Analysis (EDA)?",
     "What is the difference between structured and unstructured data?",
-    "What are primary and secondary data?",
-    "What is SQL and why is it important for Data Analysts?",
+    "What are primary and secondary data sources?",
+    "Why is SQL important for Data Analysts?",
     "What is a JOIN in SQL?",
     "What is the difference between INNER JOIN and LEFT JOIN?",
+    "What is normalization in databases?",
     "What is a dashboard?",
-    "What is KPI?",
+    "What are KPIs?",
     "What is data wrangling?",
     "What are missing values and how do you handle them?",
     "What are outliers?",
     "What is correlation?",
     "What is hypothesis testing?",
     "What is the difference between mean, median, and mode?",
-    "What is the difference between Data Analysis and Data Science?",
-    "How would you analyze declining sales in a company?",
+    "What is standard deviation?",
+    "What is data visualization?",
     "What is Power BI?",
     "What is Tableau?",
-    "What are calculated columns and measures in Power BI?",
-    "What is DAX?",
-    "How do you optimize SQL queries?",
-    "What is normalization in databases?",
-    "How would you create a business report from raw data?",
-    "What is data storytelling?",
+    "What is DAX in Power BI?",
+    "What is a calculated column?",
+    "What is the difference between Data Analysis and Data Science?",
+    "How would you analyze declining sales?",
     "How do you ensure data accuracy?",
+    "What is data storytelling?",
+    "How would you create a report from raw data?",
     "Describe an end-to-end data analysis project."
   ],
 
@@ -123,9 +127,40 @@
     "IBM Data Analyst Professional Certificate",
     "Microsoft Power BI Data Analyst Associate",
     "Tableau Desktop Specialist",
-    "Data Analytics Professional Certificate (Coursera)",
+    "Data Analytics Professional Certificate",
     "Microsoft Excel Expert Certification"
   ],
+
+  "learning_resources": {
+    "youtube": [
+      "Alex The Analyst",
+      "Luke Barousse",
+      "Ken Jee",
+      "Simplilearn",
+      "freeCodeCamp"
+    ],
+    "courses": [
+      "Google Data Analytics Professional Certificate",
+      "IBM Data Analyst Professional Certificate",
+      "Microsoft Power BI Data Analyst Learning Path",
+      "SQL for Data Analysis",
+      "Data Analyst Bootcamp"
+    ],
+    "websites": [
+      "Kaggle",
+      "DataCamp",
+      "Coursera",
+      "Analytics Vidhya",
+      "Microsoft Learn"
+    ],
+    "books": [
+      "Storytelling with Data",
+      "Python for Data Analysis",
+      "Practical Statistics for Data Scientists",
+      "Data Analytics Made Accessible",
+      "Naked Statistics"
+    ]
+  },
 
   "tools": [
     "Excel",
@@ -135,17 +170,17 @@
     "NumPy",
     "Power BI",
     "Tableau",
-    "Google Sheets",
     "Matplotlib",
     "Seaborn",
+    "Google Sheets",
     "Jupyter Notebook"
   ],
 
   "job_roles": [
     "Data Analyst",
     "Business Analyst",
-    "Reporting Analyst",
     "Business Intelligence Analyst",
+    "Reporting Analyst",
     "Product Analyst",
     "Operations Analyst",
     "Financial Data Analyst"

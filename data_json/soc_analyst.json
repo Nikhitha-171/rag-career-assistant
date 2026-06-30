@@ -1,0 +1,201 @@
+{
+  "career": "SOC Analyst",
+
+  "description": "A Security Operations Center (SOC) Analyst monitors, detects, investigates, and responds to cybersecurity threats and incidents. They use security tools, threat intelligence, and incident response procedures to protect an organization's systems, networks, and data from cyber attacks.",
+  
+  "recommended_for": {
+    "interests": [
+      "Cybersecurity",
+      "Threat Detection",
+      "Incident Response",
+      "Digital Forensics",
+      "Networking",
+      "Security Operations"
+    ],
+    "strengths": [
+      "Analytical Thinking",
+      "Attention to Detail",
+      "Problem Solving",
+      "Critical Thinking",
+      "Patience",
+      "Curiosity"
+    ]
+  },
+
+  "skills": {
+    "security_fundamentals": [
+      "CIA Triad",
+      "Risk Management",
+      "Security Controls",
+      "Threat Modeling",
+      "Cybersecurity Fundamentals"
+    ],
+    "network_security": [
+      "TCP/IP",
+      "DNS",
+      "Firewalls",
+      "VPN",
+      "Network Traffic Analysis"
+    ],
+    "incident_response": [
+      "Incident Detection",
+      "Incident Triage",
+      "Containment",
+      "Eradication",
+      "Recovery Procedures"
+    ],
+    "threat_detection": [
+      "SIEM Monitoring",
+      "Log Analysis",
+      "Threat Hunting",
+      "Threat Intelligence",
+      "IOC Analysis"
+    ],
+    "operating_systems": [
+      "Windows Security",
+      "Linux Administration",
+      "System Hardening",
+      "Access Control"
+    ],
+    "scripting": [
+      "Python",
+      "PowerShell",
+      "Bash",
+      "Automation Basics"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Computer Fundamentals",
+    "Master Networking Concepts",
+    "Learn Linux Administration",
+    "Understand Windows Security",
+    "Study Cybersecurity Fundamentals",
+    "Learn Security Monitoring Concepts",
+    "Study SIEM Tools",
+    "Learn Incident Response Procedures",
+    "Practice Log Analysis",
+    "Learn Threat Intelligence",
+    "Study Threat Hunting Techniques",
+    "Understand Digital Forensics Basics",
+    "Build SOC Projects",
+    "Prepare for SOC and Security Certifications"
+  ],
+
+  "projects": [
+    "SIEM Log Monitoring Dashboard",
+    "Network Traffic Analysis Project",
+    "Threat Intelligence Platform",
+    "Security Incident Response Lab",
+    "Malware Detection System",
+    "Windows Event Log Analyzer",
+    "Security Alert Correlation Tool",
+    "Phishing Detection System",
+    "SOC Automation Script",
+    "Blue Team Home Lab"
+  ],
+
+  "interview_questions": [
+    "What is a Security Operations Center (SOC)?",
+    "What are the responsibilities of a SOC Analyst?",
+    "What is the CIA Triad?",
+    "What is a SIEM?",
+    "What is incident response?",
+    "What is threat intelligence?",
+    "What is a firewall?",
+    "What is a VPN?",
+    "What is malware?",
+    "What is ransomware?",
+    "What is phishing?",
+    "What are Indicators of Compromise (IOCs)?",
+    "What is log analysis?",
+    "What are Windows Event Logs?",
+    "What is network packet analysis?",
+    "What is threat hunting?",
+    "What is a false positive alert?",
+    "What is a brute force attack?",
+    "What is privilege escalation?",
+    "What is lateral movement?",
+    "What is a DDoS attack?",
+    "What is endpoint security?",
+    "What is EDR?",
+    "What is XDR?",
+    "What is MITRE ATT&CK?",
+    "What is digital forensics?",
+    "How would you investigate a suspicious login?",
+    "How would you handle a malware infection?",
+    "What steps are involved in incident response?",
+    "How do you prioritize security alerts?"
+  ],
+
+  "certifications": [
+    "CompTIA Security+",
+    "CompTIA CySA+",
+    "Microsoft Security Operations Analyst (SC-200)",
+    "Certified SOC Analyst (CSA)",
+    "GIAC Certified Incident Handler (GCIH)",
+    "Blue Team Level 1 (BTL1)"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "John Hammond",
+      "NetworkChuck",
+      "The Cyber Mentor",
+      "David Bombal",
+      "HackerSploit"
+    ],
+    "courses": [
+      "Google Cybersecurity Professional Certificate",
+      "SOC Analyst Training",
+      "CompTIA Security+ Course",
+      "Microsoft SC-200 Training",
+      "Blue Team Level 1 Training"
+    ],
+    "websites": [
+      "TryHackMe",
+      "Hack The Box",
+      "Blue Team Labs Online",
+      "Cybrary",
+      "Microsoft Learn"
+    ],
+    "books": [
+      "Blue Team Handbook",
+      "Practical Malware Analysis",
+      "Incident Response and Computer Forensics",
+      "CompTIA Security+ Study Guide",
+      "The Practice of Network Security Monitoring"
+    ]
+  },
+
+  "tools": [
+    "Splunk",
+    "Microsoft Sentinel",
+    "QRadar",
+    "Wireshark",
+    "Sysmon",
+    "Snort",
+    "Suricata",
+    "CrowdStrike",
+    "Microsoft Defender",
+    "Elastic Stack",
+    "Nmap",
+    "VirusTotal"
+  ],
+
+  "job_roles": [
+    "SOC Analyst",
+    "Cybersecurity Analyst",
+    "Security Operations Analyst",
+    "Incident Response Analyst",
+    "Threat Hunter",
+    "Blue Team Analyst",
+    "Security Monitoring Analyst"
+  ],
+
+  "salary": {
+    "entry_level": "₹4-8 LPA",
+    "mid_level": "₹8-18 LPA",
+    "senior_level": "₹18-40+ LPA"
+  }
+}

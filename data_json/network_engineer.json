@@ -1,0 +1,203 @@
+{
+  "career": "Network Engineer",
+
+  "description": "A Network Engineer designs, implements, manages, and maintains computer networks that enable communication between devices, applications, and users. They ensure network performance, reliability, scalability, and security across enterprise, cloud, and data center environments.",
+
+  "recommended_for": {
+    "interests": [
+      "Computer Networks",
+      "Cybersecurity",
+      "Cloud Computing",
+      "Infrastructure",
+      "Technology",
+      "Problem Solving"
+    ],
+    "strengths": [
+      "Analytical Thinking",
+      "Logical Reasoning",
+      "Troubleshooting",
+      "Attention to Detail",
+      "Critical Thinking",
+      "Patience"
+    ]
+  },
+
+  "skills": {
+    "networking_fundamentals": [
+      "OSI Model",
+      "TCP/IP",
+      "Subnetting",
+      "IPv4",
+      "IPv6"
+    ],
+    "routing_switching": [
+      "Static Routing",
+      "Dynamic Routing",
+      "VLANs",
+      "STP",
+      "Inter-VLAN Routing"
+    ],
+    "network_protocols": [
+      "DNS",
+      "DHCP",
+      "HTTP/HTTPS",
+      "FTP",
+      "SNMP"
+    ],
+    "network_security": [
+      "Firewalls",
+      "VPN",
+      "Access Control Lists",
+      "IDS/IPS",
+      "Network Hardening"
+    ],
+    "cloud_networking": [
+      "AWS Networking",
+      "Azure Networking",
+      "Virtual Networks",
+      "Load Balancers",
+      "Hybrid Cloud Connectivity"
+    ],
+    "automation": [
+      "Python",
+      "Ansible",
+      "Network Automation",
+      "Linux Basics",
+      "Scripting"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Computer Fundamentals",
+    "Understand OSI and TCP/IP Models",
+    "Master IPv4 and Subnetting",
+    "Learn Routing and Switching Concepts",
+    "Study Network Protocols",
+    "Learn Cisco Networking Basics",
+    "Practice Network Configuration",
+    "Study Network Security Fundamentals",
+    "Learn Wireless Networking",
+    "Understand Cloud Networking",
+    "Learn Network Monitoring Tools",
+    "Study Network Automation",
+    "Build Networking Lab Projects",
+    "Prepare for Industry Certifications"
+  ],
+
+  "projects": [
+    "Small Office Network Design",
+    "VLAN Configuration Project",
+    "Enterprise Network Simulation",
+    "Network Traffic Monitoring Dashboard",
+    "Secure VPN Deployment",
+    "Wireless Network Setup",
+    "Network Automation with Python",
+    "Cloud Network Architecture Design",
+    "Multi-Site Branch Network Setup",
+    "Data Center Network Simulation"
+  ],
+
+  "interview_questions": [
+    "What is a Network Engineer?",
+    "What is the OSI model?",
+    "What is the TCP/IP model?",
+    "What is the difference between a hub, switch, and router?",
+    "What is subnetting?",
+    "What is an IP address?",
+    "What is the difference between IPv4 and IPv6?",
+    "What is a VLAN?",
+    "What is a MAC address?",
+    "What is DNS?",
+    "What is DHCP?",
+    "What is NAT?",
+    "What is a firewall?",
+    "What is a VPN?",
+    "What is routing?",
+    "What is the difference between static and dynamic routing?",
+    "What is OSPF?",
+    "What is BGP?",
+    "What is STP?",
+    "What is load balancing?",
+    "What is packet switching?",
+    "What is network latency?",
+    "What is bandwidth?",
+    "What is QoS?",
+    "What is SNMP?",
+    "What is network monitoring?",
+    "How would you troubleshoot a network outage?",
+    "How would you secure an enterprise network?",
+    "What is network automation?",
+    "Explain a networking project you have worked on."
+  ],
+
+  "certifications": [
+    "Cisco Certified Network Associate (CCNA)",
+    "Cisco Certified Network Professional (CCNP)",
+    "CompTIA Network+",
+    "Juniper Networks Certified Associate (JNCIA)",
+    "AWS Certified Advanced Networking",
+    "Microsoft Azure Network Engineer Associate"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "Jeremy's IT Lab",
+      "NetworkChuck",
+      "David Bombal",
+      "Keith Barker",
+      "PowerCert Animated Videos"
+    ],
+    "courses": [
+      "CCNA Complete Course",
+      "CompTIA Network+ Training",
+      "AWS Advanced Networking",
+      "Network Automation with Python",
+      "Cisco Packet Tracer Labs"
+    ],
+    "websites": [
+      "Cisco Networking Academy",
+      "NetworkLessons",
+      "Practical Networking",
+      "Microsoft Learn",
+      "AWS Training"
+    ],
+    "books": [
+      "CCNA 200-301 Official Cert Guide",
+      "Computer Networking: A Top-Down Approach",
+      "Network Warrior",
+      "TCP/IP Illustrated",
+      "CompTIA Network+ Study Guide"
+    ]
+  },
+
+  "tools": [
+    "Cisco Packet Tracer",
+    "Wireshark",
+    "GNS3",
+    "Cisco IOS",
+    "PuTTY",
+    "SolarWinds",
+    "Nagios",
+    "Ansible",
+    "Nmap",
+    "Python",
+    "AWS",
+    "Azure"
+  ],
+
+  "job_roles": [
+    "Network Engineer",
+    "Network Administrator",
+    "Network Security Engineer",
+    "Cloud Network Engineer",
+    "Infrastructure Engineer",
+    "NOC Engineer",
+    "Wireless Network Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹4-8 LPA",
+    "mid_level": "₹8-18 LPA",
+    "senior_level": "₹18-45+ LPA"
+  }
+}

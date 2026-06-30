@@ -1,23 +1,23 @@
 {
   "career": "Data Scientist",
 
-  "description": "A Data Scientist collects, analyzes, and interprets large amounts of data to uncover insights, solve business problems, and support data-driven decision-making using statistics, machine learning, and visualization techniques.",
+  "description": "A Data Scientist collects, processes, and analyzes large volumes of data to extract insights, build predictive models, and support data-driven decision-making. They combine statistics, machine learning, programming, and business knowledge to solve complex problems.",
 
   "recommended_for": {
     "interests": [
-      "Data Analysis",
+      "Data Science",
       "Machine Learning",
-      "Statistics",
       "Artificial Intelligence",
-      "Business Intelligence",
-      "Research"
+      "Statistics",
+      "Research",
+      "Problem Solving"
     ],
     "strengths": [
       "Analytical Thinking",
-      "Problem Solving",
-      "Curiosity",
-      "Statistical Reasoning",
+      "Mathematical Aptitude",
       "Critical Thinking",
+      "Curiosity",
+      "Problem Solving",
       "Attention to Detail"
     ]
   },
@@ -27,14 +27,14 @@
       "Python",
       "R",
       "SQL",
-      "NumPy",
-      "Pandas"
+      "Pandas",
+      "NumPy"
     ],
     "statistics": [
       "Probability",
       "Hypothesis Testing",
-      "Statistical Analysis",
       "Regression Analysis",
+      "Statistical Modeling",
       "A/B Testing"
     ],
     "machine_learning": [
@@ -42,7 +42,7 @@
       "Unsupervised Learning",
       "Feature Engineering",
       "Model Evaluation",
-      "Ensemble Learning"
+      "Ensemble Methods"
     ],
     "data_visualization": [
       "Matplotlib",
@@ -51,60 +51,58 @@
       "Tableau",
       "Power BI"
     ],
-    "data_handling": [
+    "data_engineering": [
       "Data Cleaning",
       "Data Wrangling",
-      "Exploratory Data Analysis",
-      "Data Collection"
-    ],
-    "big_data": [
-      "Apache Spark",
-      "Hadoop",
-      "Data Pipelines"
+      "ETL Processes",
+      "Data Pipelines",
+      "Big Data Fundamentals"
     ]
   },
 
   "roadmap": [
     "Learn Python Programming",
-    "Master SQL for Data Analysis",
+    "Master SQL Fundamentals",
     "Study Statistics and Probability",
-    "Learn NumPy and Pandas",
+    "Learn Pandas and NumPy",
     "Perform Exploratory Data Analysis",
     "Learn Data Visualization",
     "Study Machine Learning Algorithms",
-    "Build Data Science Projects",
-    "Learn Big Data Technologies",
-    "Develop Business Understanding",
-    "Create End-to-End Data Science Projects",
-    "Learn Model Deployment Basics"
+    "Build Machine Learning Projects",
+    "Learn Feature Engineering",
+    "Study Deep Learning Fundamentals",
+    "Learn Big Data Concepts",
+    "Work on End-to-End Data Science Projects",
+    "Build a Strong Portfolio",
+    "Prepare for Data Science Interviews"
   ],
 
   "projects": [
-    "Titanic Survival Prediction",
     "House Price Prediction",
-    "Customer Segmentation",
-    "Sales Data Analysis Dashboard",
     "Customer Churn Prediction",
-    "Credit Risk Analysis",
+    "Credit Card Fraud Detection",
+    "Sales Forecasting System",
+    "Customer Segmentation Analysis",
     "Movie Recommendation System",
     "Stock Market Analysis",
-    "Fraud Detection System",
-    "End-to-End Business Analytics Project"
+    "Sentiment Analysis Tool",
+    "Medical Diagnosis Prediction System",
+    "End-to-End Data Science Pipeline"
   ],
 
   "interview_questions": [
     "What is Data Science?",
     "What is the difference between Data Science and Data Analytics?",
-    "What is Exploratory Data Analysis?",
+    "What is Exploratory Data Analysis (EDA)?",
     "What is data cleaning?",
-    "Why is feature engineering important?",
+    "What is feature engineering?",
     "What is supervised learning?",
     "What is unsupervised learning?",
     "What is overfitting?",
     "What is underfitting?",
     "What is the difference between classification and regression?",
     "What is hypothesis testing?",
-    "What is p-value?",
+    "What is a p-value?",
     "What is cross-validation?",
     "What is a confusion matrix?",
     "What are precision and recall?",
@@ -115,24 +113,55 @@
     "What is gradient boosting?",
     "What is the difference between bagging and boosting?",
     "What is dimensionality reduction?",
-    "What is PCA?",
+    "What is Principal Component Analysis (PCA)?",
     "How do you handle missing values?",
     "How do you handle outliers?",
-    "How would you analyze a large dataset?",
     "What is A/B testing?",
-    "How would you explain a machine learning model to a non-technical stakeholder?",
+    "How would you evaluate a machine learning model?",
     "What is the role of SQL in Data Science?",
-    "How would you approach an end-to-end Data Science project?"
+    "How would you explain a model to a non-technical stakeholder?",
+    "Describe an end-to-end Data Science project."
   ],
 
   "certifications": [
     "IBM Data Science Professional Certificate",
     "Google Advanced Data Analytics Professional Certificate",
-    "Data Science Specialization (Coursera)",
-    "Microsoft Certified: Azure Data Scientist Associate",
+    "Data Science Specialization",
+    "Microsoft Azure Data Scientist Associate",
     "AWS Certified Machine Learning Engineer",
     "Harvard Data Science Professional Certificate"
   ],
+
+  "learning_resources": {
+    "youtube": [
+      "Krish Naik",
+      "CampusX",
+      "Ken Jee",
+      "StatQuest with Josh Starmer",
+      "freeCodeCamp"
+    ],
+    "courses": [
+      "IBM Data Science Professional Certificate",
+      "Google Advanced Data Analytics Professional Certificate",
+      "Data Science Specialization",
+      "Machine Learning Specialization",
+      "Applied Data Science with Python"
+    ],
+    "websites": [
+      "Kaggle",
+      "Analytics Vidhya",
+      "DataCamp",
+      "Coursera",
+      "Towards Data Science"
+    ],
+    "books": [
+      "Python for Data Analysis",
+      "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+      "Practical Statistics for Data Scientists",
+      "Introduction to Statistical Learning",
+      "Data Science from Scratch"
+    ]
+  },
 
   "tools": [
     "Python",
@@ -143,9 +172,9 @@
     "Scikit-learn",
     "Matplotlib",
     "Seaborn",
+    "Jupyter Notebook",
     "Tableau",
     "Power BI",
-    "Jupyter Notebook",
     "Apache Spark"
   ],
 
@@ -154,8 +183,8 @@
     "Senior Data Scientist",
     "Machine Learning Scientist",
     "Applied Scientist",
-    "Business Data Scientist",
     "Research Data Scientist",
+    "Business Data Scientist",
     "AI Scientist"
   ],
 

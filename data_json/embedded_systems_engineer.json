@@ -1,0 +1,203 @@
+{
+  "career": "Embedded Systems Engineer",
+
+  "description": "An Embedded Systems Engineer designs, develops, tests, and optimizes software and hardware systems embedded within devices such as automobiles, medical equipment, consumer electronics, IoT devices, industrial automation systems, and robotics. They work at the intersection of hardware and software to create reliable, efficient, and real-time systems.",
+
+  "recommended_for": {
+    "interests": [
+      "Electronics",
+      "Programming",
+      "Microcontrollers",
+      "IoT",
+      "Robotics",
+      "Hardware Design"
+    ],
+    "strengths": [
+      "Analytical Thinking",
+      "Problem Solving",
+      "Attention to Detail",
+      "Logical Reasoning",
+      "Debugging Skills",
+      "Curiosity"
+    ]
+  },
+
+  "skills": {
+    "programming": [
+      "C",
+      "C++",
+      "Embedded C",
+      "Python",
+      "Data Structures"
+    ],
+    "microcontrollers": [
+      "Arduino",
+      "ESP32",
+      "STM32",
+      "PIC Microcontrollers",
+      "ARM Cortex-M"
+    ],
+    "electronics": [
+      "Digital Electronics",
+      "Analog Electronics",
+      "Circuit Design",
+      "PCB Basics",
+      "Electronic Components"
+    ],
+    "embedded_systems": [
+      "RTOS",
+      "Device Drivers",
+      "Interrupt Handling",
+      "Memory Management",
+      "Firmware Development"
+    ],
+    "communication_protocols": [
+      "UART",
+      "SPI",
+      "I2C",
+      "CAN",
+      "Bluetooth"
+    ],
+    "iot_and_automation": [
+      "IoT Fundamentals",
+      "MQTT",
+      "Sensor Integration",
+      "Industrial Automation",
+      "Edge Computing"
+    ]
+  },
+
+  "roadmap": [
+    "Learn C Programming",
+    "Study Digital Electronics",
+    "Understand Microcontrollers",
+    "Work with Arduino Projects",
+    "Learn Embedded C",
+    "Study Communication Protocols",
+    "Learn STM32 Development",
+    "Understand RTOS Concepts",
+    "Develop Firmware Projects",
+    "Study PCB Design Basics",
+    "Learn IoT Fundamentals",
+    "Build Real-Time Embedded Projects",
+    "Create an Embedded Systems Portfolio",
+    "Prepare for Embedded Systems Interviews"
+  ],
+
+  "projects": [
+    "Temperature Monitoring System",
+    "Smart Home Automation System",
+    "IoT Weather Station",
+    "Digital Voltmeter",
+    "Smart Irrigation System",
+    "Bluetooth Controlled Robot",
+    "Vehicle Tracking System",
+    "Industrial Monitoring Dashboard",
+    "RTOS-Based Smart Device",
+    "Autonomous Mobile Robot"
+  ],
+
+  "interview_questions": [
+    "What is an embedded system?",
+    "What is the difference between a microcontroller and a microprocessor?",
+    "What is Embedded C?",
+    "What is firmware?",
+    "What is an RTOS?",
+    "What are interrupts?",
+    "What is interrupt latency?",
+    "What is memory-mapped I/O?",
+    "What is a watchdog timer?",
+    "What is UART communication?",
+    "What is SPI?",
+    "What is I2C?",
+    "What is CAN protocol?",
+    "What is DMA?",
+    "What is bootloading?",
+    "What is PCB?",
+    "What is debouncing?",
+    "What is polling?",
+    "What is the difference between polling and interrupts?",
+    "What are volatile variables in C?",
+    "What is stack overflow in embedded systems?",
+    "What is low-power optimization?",
+    "What is real-time scheduling?",
+    "What is MQTT?",
+    "What is an IoT device?",
+    "How do you debug embedded software?",
+    "How do you optimize memory usage?",
+    "What are common embedded system constraints?",
+    "How would you design a smart sensor system?",
+    "Explain an embedded project you have developed."
+  ],
+
+  "certifications": [
+    "Embedded Systems Essentials Certification",
+    "ARM Accredited Engineer (AAE)",
+    "Embedded Linux Certification",
+    "IoT Specialization",
+    "Embedded C Programming Certification",
+    "STM32 Development Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "Phil's Lab",
+      "FastBit Embedded Brain Academy",
+      "Shawn Hymel",
+      "DroneBot Workshop",
+      "GreatScott!"
+    ],
+    "courses": [
+      "Embedded Systems Programming Course",
+      "Mastering Microcontroller and Embedded Driver Development",
+      "Embedded C Programming",
+      "STM32 Bare Metal Programming",
+      "IoT Specialization"
+    ],
+    "websites": [
+      "Embedded.com",
+      "All About Circuits",
+      "Microchip Developer",
+      "STMicroelectronics Learning",
+      "Arduino Documentation"
+    ],
+    "books": [
+      "Embedded Systems with ARM Cortex-M",
+      "Making Embedded Systems",
+      "The Definitive Guide to ARM Cortex-M",
+      "Embedded C Programming and the Microchip PIC",
+      "Practical Electronics for Inventors"
+    ]
+  },
+
+  "tools": [
+    "Arduino IDE",
+    "STM32CubeIDE",
+    "Keil uVision",
+    "Proteus",
+    "KiCad",
+    "Oscilloscope",
+    "Logic Analyzer",
+    "ESP32",
+    "Arduino",
+    "Raspberry Pi",
+    "Git",
+    "PlatformIO"
+  ],
+
+  "job_roles": [
+    "Embedded Systems Engineer",
+    "Firmware Engineer",
+    "IoT Engineer",
+    "Embedded Software Developer",
+    "Hardware Design Engineer",
+    "Automotive Embedded Engineer",
+    "Robotics Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹4-8 LPA",
+    "mid_level": "₹8-18 LPA",
+    "senior_level": "₹18-45+ LPA"
+  }
+}

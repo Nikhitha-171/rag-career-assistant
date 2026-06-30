@@ -1,21 +1,21 @@
 {
   "career": "Graphic Designer",
 
-  "description": "A Graphic Designer creates visual content to communicate ideas, messages, and brand identities through digital and print media. They use design principles, creativity, and software tools to produce logos, posters, social media graphics, advertisements, illustrations, and marketing materials.",
+  "description": "A Graphic Designer creates visual content to communicate ideas, messages, and brand identities across digital and print media. They use design principles, creativity, and industry-standard tools to design logos, advertisements, social media posts, websites, packaging, and marketing materials.",
 
   "recommended_for": {
     "interests": [
       "Design",
       "Creativity",
       "Branding",
-      "Visual Communication",
       "Digital Art",
+      "Visual Communication",
       "Marketing"
     ],
     "strengths": [
       "Creativity",
-      "Attention to Detail",
       "Visual Thinking",
+      "Attention to Detail",
       "Communication Skills",
       "Problem Solving",
       "Time Management"
@@ -38,11 +38,11 @@
       "Print Design"
     ],
     "digital_design": [
-      "UI Design Basics",
-      "Illustration",
       "Photo Editing",
+      "Illustration",
       "Vector Graphics",
-      "Motion Graphics Basics"
+      "Motion Graphics Basics",
+      "UI Design Fundamentals"
     ],
     "software": [
       "Adobe Photoshop",
@@ -54,35 +54,38 @@
     "professional_skills": [
       "Client Communication",
       "Creative Thinking",
-      "Portfolio Building",
-      "Brand Understanding"
+      "Portfolio Development",
+      "Brand Strategy",
+      "Project Management"
     ]
   },
 
   "roadmap": [
     "Learn Design Principles",
-    "Understand Color Theory and Typography",
+    "Study Color Theory and Typography",
     "Learn Canva for Basic Design",
     "Master Adobe Photoshop",
     "Learn Adobe Illustrator",
     "Practice Logo and Poster Design",
     "Study Branding and Visual Identity",
     "Create Social Media Design Projects",
+    "Learn Adobe InDesign",
     "Build a Professional Portfolio",
-    "Learn UI Design Basics",
-    "Work on Freelance or Real Client Projects",
-    "Develop a Personal Design Style"
+    "Learn UI Design Fundamentals",
+    "Work on Real Client Projects",
+    "Develop a Personal Design Style",
+    "Apply for Freelance and Design Opportunities"
   ],
 
   "projects": [
     "Personal Brand Logo Design",
     "Event Poster Design",
-    "Social Media Campaign Graphics",
+    "Social Media Marketing Campaign",
     "Restaurant Menu Design",
     "Brand Identity Kit",
     "Product Packaging Design",
     "Magazine Cover Design",
-    "Marketing Brochure Design",
+    "Corporate Brochure Design",
     "Mobile App UI Mockup",
     "Complete Brand Redesign Project"
   ],
@@ -95,39 +98,70 @@
     "What is visual hierarchy?",
     "What is the difference between raster and vector graphics?",
     "What is branding?",
-    "What is brand identity design?",
+    "What is brand identity?",
     "How do you choose colors for a design project?",
     "What is whitespace in design?",
-    "What is the purpose of a logo?",
+    "What makes a logo effective?",
     "How do you approach a new design project?",
     "What is the difference between RGB and CMYK?",
-    "What are the key features of Adobe Photoshop?",
+    "What is Adobe Photoshop used for?",
     "What is Adobe Illustrator used for?",
+    "What is Adobe InDesign used for?",
     "How do you handle client feedback?",
-    "What makes a design effective?",
-    "How do you maintain consistency in branding?",
+    "How do you ensure consistency in branding?",
     "What is a mood board?",
-    "How do you design for social media platforms?",
+    "How do you optimize designs for social media?",
     "What is responsive design?",
-    "How do you optimize graphics for web use?",
     "What is user-centered design?",
-    "How do you manage multiple design projects?",
-    "What trends are currently popular in graphic design?",
-    "How do you balance creativity and client requirements?",
+    "How do you manage multiple projects simultaneously?",
+    "What are current graphic design trends?",
+    "How do you balance creativity and business requirements?",
     "How do you build a strong design portfolio?",
     "What challenges have you faced in a design project?",
     "How do you stay updated with design trends?",
-    "Describe your design process from concept to completion."
+    "How do you present your work to clients?",
+    "Describe your design process from concept to final delivery."
   ],
 
   "certifications": [
     "Adobe Certified Professional - Photoshop",
     "Adobe Certified Professional - Illustrator",
+    "Adobe Certified Professional - InDesign",
     "Graphic Design Specialization",
     "Canva Design School Certification",
-    "Google UX Design Certificate",
-    "Visual Elements of User Interface Design"
+    "Google UX Design Certificate"
   ],
+
+  "learning_resources": {
+    "youtube": [
+      "The Futur",
+      "Gareth David Studio",
+      "Satori Graphics",
+      "Will Paterson",
+      "Yes I'm a Designer"
+    ],
+    "courses": [
+      "Graphic Design Specialization",
+      "Adobe Photoshop Masterclass",
+      "Adobe Illustrator Masterclass",
+      "Canva Design School",
+      "Google UX Design Certificate"
+    ],
+    "websites": [
+      "Behance",
+      "Dribbble",
+      "Adobe Learn",
+      "Canva Design School",
+      "99designs"
+    ],
+    "books": [
+      "The Non-Designer's Design Book",
+      "Logo Design Love",
+      "Thinking with Type",
+      "Steal Like an Artist",
+      "Graphic Design School"
+    ]
+  },
 
   "tools": [
     "Adobe Photoshop",

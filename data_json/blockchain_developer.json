@@ -1,0 +1,205 @@
+{
+  "career": "Blockchain Developer",
+
+  "description": "A Blockchain Developer designs, develops, tests, and maintains decentralized applications (DApps), smart contracts, and blockchain-based systems. They work with distributed ledger technologies, cryptography, consensus mechanisms, and Web3 ecosystems to build secure and scalable decentralized solutions. Blockchain developers are commonly involved in DeFi, NFTs, DAOs, gaming, and enterprise blockchain applications. :contentReference[oaicite:0]{index=0}",
+
+  "recommended_for": {
+    "interests": [
+      "Blockchain Technology",
+      "Cryptocurrency",
+      "Web3",
+      "Distributed Systems",
+      "Cybersecurity",
+      "Software Development"
+    ],
+    "strengths": [
+      "Logical Thinking",
+      "Problem Solving",
+      "Analytical Skills",
+      "Attention to Detail",
+      "Mathematical Reasoning",
+      "Continuous Learning"
+    ]
+  },
+
+  "skills": {
+    "programming": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Solidity",
+      "Go"
+    ],
+    "blockchain_fundamentals": [
+      "Distributed Ledger Technology",
+      "Consensus Mechanisms",
+      "Cryptography",
+      "Bitcoin Architecture",
+      "Ethereum Architecture"
+    ],
+    "smart_contracts": [
+      "Solidity",
+      "ERC-20",
+      "ERC-721",
+      "ERC-1155",
+      "Smart Contract Security"
+    ],
+    "web3_development": [
+      "Web3.js",
+      "Ethers.js",
+      "Wallet Integration",
+      "DApp Development",
+      "MetaMask Integration"
+    ],
+    "backend_and_devops": [
+      "Node.js",
+      "REST APIs",
+      "Docker",
+      "Linux",
+      "Cloud Deployment"
+    ],
+    "advanced_topics": [
+      "DeFi Protocols",
+      "Layer 2 Solutions",
+      "DAO Development",
+      "Oracle Integration",
+      "Blockchain Security Auditing"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Programming Fundamentals",
+    "Master JavaScript and TypeScript",
+    "Learn Data Structures and Algorithms",
+    "Understand Networking Fundamentals",
+    "Study Cryptography Basics",
+    "Learn Blockchain Fundamentals",
+    "Understand Bitcoin and Ethereum",
+    "Learn Solidity",
+    "Build Smart Contracts",
+    "Master Hardhat or Foundry",
+    "Learn Web3.js and Ethers.js",
+    "Build Decentralized Applications (DApps)",
+    "Study Smart Contract Security",
+    "Learn DeFi and NFT Development",
+    "Build Advanced Blockchain Projects",
+    "Create a Blockchain Developer Portfolio"
+  ],
+
+  "projects": [
+    "Simple Cryptocurrency Token (ERC-20)",
+    "NFT Marketplace",
+    "Crypto Wallet Application",
+    "Decentralized Voting System",
+    "Crowdfunding DApp",
+    "Blockchain-Based Supply Chain System",
+    "DAO Governance Platform",
+    "Decentralized Exchange (DEX)",
+    "DeFi Lending Protocol",
+    "Multi-Chain Web3 Application"
+  ],
+
+  "interview_questions": [
+    "What is blockchain?",
+    "How does blockchain work?",
+    "What is decentralization?",
+    "What is a smart contract?",
+    "What is Ethereum?",
+    "What is Bitcoin?",
+    "What is Proof of Work?",
+    "What is Proof of Stake?",
+    "What is a consensus mechanism?",
+    "What is a hash function?",
+    "What is cryptography?",
+    "What is Solidity?",
+    "What is a DApp?",
+    "What is Web3?",
+    "What is an ERC-20 token?",
+    "What is an ERC-721 token?",
+    "What is gas in Ethereum?",
+    "What is MetaMask?",
+    "What is a blockchain node?",
+    "What is mining?",
+    "What is staking?",
+    "What is a DAO?",
+    "What is DeFi?",
+    "What are Layer 2 solutions?",
+    "What is a blockchain oracle?",
+    "What is a reentrancy attack?",
+    "How do you secure smart contracts?",
+    "What is the difference between public and private blockchains?",
+    "How would you build a decentralized application?",
+    "Explain the architecture of a blockchain project you have built."
+  ],
+
+  "certifications": [
+    "Certified Blockchain Developer",
+    "Certified Ethereum Developer",
+    "Certified Blockchain Expert",
+    "Blockchain Specialization",
+    "Certified Web3 Professional",
+    "Hyperledger Fabric Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "Patrick Collins",
+      "Dapp University",
+      "EatTheBlocks",
+      "FreeCodeCamp",
+      "Smart Contract Programmer"
+    ],
+    "courses": [
+      "Blockchain Specialization",
+      "Ethereum and Solidity Course",
+      "Full Stack Web3 Development",
+      "Blockchain Developer Bootcamp",
+      "Certified Blockchain Developer Program"
+    ],
+    "websites": [
+      "Ethereum Documentation",
+      "Solidity Documentation",
+      "Speed Run Ethereum",
+      "Alchemy University",
+      "Chainlink Documentation"
+    ],
+    "books": [
+      "Mastering Bitcoin",
+      "Mastering Ethereum",
+      "Blockchain Basics",
+      "Hands-On Smart Contract Development",
+      "Blockchain Revolution"
+    ]
+  },
+
+  "tools": [
+    "Solidity",
+    "Hardhat",
+    "Foundry",
+    "Remix IDE",
+    "Ganache",
+    "MetaMask",
+    "Web3.js",
+    "Ethers.js",
+    "Truffle",
+    "Docker",
+    "Git",
+    "Node.js"
+  ],
+
+  "job_roles": [
+    "Blockchain Developer",
+    "Web3 Developer",
+    "Smart Contract Developer",
+    "Ethereum Developer",
+    "DeFi Developer",
+    "Blockchain Security Engineer",
+    "Blockchain Architect"
+  ],
+
+  "salary": {
+    "entry_level": "₹6-12 LPA",
+    "mid_level": "₹12-30 LPA",
+    "senior_level": "₹30-80+ LPA"
+  }
+}

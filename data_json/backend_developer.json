@@ -1,0 +1,196 @@
+{
+  "career": "Backend Developer",
+
+  "description": "A Backend Developer builds and maintains the server-side logic, databases, APIs, authentication systems, and infrastructure that power web and mobile applications. They focus on performance, scalability, security, and reliability of applications.",
+
+  "recommended_for": {
+    "interests": [
+      "Software Development",
+      "Programming",
+      "System Design",
+      "Databases",
+      "Cloud Computing",
+      "Problem Solving"
+    ],
+    "strengths": [
+      "Logical Thinking",
+      "Analytical Skills",
+      "Problem Solving",
+      "Attention to Detail",
+      "System Design Thinking",
+      "Continuous Learning"
+    ]
+  },
+
+  "skills": {
+    "programming": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C#",
+      "Object-Oriented Programming"
+    ],
+    "backend_frameworks": [
+      "Spring Boot",
+      "Django",
+      "Flask",
+      "Express.js",
+      "ASP.NET Core"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Database Design",
+      "SQL Optimization"
+    ],
+    "api_development": [
+      "REST APIs",
+      "GraphQL",
+      "API Security",
+      "Authentication",
+      "Authorization"
+    ],
+    "devops_cloud": [
+      "Docker",
+      "Kubernetes Basics",
+      "AWS",
+      "CI/CD",
+      "Linux"
+    ]
+  },
+
+  "roadmap": [
+    "Learn a Programming Language (Java/Python/JavaScript)",
+    "Master Object-Oriented Programming",
+    "Learn Data Structures and Algorithms",
+    "Understand HTTP and Web Fundamentals",
+    "Learn SQL and Database Design",
+    "Master Backend Frameworks",
+    "Build REST APIs",
+    "Learn Authentication and Authorization",
+    "Understand Caching Mechanisms",
+    "Learn System Design Fundamentals",
+    "Study Cloud Computing Basics",
+    "Learn Docker and Deployment",
+    "Build Scalable Backend Projects",
+    "Create a Professional Portfolio"
+  ],
+
+  "projects": [
+    "RESTful Blog API",
+    "User Authentication System",
+    "Library Management Backend",
+    "E-Commerce Backend API",
+    "Expense Tracker Backend",
+    "Real-Time Chat Server",
+    "Food Delivery Backend System",
+    "Learning Management System API",
+    "Microservices-Based Application",
+    "Scalable URL Shortener Service"
+  ],
+
+  "interview_questions": [
+    "What is backend development?",
+    "What is the difference between frontend and backend?",
+    "What is HTTP?",
+    "What are HTTP methods?",
+    "What is a REST API?",
+    "What is GraphQL?",
+    "What is middleware?",
+    "What is authentication?",
+    "What is authorization?",
+    "What is JWT?",
+    "What is session-based authentication?",
+    "What is SQL?",
+    "What is normalization?",
+    "What is database indexing?",
+    "What is the difference between SQL and NoSQL databases?",
+    "What is caching?",
+    "What is Redis?",
+    "What is API rate limiting?",
+    "What is dependency injection?",
+    "What is microservices architecture?",
+    "What is Docker?",
+    "What is Kubernetes?",
+    "What is load balancing?",
+    "What is horizontal scaling?",
+    "What is vertical scaling?",
+    "What is CI/CD?",
+    "How do you secure an API?",
+    "How would you optimize database performance?",
+    "How would you design a URL shortener?",
+    "How would you handle millions of API requests per day?"
+  ],
+
+  "certifications": [
+    "Meta Back-End Developer Professional Certificate",
+    "Oracle Java Professional Certification",
+    "Spring Professional Certification",
+    "AWS Certified Developer Associate",
+    "Microsoft Azure Developer Associate",
+    "Node.js Application Developer Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "Programming with Mosh",
+      "CodeWithHarry",
+      "freeCodeCamp",
+      "Amigoscode",
+      "Telusko"
+    ],
+    "courses": [
+      "Meta Back-End Developer Professional Certificate",
+      "CS50 Web Programming",
+      "Java Spring Boot Masterclass",
+      "Node.js Complete Guide",
+      "Django Full Stack Development"
+    ],
+    "websites": [
+      "MDN Web Docs",
+      "freeCodeCamp",
+      "GeeksforGeeks",
+      "Baeldung",
+      "JavaTpoint"
+    ],
+    "books": [
+      "Designing Data-Intensive Applications",
+      "Clean Code",
+      "System Design Interview",
+      "Spring in Action",
+      "Head First Design Patterns"
+    ]
+  },
+
+  "tools": [
+    "Java",
+    "Python",
+    "Node.js",
+    "Spring Boot",
+    "Django",
+    "Express.js",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Docker",
+    "Postman",
+    "Git"
+  ],
+
+  "job_roles": [
+    "Backend Developer",
+    "Software Engineer",
+    "API Developer",
+    "Java Developer",
+    "Python Developer",
+    "Node.js Developer",
+    "Server-Side Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹5-10 LPA",
+    "mid_level": "₹10-22 LPA",
+    "senior_level": "₹22-50+ LPA"
+  }
+}

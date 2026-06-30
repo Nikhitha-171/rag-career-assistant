@@ -1,0 +1,197 @@
+{
+  "career": "Frontend Developer",
+
+  "description": "A Frontend Developer builds the user-facing part of websites and web applications. They focus on creating responsive, interactive, accessible, and visually appealing interfaces using modern web technologies and frameworks.",
+
+  "recommended_for": {
+    "interests": [
+      "Web Development",
+      "UI Design",
+      "User Experience",
+      "Programming",
+      "Technology",
+      "Creative Problem Solving"
+    ],
+    "strengths": [
+      "Creativity",
+      "Attention to Detail",
+      "Logical Thinking",
+      "Problem Solving",
+      "Communication Skills",
+      "Continuous Learning"
+    ]
+  },
+
+  "skills": {
+    "core_web": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Responsive Design",
+      "Web Accessibility"
+    ],
+    "frontend_frameworks": [
+      "React",
+      "Next.js",
+      "Vue.js",
+      "Angular Basics",
+      "Single Page Applications"
+    ],
+    "styling": [
+      "Bootstrap",
+      "Tailwind CSS",
+      "SASS",
+      "CSS Flexbox",
+      "CSS Grid"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Chrome DevTools",
+      "Webpack Basics"
+    ],
+    "ui_ux": [
+      "Figma",
+      "UI Design Principles",
+      "User Experience Fundamentals",
+      "Wireframing",
+      "Prototyping"
+    ]
+  },
+
+  "roadmap": [
+    "Learn HTML Fundamentals",
+    "Master CSS and Responsive Design",
+    "Learn JavaScript",
+    "Understand DOM Manipulation",
+    "Learn Git and GitHub",
+    "Build Static Websites",
+    "Learn Advanced JavaScript Concepts",
+    "Master React",
+    "Learn State Management",
+    "Study Next.js",
+    "Learn API Integration",
+    "Understand UI/UX Fundamentals",
+    "Optimize Website Performance",
+    "Build Frontend Portfolio Projects",
+    "Deploy Applications to Production"
+  ],
+
+  "projects": [
+    "Personal Portfolio Website",
+    "Responsive Landing Page",
+    "Weather Application",
+    "Movie Search Application",
+    "E-Commerce Frontend",
+    "Expense Tracker",
+    "Blog Frontend",
+    "Task Management Application",
+    "Social Media Dashboard",
+    "Full Responsive React Application"
+  ],
+
+  "interview_questions": [
+    "What is HTML?",
+    "What is the difference between HTML and HTML5?",
+    "What is semantic HTML?",
+    "What is CSS?",
+    "What is the CSS Box Model?",
+    "What is the difference between Flexbox and Grid?",
+    "What is responsive web design?",
+    "What are media queries?",
+    "What is JavaScript?",
+    "What is the DOM?",
+    "What is event bubbling?",
+    "What are closures in JavaScript?",
+    "What is hoisting?",
+    "What are promises?",
+    "What is async/await?",
+    "What is React?",
+    "What is JSX?",
+    "What is the Virtual DOM?",
+    "What are React Hooks?",
+    "What is useState?",
+    "What is useEffect?",
+    "What is state management?",
+    "What is prop drilling?",
+    "What is Next.js?",
+    "How do you optimize frontend performance?",
+    "What is lazy loading?",
+    "What is code splitting?",
+    "How do you improve website accessibility?",
+    "What is Cross-Origin Resource Sharing (CORS)?",
+    "How would you debug a frontend application?"
+  ],
+
+  "certifications": [
+    "Meta Front-End Developer Professional Certificate",
+    "Responsive Web Design Certification",
+    "JavaScript Algorithms and Data Structures Certification",
+    "React Developer Certification",
+    "Google UX Design Certificate",
+    "Frontend Development Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "Traversy Media",
+      "The Net Ninja",
+      "freeCodeCamp",
+      "CodeWithHarry",
+      "Web Dev Simplified"
+    ],
+    "courses": [
+      "Meta Front-End Developer Professional Certificate",
+      "The Odin Project",
+      "Full Stack Open (Frontend Section)",
+      "React Complete Guide",
+      "CS50 Web Programming"
+    ],
+    "websites": [
+      "MDN Web Docs",
+      "Frontend Mentor",
+      "freeCodeCamp",
+      "The Odin Project",
+      "W3Schools"
+    ],
+    "books": [
+      "Eloquent JavaScript",
+      "You Don't Know JS Yet",
+      "HTML and CSS: Design and Build Websites",
+      "Learning React",
+      "JavaScript: The Good Parts"
+    ]
+  },
+
+  "tools": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma",
+    "Chrome DevTools"
+  ],
+
+  "job_roles": [
+    "Frontend Developer",
+    "React Developer",
+    "UI Developer",
+    "Web Developer",
+    "JavaScript Developer",
+    "Frontend Engineer",
+    "UI Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹4-8 LPA",
+    "mid_level": "₹8-18 LPA",
+    "senior_level": "₹18-40+ LPA"
+  }
+}

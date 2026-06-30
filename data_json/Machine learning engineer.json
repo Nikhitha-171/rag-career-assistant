@@ -1,22 +1,17 @@
 {
   "career": "Machine Learning Engineer",
 
-  "description": "A Machine Learning Engineer develops, trains, evaluates, and deploys machine learning models that enable systems to learn from data and make intelligent predictions or decisions.",
+  "description": "A Machine Learning Engineer designs, develops, trains, evaluates, and deploys machine learning models that enable systems to learn from data and make intelligent predictions or decisions. They combine software engineering, data science, and AI to build scalable ML solutions.",
 
   "recommended_for": {
     "interests": [
-     "Artificial Intelligence",
-     "AI",
-     "Machine Learning",
-     "Deep Learning",
-     "Data Science",
-     "Programming",
-     "Coding",
-     "Mathematics",
-     "Statistics",
-     "Research",
-     "Automation"
-   ],
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
+      "Programming",
+      "Research",
+      "Automation"
+    ],
     "strengths": [
       "Logical Thinking",
       "Problem Solving",
@@ -30,16 +25,17 @@
   "skills": {
     "programming": [
       "Python",
-      "NumPy",
-      "Pandas",
+      "Data Structures and Algorithms",
       "Object-Oriented Programming",
-      "Data Structures and Algorithms"
+      "SQL",
+      "Git"
     ],
     "mathematics": [
       "Linear Algebra",
       "Probability",
       "Statistics",
-      "Calculus"
+      "Calculus",
+      "Optimization"
     ],
     "machine_learning": [
       "Supervised Learning",
@@ -54,32 +50,34 @@
       "CNN",
       "RNN",
       "LSTM",
+      "Transformers",
       "TensorFlow",
       "PyTorch"
     ],
     "data_handling": [
+      "NumPy",
+      "Pandas",
       "Data Cleaning",
       "Exploratory Data Analysis",
-      "Data Visualization",
-      "SQL"
+      "Data Visualization"
     ],
     "deployment": [
       "Flask",
       "FastAPI",
       "Docker",
-      "Cloud Platforms",
-      "MLOps"
+      "MLOps",
+      "Cloud Platforms"
     ]
   },
 
   "roadmap": [
-    "Learn Python Fundamentals",
-    "Study Statistics and Probability",
-    "Learn Linear Algebra and Calculus Basics",
+    "Learn Python Programming",
+    "Study Data Structures and Algorithms",
+    "Learn Statistics and Probability",
+    "Understand Linear Algebra and Calculus",
     "Master NumPy and Pandas",
     "Learn Data Visualization",
-    "Learn SQL",
-    "Understand Machine Learning Algorithms",
+    "Study Machine Learning Algorithms",
     "Build Beginner Machine Learning Projects",
     "Learn Deep Learning",
     "Build Advanced AI Projects",
@@ -88,15 +86,15 @@
   ],
 
   "projects": [
-    "Student Performance Prediction",
     "House Price Prediction",
+    "Student Performance Prediction",
     "Titanic Survival Prediction",
     "Spam Email Detection",
     "Customer Churn Prediction",
-    "Loan Approval Prediction",
     "Credit Card Fraud Detection",
-    "Sales Forecasting System",
+    "Loan Approval Prediction",
     "Movie Recommendation System",
+    "Face Mask Detection System",
     "End-to-End MLOps Pipeline"
   ],
 
@@ -119,28 +117,59 @@
     "What is a confusion matrix?",
     "What is ROC-AUC?",
     "How does a Decision Tree work?",
-    "What is Random Forest and why is it better than a single Decision Tree?",
+    "What is Random Forest?",
     "What is the difference between bagging and boosting?",
     "How does XGBoost work?",
     "What is gradient descent?",
     "What are the assumptions of Linear Regression?",
+    "How do you handle missing data?",
     "How do you handle imbalanced datasets?",
-    "What is feature selection and why is it important?",
-    "How would you optimize a Machine Learning model?",
+    "What is feature selection?",
     "What is hyperparameter tuning?",
-    "What are neural networks and how do they work?",
-    "How would you deploy a Machine Learning model into production?",
-    "What challenges are faced in building end-to-end Machine Learning systems?"
+    "What are neural networks?",
+    "How would you deploy an ML model into production?",
+    "What is MLOps?"
   ],
 
   "certifications": [
-    "Machine Learning Specialization (Coursera)",
+    "Machine Learning Specialization",
+    "Deep Learning Specialization",
     "IBM Machine Learning Professional Certificate",
     "Google Advanced Data Analytics Professional Certificate",
     "AWS Certified Machine Learning Engineer",
-    "TensorFlow Developer Certificate",
     "Microsoft Azure AI Engineer Associate"
   ],
+
+  "learning_resources": {
+    "youtube": [
+      "Andrew Ng",
+      "Krish Naik",
+      "CampusX",
+      "freeCodeCamp",
+      "StatQuest with Josh Starmer"
+    ],
+    "courses": [
+      "Machine Learning Specialization",
+      "Deep Learning Specialization",
+      "Google Advanced Data Analytics Professional Certificate",
+      "IBM Machine Learning Professional Certificate",
+      "Practical Deep Learning for Coders"
+    ],
+    "websites": [
+      "Kaggle",
+      "Coursera",
+      "DeepLearning.AI",
+      "Google Machine Learning Crash Course",
+      "Analytics Vidhya"
+    ],
+    "books": [
+      "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+      "Introduction to Statistical Learning",
+      "Pattern Recognition and Machine Learning",
+      "Deep Learning by Ian Goodfellow",
+      "Machine Learning Yearning"
+    ]
+  },
 
   "tools": [
     "Python",
@@ -150,26 +179,26 @@
     "Pandas",
     "NumPy",
     "Matplotlib",
-    "Seaborn",
-    "SQL",
-    "Git",
+    "Jupyter Notebook",
     "Docker",
-    "Jupyter Notebook"
+    "MLflow",
+    "Git",
+    "FastAPI"
   ],
 
   "job_roles": [
     "Machine Learning Engineer",
     "AI Engineer",
     "Data Scientist",
-    "Research Engineer",
+    "MLOps Engineer",
     "Computer Vision Engineer",
     "NLP Engineer",
-    "MLOps Engineer"
+    "Research Engineer"
   ],
 
   "salary": {
-    "entry_level": "₹5-10 LPA",
-    "mid_level": "₹10-20 LPA",
-    "senior_level": "₹20-50+ LPA"
+    "entry_level": "₹6-12 LPA",
+    "mid_level": "₹12-25 LPA",
+    "senior_level": "₹25-60+ LPA"
   }
 }

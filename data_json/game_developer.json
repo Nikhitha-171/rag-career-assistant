@@ -1,0 +1,203 @@
+{
+  "career": "Game Developer",
+
+  "description": "A Game Developer designs, develops, tests, and maintains video games for computers, consoles, mobile devices, and virtual reality platforms. They combine programming, mathematics, creativity, game design, and problem-solving skills to create engaging gaming experiences.",
+
+  "recommended_for": {
+    "interests": [
+      "Game Development",
+      "Programming",
+      "Gaming",
+      "Computer Graphics",
+      "Artificial Intelligence",
+      "Creative Design"
+    ],
+    "strengths": [
+      "Logical Thinking",
+      "Creativity",
+      "Problem Solving",
+      "Mathematical Aptitude",
+      "Attention to Detail",
+      "Teamwork"
+    ]
+  },
+
+  "skills": {
+    "programming": [
+      "C#",
+      "C++",
+      "Java",
+      "Python",
+      "Object-Oriented Programming"
+    ],
+    "game_engines": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "Game Physics",
+      "Game Optimization"
+    ],
+    "graphics": [
+      "2D Graphics",
+      "3D Graphics",
+      "Animation",
+      "Shaders",
+      "Rendering Fundamentals"
+    ],
+    "mathematics": [
+      "Linear Algebra",
+      "Vectors",
+      "Trigonometry",
+      "Physics",
+      "Game Mathematics"
+    ],
+    "game_design": [
+      "Level Design",
+      "Game Mechanics",
+      "Storytelling",
+      "User Experience",
+      "Game Balancing"
+    ],
+    "advanced_topics": [
+      "Game AI",
+      "Multiplayer Networking",
+      "AR Development",
+      "VR Development",
+      "Procedural Generation"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Programming Fundamentals",
+    "Master Object-Oriented Programming",
+    "Learn C# for Unity or C++ for Unreal Engine",
+    "Understand Game Development Basics",
+    "Study Game Design Principles",
+    "Learn Mathematics for Game Development",
+    "Build Simple 2D Games",
+    "Learn Physics and Collision Systems",
+    "Develop 3D Games",
+    "Study Animation and Graphics",
+    "Learn Multiplayer Networking",
+    "Build Advanced Game Projects",
+    "Create a Professional Game Development Portfolio",
+    "Participate in Game Jams"
+  ],
+
+  "projects": [
+    "2D Platformer Game",
+    "Snake Game",
+    "Tic-Tac-Toe with AI",
+    "Endless Runner Game",
+    "Puzzle Game",
+    "2D Shooting Game",
+    "3D Racing Game",
+    "Multiplayer Battle Arena",
+    "Open World Adventure Game",
+    "VR Exploration Experience"
+  ],
+
+  "interview_questions": [
+    "What is game development?",
+    "What is the difference between Unity and Unreal Engine?",
+    "What is a game engine?",
+    "What is Object-Oriented Programming?",
+    "What is a game loop?",
+    "What is frame rate?",
+    "What is delta time?",
+    "What is collision detection?",
+    "What are game physics?",
+    "What is raycasting?",
+    "What is a prefab in Unity?",
+    "What is a Blueprint in Unreal Engine?",
+    "What is vector mathematics?",
+    "What is a shader?",
+    "What is pathfinding in games?",
+    "What is the A* algorithm?",
+    "What is procedural generation?",
+    "What is game optimization?",
+    "What is occlusion culling?",
+    "What is Level of Detail (LOD)?",
+    "What is multiplayer synchronization?",
+    "What is client-server architecture in games?",
+    "What is latency in online gaming?",
+    "What is AI behavior in games?",
+    "What are finite state machines?",
+    "How would you optimize a large game world?",
+    "How do you debug game performance issues?",
+    "What is VR game development?",
+    "What is AR game development?",
+    "Describe the architecture of a game you developed."
+  ],
+
+  "certifications": [
+    "Unity Certified Associate",
+    "Unity Certified Professional Programmer",
+    "Unreal Engine Developer Certification",
+    "Game Design and Development Certification",
+    "Meta AR/VR Developer Certification",
+    "C# Programming Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "Brackeys",
+      "Code Monkey",
+      "Game Maker's Toolkit",
+      "Jason Weimann",
+      "Unreal Sensei"
+    ],
+    "courses": [
+      "Unity Game Development Course",
+      "Unreal Engine C++ Developer Course",
+      "CS50 Introduction to Game Development",
+      "Complete C# Unity Game Developer",
+      "Game Design and Development Specialization"
+    ],
+    "websites": [
+      "Unity Learn",
+      "Unreal Engine Documentation",
+      "GameDev.tv",
+      "itch.io",
+      "Gamasutra"
+    ],
+    "books": [
+      "Game Programming Patterns",
+      "The Art of Game Design",
+      "Beginning C# Programming for Unity",
+      "Level Up! The Guide to Great Video Game Design",
+      "Artificial Intelligence for Games"
+    ]
+  },
+
+  "tools": [
+    "Unity",
+    "Unreal Engine",
+    "Godot",
+    "Visual Studio",
+    "Blender",
+    "Git",
+    "GitHub",
+    "Photon",
+    "FMOD",
+    "Maya",
+    "Substance Painter",
+    "Audacity"
+  ],
+
+  "job_roles": [
+    "Game Developer",
+    "Gameplay Programmer",
+    "Unity Developer",
+    "Unreal Engine Developer",
+    "Game AI Programmer",
+    "Mobile Game Developer",
+    "AR/VR Developer"
+  ],
+
+  "salary": {
+    "entry_level": "₹4-8 LPA",
+    "mid_level": "₹8-20 LPA",
+    "senior_level": "₹20-50+ LPA"
+  }
+}

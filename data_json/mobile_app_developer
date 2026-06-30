@@ -1,0 +1,203 @@
+{
+  "career": "Mobile App Developer",
+
+  "description": "A Mobile App Developer designs, develops, tests, and maintains applications for smartphones and tablets. They create native, cross-platform, or hybrid mobile applications with a focus on performance, user experience, security, and scalability.",
+
+  "recommended_for": {
+    "interests": [
+      "Mobile Development",
+      "Programming",
+      "Software Engineering",
+      "UI/UX Design",
+      "Technology",
+      "Problem Solving"
+    ],
+    "strengths": [
+      "Logical Thinking",
+      "Creativity",
+      "Problem Solving",
+      "Attention to Detail",
+      "Adaptability",
+      "Continuous Learning"
+    ]
+  },
+
+  "skills": {
+    "programming": [
+      "Dart",
+      "Java",
+      "Kotlin",
+      "Swift",
+      "JavaScript"
+    ],
+    "mobile_frameworks": [
+      "Flutter",
+      "React Native",
+      "Android SDK",
+      "iOS SDK",
+      "Cross-Platform Development"
+    ],
+    "ui_ux": [
+      "Material Design",
+      "Human Interface Guidelines",
+      "Responsive Layouts",
+      "Wireframing",
+      "User Experience Design"
+    ],
+    "backend_integration": [
+      "REST APIs",
+      "GraphQL",
+      "Firebase",
+      "Authentication",
+      "Push Notifications"
+    ],
+    "databases": [
+      "SQLite",
+      "Firebase Firestore",
+      "MongoDB Basics",
+      "MySQL Basics",
+      "Local Storage"
+    ],
+    "deployment": [
+      "Google Play Store",
+      "Apple App Store",
+      "Git",
+      "CI/CD",
+      "App Performance Optimization"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Programming Fundamentals",
+    "Choose Flutter or React Native",
+    "Learn Mobile UI Design Principles",
+    "Build Basic Mobile Applications",
+    "Learn State Management",
+    "Study API Integration",
+    "Learn Local and Cloud Databases",
+    "Implement Authentication Systems",
+    "Learn Push Notifications",
+    "Build Intermediate Mobile Apps",
+    "Understand Mobile Security",
+    "Learn App Testing",
+    "Deploy Apps to App Stores",
+    "Build a Professional Mobile Portfolio"
+  ],
+
+  "projects": [
+    "To-Do List Mobile App",
+    "Weather Forecast Application",
+    "Expense Tracker App",
+    "Notes Taking Application",
+    "Fitness Tracking App",
+    "Food Delivery Application",
+    "Chat Messaging App",
+    "E-Commerce Mobile App",
+    "Learning Management App",
+    "Social Media Mobile Application"
+  ],
+
+  "interview_questions": [
+    "What is mobile application development?",
+    "What is the difference between native and cross-platform development?",
+    "Why choose Flutter?",
+    "Why choose React Native?",
+    "What is a widget in Flutter?",
+    "What is state management?",
+    "What is the difference between StatefulWidget and StatelessWidget?",
+    "What is the Android Activity lifecycle?",
+    "What is Firebase?",
+    "How do you integrate APIs into a mobile app?",
+    "What is JSON?",
+    "What are push notifications?",
+    "What is local storage?",
+    "What is SQLite?",
+    "What is app caching?",
+    "How do you optimize app performance?",
+    "What is dependency injection?",
+    "How do you secure user data in mobile apps?",
+    "What is authentication?",
+    "What is OAuth?",
+    "What is app versioning?",
+    "How do you handle app crashes?",
+    "What is responsive design in mobile apps?",
+    "How do you test mobile applications?",
+    "What is CI/CD for mobile development?",
+    "What are app permissions?",
+    "What is deep linking?",
+    "How do you publish an app to Google Play Store?",
+    "How do you publish an app to Apple App Store?",
+    "Describe the architecture of a mobile application."
+  ],
+
+  "certifications": [
+    "Flutter Development Certification",
+    "Android Developer Certification",
+    "Associate Android Developer",
+    "Meta React Native Specialization",
+    "Google Associate Android Developer",
+    "iOS App Development Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "Flutter",
+      "CodeWithAndrea",
+      "The Net Ninja",
+      "freeCodeCamp",
+      "CodeWithHarry"
+    ],
+    "courses": [
+      "Flutter & Dart Complete Guide",
+      "Meta React Native Specialization",
+      "Android Basics in Kotlin",
+      "iOS App Development with Swift",
+      "Mobile App Development Bootcamp"
+    ],
+    "websites": [
+      "Flutter Documentation",
+      "Android Developers",
+      "Apple Developer",
+      "freeCodeCamp",
+      "RayWenderlich"
+    ],
+    "books": [
+      "Flutter Apprentice",
+      "Beginning Flutter",
+      "Android Programming: The Big Nerd Ranch Guide",
+      "iOS Programming Fundamentals",
+      "Clean Code"
+    ]
+  },
+
+  "tools": [
+    "Flutter",
+    "Dart",
+    "React Native",
+    "Android Studio",
+    "Xcode",
+    "Firebase",
+    "VS Code",
+    "Git",
+    "Postman",
+    "SQLite",
+    "Google Play Console",
+    "App Store Connect"
+  ],
+
+  "job_roles": [
+    "Mobile App Developer",
+    "Flutter Developer",
+    "Android Developer",
+    "iOS Developer",
+    "React Native Developer",
+    "Cross-Platform Developer",
+    "Mobile Software Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹4-8 LPA",
+    "mid_level": "₹8-20 LPA",
+    "senior_level": "₹20-45+ LPA"
+  }
+}

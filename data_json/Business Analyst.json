@@ -1,7 +1,7 @@
 {
   "career": "Business Analyst",
 
-  "description": "A Business Analyst acts as a bridge between business stakeholders and technical teams. They analyze business processes, identify problems and opportunities, gather requirements, and recommend data-driven solutions to improve organizational performance and achieve business goals.",
+  "description": "A Business Analyst identifies business needs, analyzes processes, gathers requirements, and recommends solutions to improve organizational efficiency and achieve business goals. They act as a bridge between business stakeholders and technical teams.",
 
   "recommended_for": {
     "interests": [
@@ -40,12 +40,12 @@
     "business_intelligence": [
       "Power BI",
       "Tableau",
-      "Dashboard Creation",
+      "Dashboard Development",
       "KPI Analysis",
       "Business Metrics"
     ],
     "project_management": [
-      "Agile Methodology",
+      "Agile",
       "Scrum",
       "JIRA",
       "Risk Management",
@@ -53,9 +53,10 @@
     ],
     "communication": [
       "Presentation Skills",
-      "Client Interaction",
+      "Client Communication",
       "Negotiation",
-      "Report Writing"
+      "Report Writing",
+      "Meeting Facilitation"
     ]
   },
 
@@ -64,35 +65,35 @@
     "Develop Analytical Thinking Skills",
     "Master Microsoft Excel",
     "Learn SQL for Data Analysis",
-    "Study Business Process Modeling",
-    "Learn Requirements Gathering Techniques",
-    "Master Power BI or Tableau",
-    "Understand Agile and Scrum Methodologies",
-    "Work on Business Case Studies",
+    "Understand Business Processes",
+    "Study Requirements Gathering Techniques",
+    "Learn Power BI or Tableau",
+    "Understand Agile and Scrum",
+    "Practice Business Case Studies",
     "Build Business Analysis Projects",
-    "Learn Stakeholder Management",
+    "Develop Stakeholder Management Skills",
     "Prepare for Business Analysis Certifications"
   ],
 
   "projects": [
-    "Sales Performance Analysis",
+    "Sales Performance Analysis Dashboard",
     "Customer Retention Analysis",
     "Business Process Improvement Study",
-    "Market Research Dashboard",
+    "Market Research Analysis",
     "Supply Chain Optimization Analysis",
-    "Customer Segmentation Project",
+    "Customer Segmentation Dashboard",
     "Financial Performance Analysis",
-    "Business KPI Dashboard",
+    "KPI Tracking Dashboard",
     "E-Commerce Business Insights Report",
-    "End-to-End Business Intelligence Project"
+    "Business Intelligence Reporting System"
   ],
 
   "interview_questions": [
     "Who is a Business Analyst?",
     "What are the responsibilities of a Business Analyst?",
     "What is requirement gathering?",
-    "What is a business requirement document (BRD)?",
-    "What is a functional requirement document (FRD)?",
+    "What is a Business Requirement Document (BRD)?",
+    "What is a Functional Requirement Document (FRD)?",
     "What is gap analysis?",
     "What is SWOT analysis?",
     "What is stakeholder management?",
@@ -100,34 +101,65 @@
     "What is a use case?",
     "What is Agile methodology?",
     "What is Scrum?",
-    "What is the role of a Product Owner?",
+    "What is a user story?",
     "What is the difference between Agile and Waterfall?",
+    "What is a sprint?",
     "Why is SQL important for Business Analysts?",
-    "What is data visualization?",
     "What are KPIs?",
-    "How do you prioritize requirements?",
-    "What is user acceptance testing (UAT)?",
-    "What is risk analysis?",
-    "How do you handle conflicting stakeholder requirements?",
-    "What is a workflow diagram?",
     "What is business intelligence?",
-    "What is Power BI?",
-    "What is Tableau?",
+    "What is data visualization?",
+    "What is a dashboard?",
+    "How do you prioritize requirements?",
+    "What is User Acceptance Testing (UAT)?",
+    "How do you handle changing requirements?",
+    "What is risk analysis?",
+    "How do you deal with difficult stakeholders?",
+    "What is process mapping?",
     "How would you analyze declining sales?",
-    "How do you ensure requirements are clearly understood?",
     "What metrics would you use to measure business performance?",
-    "Describe a business analysis project lifecycle.",
-    "How do you communicate technical information to non-technical stakeholders?"
+    "How do you ensure requirements are understood correctly?",
+    "Describe the lifecycle of a Business Analysis project."
   ],
 
   "certifications": [
     "Entry Certificate in Business Analysis (ECBA)",
     "Certified Business Analysis Professional (CBAP)",
     "PMI Professional in Business Analysis (PMI-PBA)",
+    "Certification of Capability in Business Analysis (CCBA)",
     "Google Data Analytics Professional Certificate",
-    "Microsoft Power BI Data Analyst Associate",
-    "Business Analysis Fundamentals Certification"
+    "Microsoft Power BI Data Analyst Associate"
   ],
+
+  "learning_resources": {
+    "youtube": [
+      "The BA Guide",
+      "Bridging the Gap",
+      "Analytics Vidhya",
+      "Alex The Analyst",
+      "Simplilearn"
+    ],
+    "courses": [
+      "Business Analysis Fundamentals",
+      "Google Data Analytics Professional Certificate",
+      "Microsoft Power BI Data Analyst Learning Path",
+      "Business Analyst Masterclass",
+      "Agile Business Analysis"
+    ],
+    "websites": [
+      "IIBA",
+      "Coursera",
+      "Udemy",
+      "Analytics Vidhya",
+      "Microsoft Learn"
+    ],
+    "books": [
+      "BABOK Guide",
+      "Business Analysis for Practitioners",
+      "The Business Analyst's Handbook",
+      "Data Smart",
+      "Storytelling with Data"
+    ]
+  },
 
   "tools": [
     "Microsoft Excel",
@@ -135,10 +167,10 @@
     "Power BI",
     "Tableau",
     "JIRA",
+    "Confluence",
     "Microsoft Visio",
     "Lucidchart",
     "Google Sheets",
-    "Confluence",
     "Microsoft PowerPoint"
   ],
 

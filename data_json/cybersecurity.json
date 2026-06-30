@@ -1,7 +1,7 @@
 {
   "career": "Cybersecurity Specialist",
 
-  "description": "A Cybersecurity Specialist protects computer systems, networks, applications, and data from cyber threats, attacks, and unauthorized access. They identify vulnerabilities, monitor security incidents, and implement security measures to safeguard digital assets.",
+  "description": "A Cybersecurity Specialist protects computer systems, networks, applications, and data from cyber threats. They identify vulnerabilities, monitor security incidents, implement security controls, and respond to attacks to ensure the confidentiality, integrity, and availability of information systems.",
 
   "recommended_for": {
     "interests": [
@@ -16,8 +16,8 @@
       "Problem Solving",
       "Analytical Thinking",
       "Attention to Detail",
-      "Curiosity",
       "Critical Thinking",
+      "Curiosity",
       "Persistence"
     ]
   },
@@ -31,7 +31,7 @@
       "Firewall Configuration"
     ],
     "security_fundamentals": [
-      "Information Security",
+      "CIA Triad",
       "Cryptography",
       "Risk Assessment",
       "Security Policies",
@@ -42,7 +42,7 @@
       "Vulnerability Assessment",
       "Reconnaissance",
       "Web Application Security",
-      "Security Testing"
+      "Security Auditing"
     ],
     "operating_systems": [
       "Linux",
@@ -67,37 +67,40 @@
   "roadmap": [
     "Learn Computer Fundamentals",
     "Understand Networking Concepts",
-    "Learn Linux and Windows Administration",
-    "Study Cybersecurity Fundamentals",
-    "Learn Cryptography Basics",
+    "Learn Linux Administration",
+    "Learn Windows Security Fundamentals",
+    "Study Cybersecurity Basics",
+    "Learn Cryptography Fundamentals",
     "Understand Web Application Security",
-    "Learn Ethical Hacking Techniques",
+    "Study Ethical Hacking Concepts",
     "Practice Vulnerability Assessment",
-    "Study Incident Response and Digital Forensics",
-    "Learn Cloud Security",
-    "Prepare for Security Certifications",
-    "Build Real-World Security Projects"
+    "Learn Penetration Testing",
+    "Study Incident Response",
+    "Learn Digital Forensics Basics",
+    "Understand Cloud Security",
+    "Prepare for Security Certifications"
   ],
 
   "projects": [
-    "Network Vulnerability Scanner",
     "Password Strength Checker",
-    "Port Scanner using Python",
+    "Network Port Scanner",
     "Log Analysis Tool",
+    "Network Vulnerability Scanner",
     "Security Monitoring Dashboard",
     "Phishing Detection System",
-    "Malware Analysis Sandbox",
     "Intrusion Detection System",
     "Web Application Security Assessment",
-    "Security Information and Event Management (SIEM) Project"
+    "Malware Analysis Sandbox",
+    "SIEM-Based Threat Monitoring Project"
   ],
 
   "interview_questions": [
-    "What is Cybersecurity?",
+    "What is cybersecurity?",
     "What is the CIA Triad?",
     "What is the difference between authentication and authorization?",
     "What is a firewall?",
     "What is encryption?",
+    "What is hashing?",
     "What is a VPN?",
     "What is phishing?",
     "What is malware?",
@@ -105,7 +108,7 @@
     "What is social engineering?",
     "What is penetration testing?",
     "What is vulnerability assessment?",
-    "What is SQL injection?",
+    "What is SQL Injection?",
     "What is Cross-Site Scripting (XSS)?",
     "What is Cross-Site Request Forgery (CSRF)?",
     "What is the principle of least privilege?",
@@ -113,15 +116,14 @@
     "What is a DDoS attack?",
     "What is packet sniffing?",
     "What is DNS spoofing?",
-    "What is a man-in-the-middle attack?",
+    "What is a Man-in-the-Middle attack?",
     "What is incident response?",
     "What is digital forensics?",
     "What is a security audit?",
-    "What is the difference between symmetric and asymmetric encryption?",
-    "What is OWASP Top 10?",
-    "How would you secure a web application?",
-    "How do you identify security vulnerabilities in a system?",
     "What is SIEM?",
+    "What is the difference between symmetric and asymmetric encryption?",
+    "What is the OWASP Top 10?",
+    "How would you secure a web application?",
     "How would you respond to a cybersecurity breach?"
   ],
 
@@ -131,8 +133,40 @@
     "CompTIA CySA+",
     "CompTIA PenTest+",
     "Certified Information Systems Security Professional (CISSP)",
-    "GIAC Security Essentials (GSEC)"
+    "GIAC Security Essentials (GSEC)",
+    "Certified Cloud Security Professional (CCSP)"
   ],
+
+  "learning_resources": {
+    "youtube": [
+      "NetworkChuck",
+      "John Hammond",
+      "David Bombal",
+      "HackerSploit",
+      "The Cyber Mentor"
+    ],
+    "courses": [
+      "Google Cybersecurity Professional Certificate",
+      "CompTIA Security+ Preparation Course",
+      "Practical Ethical Hacking",
+      "Junior Penetration Tester Path",
+      "Introduction to Cyber Security"
+    ],
+    "websites": [
+      "TryHackMe",
+      "Hack The Box",
+      "OWASP",
+      "Cybrary",
+      "PortSwigger Web Security Academy"
+    ],
+    "books": [
+      "The Web Application Hacker's Handbook",
+      "Hacking: The Art of Exploitation",
+      "Practical Malware Analysis",
+      "CompTIA Security+ Study Guide",
+      "Blue Team Handbook"
+    ]
+  },
 
   "tools": [
     "Wireshark",
@@ -141,9 +175,9 @@
     "Metasploit",
     "Kali Linux",
     "Nessus",
+    "OpenVAS",
     "Snort",
     "Splunk",
-    "OpenVAS",
     "John the Ripper",
     "Hydra",
     "OWASP ZAP"
@@ -152,11 +186,11 @@
   "job_roles": [
     "Cybersecurity Analyst",
     "Security Engineer",
+    "SOC Analyst",
     "Ethical Hacker",
     "Penetration Tester",
-    "SOC Analyst",
     "Incident Responder",
-    "Security Consultant",
+    "Digital Forensics Analyst",
     "Cloud Security Engineer"
   ],
 

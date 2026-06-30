@@ -38,7 +38,6 @@ st.sidebar.title("Available Careers")
 
 for career in careers.values():
     st.sidebar.write("• " + career["career"])
-
 # ==========================
 # CAREER RECOMMENDATION ENGINE
 # ==========================
@@ -210,6 +209,152 @@ if st.sidebar.button("Analyze Skills"):
        st.sidebar.success(
         "Job Ready - Focus on internships and interview preparation."
        )
+# ==========================
+# CAREER REPORT GENERATOR
+# ==========================
+
+st.sidebar.markdown("---")
+st.sidebar.title("📄 Career Report")
+
+report_career = st.sidebar.selectbox(
+    "Select Career for Report",
+    [career["career"] for career in careers.values()],
+    key="report_select"
+)
+
+if st.sidebar.button("Generate Report"):
+
+    selected = None
+
+    for career in careers.values():
+
+        if career["career"] == report_career:
+            selected = career
+            break
+
+    report = f"""
+AI CAREER COACH REPORT
+
+Career: {selected['career']}
+
+==================================================
+
+DESCRIPTION
+==================================================
+
+{selected['description']}
+
+==================================================
+RECOMMENDED FOR
+==================================================
+
+Interests:
+"""
+
+    for item in selected["recommended_for"]["interests"]:
+        report += f"- {item}\n"
+
+    report += "\nStrengths:\n"
+
+    for item in selected["recommended_for"]["strengths"]:
+        report += f"- {item}\n"
+
+    report += "\n==================================================\n"
+    report += "SKILLS\n"
+    report += "==================================================\n\n"
+
+    for category, skills in selected["skills"].items():
+
+        report += f"{category.replace('_', ' ').title()}:\n"
+
+        for skill in skills:
+            report += f"- {skill}\n"
+
+        report += "\n"
+
+    report += "\n==================================================\n"
+    report += "ROADMAP\n"
+    report += "==================================================\n\n"
+
+    for item in selected["roadmap"]:
+        report += f"- {item}\n"
+
+    report += "\n==================================================\n"
+    report += "PROJECTS\n"
+    report += "==================================================\n\n"
+
+    for item in selected["projects"]:
+        report += f"- {item}\n"
+
+    report += "\n==================================================\n"
+    report += "INTERVIEW QUESTIONS\n"
+    report += "==================================================\n\n"
+
+    for item in selected["interview_questions"]:
+        report += f"- {item}\n"
+
+    report += "\n==================================================\n"
+    report += "CERTIFICATIONS\n"
+    report += "==================================================\n\n"
+
+    for item in selected["certifications"]:
+        report += f"- {item}\n"
+
+    report += "\n==================================================\n"
+    report += "LEARNING RESOURCES\n"
+    report += "==================================================\n\n"
+
+    resources = selected["learning_resources"]
+
+    report += "YouTube:\n"
+
+    for item in resources["youtube"]:
+        report += f"- {item}\n"
+
+    report += "\nCourses:\n"
+
+    for item in resources["courses"]:
+        report += f"- {item}\n"
+
+    report += "\nWebsites:\n"
+
+    for item in resources["websites"]:
+        report += f"- {item}\n"
+
+    report += "\nBooks:\n"
+
+    for item in resources["books"]:
+        report += f"- {item}\n"
+
+    report += "\n==================================================\n"
+    report += "TOOLS\n"
+    report += "==================================================\n\n"
+
+    for item in selected["tools"]:
+        report += f"- {item}\n"
+
+    report += "\n==================================================\n"
+    report += "JOB ROLES\n"
+    report += "==================================================\n\n"
+
+    for item in selected["job_roles"]:
+        report += f"- {item}\n"
+
+    report += "\n==================================================\n"
+    report += "SALARY\n"
+    report += "==================================================\n\n"
+
+    report += f"Entry Level : {selected['salary']['entry_level']}\n"
+    report += f"Mid Level   : {selected['salary']['mid_level']}\n"
+    report += f"Senior Level: {selected['salary']['senior_level']}\n"
+
+    st.sidebar.download_button(
+        label="⬇️ Download Career Report",
+        data=report,
+        file_name=f"{selected['career'].replace(' ', '_')}_report.txt",
+        mime="text/plain"
+    )
+
 # ==========================
 # CHAT INPUT
 # ==========================
@@ -476,6 +621,51 @@ if question:
                 for item in selected_career["roadmap"]:
                     st.write("•", item)
 
+            # ==========================
+            # RESOURCES
+            # ==========================
+
+            elif (
+               "resource" in q
+                or "resources" in q
+                or "course" in q
+                or "courses" in q
+                or "book" in q
+                or "books" in q
+                or "youtube" in q
+            ):
+
+                st.subheader("📚 Learning Resources")
+
+                resources = selected_career["learning_resources"]
+
+                if "courses" in resources:
+
+                   st.write("### 🎓 Courses")
+
+                   for item in resources["courses"]:
+                       st.write("•", item)
+
+                if "youtube" in resources:
+
+                    st.write("### ▶️ YouTube")
+
+                    for item in resources["youtube"]:
+                        st.write("•", item)
+
+                if "websites" in resources:
+
+                     st.write("### 🌐 Websites")
+
+                     for item in resources["websites"]:
+                         st.write("•", item)
+
+                if "books" in resources:
+
+                    st.write("### 📖 Books")
+
+                    for item in resources["books"]:
+                        st.write("•", item)
             # ==========================
             # DEFAULT RESPONSE
             # ==========================

@@ -1,15 +1,15 @@
 {
   "career": "Cloud Engineer",
 
-  "description": "A Cloud Engineer designs, deploys, manages, and maintains cloud-based infrastructure and services. They help organizations build scalable, secure, and cost-effective solutions using cloud platforms such as AWS, Azure, and Google Cloud.",
+  "description": "A Cloud Engineer designs, deploys, manages, and optimizes cloud infrastructure and services. They build scalable, secure, and highly available systems using cloud platforms such as AWS, Microsoft Azure, and Google Cloud Platform.",
 
   "recommended_for": {
     "interests": [
       "Cloud Computing",
       "Networking",
-      "System Administration",
-      "DevOps",
       "Infrastructure",
+      "DevOps",
+      "System Administration",
       "Technology"
     ],
     "strengths": [
@@ -17,8 +17,8 @@
       "Logical Thinking",
       "Analytical Skills",
       "Attention to Detail",
-      "Continuous Learning",
-      "System Design"
+      "System Design",
+      "Continuous Learning"
     ]
   },
 
@@ -34,7 +34,7 @@
       "TCP/IP",
       "DNS",
       "Load Balancing",
-      "Virtual Private Clouds",
+      "Virtual Private Cloud (VPC)",
       "Network Security"
     ],
     "operating_systems": [
@@ -44,11 +44,11 @@
       "System Administration"
     ],
     "devops": [
-      "CI/CD",
       "Docker",
       "Kubernetes",
+      "CI/CD",
       "Infrastructure as Code",
-      "Monitoring"
+      "Monitoring and Logging"
     ],
     "programming": [
       "Python",
@@ -57,7 +57,7 @@
       "SQL Basics"
     ],
     "security": [
-      "Identity and Access Management",
+      "Identity and Access Management (IAM)",
       "Cloud Security",
       "Encryption",
       "Compliance",
@@ -67,37 +67,39 @@
 
   "roadmap": [
     "Learn Computer Networking Fundamentals",
-    "Learn Linux Administration",
+    "Master Linux Administration",
     "Understand Cloud Computing Concepts",
-    "Learn AWS, Azure, or Google Cloud",
+    "Learn AWS Fundamentals",
+    "Learn Azure or Google Cloud Fundamentals",
     "Study Cloud Storage and Databases",
     "Learn Virtualization Concepts",
-    "Master Docker and Containers",
+    "Master Docker and Containerization",
     "Learn Kubernetes",
-    "Study Infrastructure as Code",
+    "Study Infrastructure as Code with Terraform",
     "Learn Cloud Security Best Practices",
-    "Build Cloud-Based Projects",
+    "Build Cloud Projects",
+    "Learn Monitoring and Logging",
     "Prepare for Cloud Certifications"
   ],
 
   "projects": [
-    "Static Website Hosting on Cloud",
-    "Cloud File Storage System",
+    "Static Website Hosting on AWS S3",
+    "Cloud-Based File Storage System",
     "Serverless Web Application",
     "Cloud Monitoring Dashboard",
-    "Containerized Application Deployment",
+    "Dockerized Application Deployment",
     "Automated Backup Solution",
-    "Multi-Tier Cloud Architecture",
+    "Multi-Tier Web Application Architecture",
     "Cloud Cost Optimization Dashboard",
     "Kubernetes Cluster Deployment",
-    "Scalable E-Commerce Infrastructure"
+    "Highly Available E-Commerce Infrastructure"
   ],
 
   "interview_questions": [
     "What is cloud computing?",
-    "What are the different cloud service models?",
-    "What is the difference between IaaS, PaaS, and SaaS?",
     "What are the benefits of cloud computing?",
+    "What is the difference between IaaS, PaaS, and SaaS?",
+    "What are public, private, and hybrid clouds?",
     "What is virtualization?",
     "What is a Virtual Private Cloud (VPC)?",
     "What is load balancing?",
@@ -106,21 +108,21 @@
     "What is object storage?",
     "What is Docker?",
     "What is Kubernetes?",
-    "What is Infrastructure as Code?",
+    "What is container orchestration?",
+    "What is Infrastructure as Code (IaC)?",
     "What is Terraform?",
     "What is CI/CD?",
     "What is serverless computing?",
     "What is AWS Lambda?",
     "What is Identity and Access Management (IAM)?",
     "What is cloud security?",
-    "How do you secure cloud resources?",
-    "What is disaster recovery in the cloud?",
+    "What is encryption?",
+    "What is disaster recovery?",
     "What is high availability?",
     "What is fault tolerance?",
-    "What is a content delivery network (CDN)?",
-    "What is monitoring and logging in cloud environments?",
+    "What is a Content Delivery Network (CDN)?",
+    "What is monitoring in cloud environments?",
     "How do you optimize cloud costs?",
-    "What is container orchestration?",
     "What is the shared responsibility model?",
     "How would you migrate an application to the cloud?",
     "How would you design a scalable cloud architecture?"
@@ -128,12 +130,44 @@
 
   "certifications": [
     "AWS Certified Cloud Practitioner",
-    "AWS Certified Solutions Architect Associate",
-    "Microsoft Azure Fundamentals",
-    "Microsoft Azure Administrator Associate",
+    "AWS Certified Solutions Architect – Associate",
+    "AWS Certified SysOps Administrator",
+    "Microsoft Azure Fundamentals (AZ-900)",
+    "Microsoft Azure Administrator Associate (AZ-104)",
     "Google Associate Cloud Engineer",
     "Certified Kubernetes Administrator (CKA)"
   ],
+
+  "learning_resources": {
+    "youtube": [
+      "TechWorld with Nana",
+      "FreeCodeCamp",
+      "NetworkChuck",
+      "KodeKloud",
+      "AWS Tutorials"
+    ],
+    "courses": [
+      "AWS Cloud Practitioner Essentials",
+      "Google Cloud Fundamentals",
+      "Microsoft Azure Fundamentals",
+      "Docker and Kubernetes Course",
+      "Terraform Associate Certification Course"
+    ],
+    "websites": [
+      "AWS Skill Builder",
+      "Microsoft Learn",
+      "Google Cloud Skills Boost",
+      "KodeKloud",
+      "Cloud Academy"
+    ],
+    "books": [
+      "AWS Certified Solutions Architect Study Guide",
+      "Cloud Computing Concepts",
+      "Kubernetes Up and Running",
+      "Terraform Up and Running",
+      "The Phoenix Project"
+    ]
+  },
 
   "tools": [
     "AWS",

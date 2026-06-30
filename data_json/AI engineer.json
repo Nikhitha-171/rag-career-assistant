@@ -1,16 +1,16 @@
 {
   "career": "AI Engineer",
 
-  "description": "An AI Engineer designs, develops, and deploys Artificial Intelligence systems that can learn, reason, understand language, recognize patterns, and automate complex tasks. They combine machine learning, deep learning, software engineering, and data science to build intelligent applications.",
+  "description": "An AI Engineer develops intelligent systems that can learn, reason, understand language, recognize patterns, and make decisions. They combine machine learning, deep learning, software engineering, and data science to build AI-powered applications and services.",
 
   "recommended_for": {
     "interests": [
       "Artificial Intelligence",
       "Machine Learning",
       "Deep Learning",
-      "Programming",
       "Research",
-      "Automation"
+      "Automation",
+      "Data Science"
     ],
     "strengths": [
       "Logical Thinking",
@@ -27,7 +27,8 @@
       "Python",
       "Data Structures and Algorithms",
       "Object-Oriented Programming",
-      "SQL"
+      "SQL",
+      "Git"
     ],
     "mathematics": [
       "Linear Algebra",
@@ -49,15 +50,14 @@
       "RNN",
       "LSTM",
       "Transformers",
-      "PyTorch",
-      "TensorFlow"
+      "Transfer Learning"
     ],
     "ai_domains": [
       "Natural Language Processing",
       "Computer Vision",
       "Generative AI",
-      "Recommendation Systems",
-      "Speech Recognition"
+      "Speech Recognition",
+      "Recommendation Systems"
     ],
     "deployment": [
       "FastAPI",
@@ -70,62 +70,64 @@
 
   "roadmap": [
     "Learn Python Programming",
-    "Study Mathematics for AI",
+    "Master Data Structures and Algorithms",
+    "Study Statistics and Probability",
+    "Learn Linear Algebra and Calculus",
     "Master NumPy and Pandas",
-    "Learn Data Analysis and Visualization",
-    "Study Machine Learning Algorithms",
+    "Learn Machine Learning Fundamentals",
     "Build Machine Learning Projects",
-    "Learn Deep Learning",
-    "Study Computer Vision",
-    "Study Natural Language Processing",
-    "Learn Generative AI and Large Language Models",
-    "Build End-to-End AI Applications",
-    "Learn MLOps and AI Deployment"
+    "Study Deep Learning",
+    "Learn Computer Vision",
+    "Learn Natural Language Processing",
+    "Study Generative AI and Large Language Models",
+    "Build AI Applications",
+    "Learn MLOps and Model Deployment",
+    "Work with Cloud AI Services"
   ],
 
   "projects": [
     "AI Chatbot",
-    "House Price Prediction",
-    "Spam Email Classifier",
-    "Image Classification System",
-    "Face Recognition System",
-    "Sentiment Analysis Tool",
     "Resume Screening System",
-    "AI-Powered Recommendation System",
+    "Face Recognition System",
+    "Image Classification Model",
+    "Sentiment Analysis Tool",
+    "AI-Based Recommendation System",
+    "Speech-to-Text Application",
     "Medical Diagnosis Assistant",
+    "AI Content Generator",
     "RAG-Based AI Assistant"
   ],
 
   "interview_questions": [
     "What is Artificial Intelligence?",
-    "What is the difference between AI, ML, and Deep Learning?",
+    "What is the difference between AI, Machine Learning, and Deep Learning?",
     "What is supervised learning?",
     "What is unsupervised learning?",
     "What is reinforcement learning?",
     "What is overfitting?",
     "What is underfitting?",
     "What is feature engineering?",
+    "What is transfer learning?",
     "What is cross-validation?",
-    "What is the bias-variance tradeoff?",
     "What is a neural network?",
     "What is backpropagation?",
     "What is gradient descent?",
     "What is a CNN?",
     "What is an RNN?",
     "What are transformers?",
-    "What is attention mechanism?",
+    "What is the attention mechanism?",
     "What is NLP?",
-    "What is computer vision?",
-    "What is transfer learning?",
-    "What is fine-tuning?",
+    "What is Computer Vision?",
     "What are embeddings?",
-    "What is a vector database?",
+    "What is a Large Language Model (LLM)?",
+    "What is fine-tuning?",
     "What is Retrieval-Augmented Generation (RAG)?",
-    "What are Large Language Models (LLMs)?",
-    "How would you evaluate an AI model?",
-    "How do you handle imbalanced datasets?",
+    "What is prompt engineering?",
+    "What is a vector database?",
+    "How do you evaluate an AI model?",
+    "How do you handle bias in AI systems?",
     "What is MLOps?",
-    "How would you deploy an AI model into production?",
+    "How would you deploy an AI model?",
     "What challenges are faced in building AI systems?"
   ],
 
@@ -133,39 +135,70 @@
     "AI For Everyone",
     "Machine Learning Specialization",
     "Deep Learning Specialization",
-    "Google AI Essentials",
+    "Generative AI for Everyone",
     "IBM AI Engineering Professional Certificate",
     "Microsoft Azure AI Engineer Associate"
   ],
+
+  "learning_resources": {
+    "youtube": [
+      "Andrew Ng",
+      "Krish Naik",
+      "CampusX",
+      "freeCodeCamp",
+      "3Blue1Brown"
+    ],
+    "courses": [
+      "AI For Everyone",
+      "Machine Learning Specialization",
+      "Deep Learning Specialization",
+      "Generative AI for Everyone",
+      "IBM AI Engineering Professional Certificate"
+    ],
+    "websites": [
+      "DeepLearning.AI",
+      "Kaggle",
+      "Hugging Face",
+      "Coursera",
+      "Google Machine Learning Crash Course"
+    ],
+    "books": [
+      "Artificial Intelligence: A Modern Approach",
+      "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+      "Deep Learning by Ian Goodfellow",
+      "Machine Learning Yearning",
+      "Natural Language Processing with Transformers"
+    ]
+  },
 
   "tools": [
     "Python",
     "TensorFlow",
     "PyTorch",
     "Scikit-learn",
-    "NumPy",
-    "Pandas",
-    "OpenCV",
     "Hugging Face",
+    "OpenCV",
     "LangChain",
     "FAISS",
     "Docker",
-    "Git"
+    "Git",
+    "Jupyter Notebook",
+    "FastAPI"
   ],
 
   "job_roles": [
     "AI Engineer",
-    "Machine Learning Engineer",
     "Generative AI Engineer",
+    "Machine Learning Engineer",
     "NLP Engineer",
     "Computer Vision Engineer",
-    "Applied AI Engineer",
-    "AI Research Engineer"
+    "AI Research Engineer",
+    "Applied AI Engineer"
   ],
 
   "salary": {
     "entry_level": "₹6-12 LPA",
-    "mid_level": "₹12-25 LPA",
-    "senior_level": "₹25-60+ LPA"
+    "mid_level": "₹12-30 LPA",
+    "senior_level": "₹30-70+ LPA"
   }
 }

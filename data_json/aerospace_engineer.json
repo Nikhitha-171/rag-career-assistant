@@ -1,0 +1,203 @@
+{
+  "career": "Aerospace Engineer",
+
+  "description": "An Aerospace Engineer designs, develops, tests, and maintains aircraft, spacecraft, satellites, missiles, and related systems. They apply principles of physics, mathematics, materials science, aerodynamics, propulsion, and control systems to create safe, efficient, and innovative aerospace technologies.",
+
+  "recommended_for": {
+    "interests": [
+      "Aviation",
+      "Space Technology",
+      "Physics",
+      "Engineering",
+      "Robotics",
+      "Research and Development"
+    ],
+    "strengths": [
+      "Mathematical Aptitude",
+      "Analytical Thinking",
+      "Problem Solving",
+      "Attention to Detail",
+      "Critical Thinking",
+      "Innovation"
+    ]
+  },
+
+  "skills": {
+    "engineering_fundamentals": [
+      "Engineering Mathematics",
+      "Physics",
+      "Mechanics",
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "aerodynamics": [
+      "Aircraft Aerodynamics",
+      "Computational Fluid Dynamics (CFD)",
+      "Flight Mechanics",
+      "Airfoil Design",
+      "Wind Tunnel Testing"
+    ],
+    "propulsion": [
+      "Jet Engines",
+      "Rocket Propulsion",
+      "Gas Turbines",
+      "Combustion Systems",
+      "Propulsion Analysis"
+    ],
+    "structures_and_materials": [
+      "Aircraft Structures",
+      "Finite Element Analysis (FEA)",
+      "Composite Materials",
+      "Structural Design",
+      "Material Testing"
+    ],
+    "control_and_simulation": [
+      "Control Systems",
+      "MATLAB",
+      "Simulink",
+      "Flight Simulation",
+      "Guidance and Navigation"
+    ],
+    "space_systems": [
+      "Satellite Systems",
+      "Orbital Mechanics",
+      "Spacecraft Design",
+      "Mission Planning",
+      "Space Environment"
+    ]
+  },
+
+  "roadmap": [
+    "Master Mathematics and Physics",
+    "Learn Engineering Mechanics",
+    "Study Fluid Mechanics",
+    "Understand Aerodynamics",
+    "Learn Thermodynamics and Heat Transfer",
+    "Study Aircraft Structures",
+    "Learn MATLAB and Simulink",
+    "Study Propulsion Systems",
+    "Understand Flight Dynamics and Control",
+    "Learn Computational Fluid Dynamics",
+    "Study Spacecraft and Satellite Systems",
+    "Work on Aerospace Projects",
+    "Build an Aerospace Engineering Portfolio",
+    "Prepare for Aerospace Industry Interviews"
+  ],
+
+  "projects": [
+    "Aircraft Wing Design Analysis",
+    "Drone Design and Simulation",
+    "Rocket Propulsion Performance Study",
+    "Flight Dynamics Simulation",
+    "Satellite Orbit Prediction System",
+    "Wind Tunnel Aerodynamics Project",
+    "Autonomous UAV Development",
+    "Space Mission Planning Tool",
+    "Aircraft Structural Analysis",
+    "CubeSat Design Project"
+  ],
+
+  "interview_questions": [
+    "What is Aerospace Engineering?",
+    "What is the difference between Aeronautical and Aerospace Engineering?",
+    "What is Bernoulli's Principle?",
+    "What is lift generation?",
+    "What is drag?",
+    "What are the four forces acting on an aircraft?",
+    "What is an airfoil?",
+    "What is stall in aviation?",
+    "What is Mach number?",
+    "What is CFD?",
+    "What is propulsion?",
+    "What is the difference between a jet engine and a rocket engine?",
+    "What is thrust?",
+    "What is orbital mechanics?",
+    "What is escape velocity?",
+    "What is a geostationary orbit?",
+    "What are control surfaces on an aircraft?",
+    "What is flight stability?",
+    "What is Finite Element Analysis (FEA)?",
+    "What are composite materials?",
+    "What is a satellite?",
+    "What is a CubeSat?",
+    "What is guidance, navigation, and control (GNC)?",
+    "What is a UAV?",
+    "What is a payload?",
+    "How do you reduce aircraft weight?",
+    "How do you improve fuel efficiency in aircraft?",
+    "What challenges exist in spacecraft design?",
+    "How would you design a small drone?",
+    "Explain an aerospace project you have worked on."
+  ],
+
+  "certifications": [
+    "MATLAB Certification",
+    "Computational Fluid Dynamics Certification",
+    "Aircraft Structures Certification",
+    "Space Mission Design Certification",
+    "ANSYS Simulation Certification",
+    "Satellite Engineering Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "MIT OpenCourseWare",
+      "NASA",
+      "Real Engineering",
+      "Learn Engineering",
+      "Scott Manley"
+    ],
+    "courses": [
+      "Introduction to Aerospace Engineering",
+      "Aircraft Aerodynamics Course",
+      "Spacecraft Dynamics and Control",
+      "Computational Fluid Dynamics",
+      "MATLAB for Aerospace Applications"
+    ],
+    "websites": [
+      "NASA",
+      "European Space Agency (ESA)",
+      "MIT OpenCourseWare",
+      "AIAA",
+      "ISRO"
+    ],
+    "books": [
+      "Fundamentals of Aerodynamics",
+      "Introduction to Flight",
+      "Aircraft Structures",
+      "Rocket Propulsion Elements",
+      "Orbital Mechanics for Engineering Students"
+    ]
+  },
+
+  "tools": [
+    "MATLAB",
+    "Simulink",
+    "ANSYS",
+    "CATIA",
+    "SolidWorks",
+    "AutoCAD",
+    "OpenFOAM",
+    "XFLR5",
+    "Python",
+    "STK",
+    "LabVIEW",
+    "MSC Nastran"
+  ],
+
+  "job_roles": [
+    "Aerospace Engineer",
+    "Aerodynamics Engineer",
+    "Propulsion Engineer",
+    "Flight Test Engineer",
+    "Satellite Systems Engineer",
+    "Spacecraft Design Engineer",
+    "UAV Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹5-10 LPA",
+    "mid_level": "₹10-25 LPA",
+    "senior_level": "₹25-60+ LPA"
+  }
+}

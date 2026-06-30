@@ -1,21 +1,21 @@
 {
-  "career": "Web Developer",
+  "career": "Full Stack Developer",
 
-  "description": "A Web Developer designs, builds, and maintains websites and web applications. They work with front-end and back-end technologies to create responsive, interactive, secure, and user-friendly digital experiences for businesses and users.",
+  "description": "A Full Stack Developer designs, develops, tests, deploys, and maintains complete web applications. They work on both front-end and back-end technologies, databases, APIs, and cloud deployment, enabling them to build end-to-end software solutions.",
 
   "recommended_for": {
     "interests": [
       "Web Development",
-      "Programming",
       "Software Development",
+      "Programming",
       "Technology",
-      "UI/UX Design",
-      "Problem Solving"
+      "Problem Solving",
+      "Building Applications"
     ],
     "strengths": [
       "Logical Thinking",
       "Problem Solving",
-      "Creativity",
+      "Adaptability",
       "Attention to Detail",
       "Continuous Learning",
       "Communication Skills"
@@ -27,8 +27,8 @@
       "HTML",
       "CSS",
       "JavaScript",
-      "Responsive Design",
       "React",
+      "Responsive Design",
       "Bootstrap"
     ],
     "backend": [
@@ -39,8 +39,8 @@
       "Server-Side Development"
     ],
     "database": [
-      "MySQL",
       "MongoDB",
+      "MySQL",
       "PostgreSQL",
       "Database Design",
       "SQL"
@@ -52,11 +52,11 @@
       "Collaboration Workflows"
     ],
     "deployment": [
+      "Docker",
       "Vercel",
       "Netlify",
-      "Docker",
       "Cloud Hosting",
-      "CI/CD Basics"
+      "CI/CD"
     ]
   },
 
@@ -64,50 +64,50 @@
     "Learn HTML Fundamentals",
     "Master CSS and Responsive Design",
     "Learn JavaScript",
-    "Build Static Websites",
+    "Understand DOM Manipulation",
     "Learn Git and GitHub",
-    "Study DOM Manipulation",
+    "Build Frontend Projects",
     "Learn React",
-    "Understand Backend Development with Node.js",
+    "Study Backend Development with Node.js",
     "Learn Express.js",
     "Master Databases and SQL",
-    "Build Full-Stack Applications",
-    "Learn Authentication and Security",
-    "Deploy Projects to the Cloud",
+    "Build REST APIs",
+    "Learn Authentication and Authorization",
+    "Develop Full Stack Applications",
+    "Learn Docker and Deployment",
+    "Deploy Applications to the Cloud",
     "Build a Professional Portfolio"
   ],
 
   "projects": [
     "Personal Portfolio Website",
-    "Responsive Landing Page",
     "To-Do List Application",
-    "Weather Application",
-    "Blog Website",
     "Expense Tracker",
+    "Weather Application",
+    "Blog Platform",
     "E-Commerce Website",
-    "Real-Time Chat Application",
     "Learning Management System",
+    "Real-Time Chat Application",
+    "Job Portal System",
     "Full-Stack Social Media Platform"
   ],
 
   "interview_questions": [
+    "What is Full Stack Development?",
+    "What is the difference between frontend and backend development?",
     "What is HTML?",
-    "What is the difference between HTML and HTML5?",
     "What is CSS?",
     "What is the CSS Box Model?",
-    "What is responsive web design?",
     "What is JavaScript?",
-    "What is the difference between var, let, and const?",
+    "What is the difference between let, const, and var?",
     "What is the DOM?",
-    "What is event bubbling?",
     "What are closures in JavaScript?",
     "What is asynchronous programming?",
     "What are promises in JavaScript?",
     "What is async/await?",
     "What is React?",
-    "What are React components?",
     "What is the Virtual DOM?",
-    "What is state in React?",
+    "What are React hooks?",
     "What is Node.js?",
     "What is Express.js?",
     "What is a REST API?",
@@ -117,19 +117,21 @@
     "What is SQL?",
     "What is MongoDB?",
     "What is the difference between SQL and NoSQL databases?",
+    "What is database normalization?",
     "What is Git?",
     "What is version control?",
-    "How would you optimize website performance?",
-    "How would you secure a web application?"
+    "What is Docker?",
+    "How would you optimize web application performance?",
+    "How would you secure a full-stack application?"
   ],
 
   "certifications": [
     "Meta Front-End Developer Professional Certificate",
     "Meta Back-End Developer Professional Certificate",
-    "Responsive Web Design Certification",
-    "JavaScript Algorithms and Data Structures Certification",
     "Full Stack Web Development Certification",
-    "Google UX Design Certificate"
+    "JavaScript Algorithms and Data Structures Certification",
+    "Responsive Web Design Certification",
+    "MongoDB Developer Certification"
   ],
 
   "learning_resources": {
@@ -142,24 +144,24 @@
     ],
     "courses": [
       "The Odin Project",
+      "Full Stack Open",
       "Meta Front-End Developer Professional Certificate",
       "Meta Back-End Developer Professional Certificate",
-      "Full Stack Open",
       "CS50 Web Programming with Python and JavaScript"
     ],
     "websites": [
       "MDN Web Docs",
       "freeCodeCamp",
       "The Odin Project",
-      "W3Schools",
-      "Frontend Mentor"
+      "Frontend Mentor",
+      "W3Schools"
     ],
     "books": [
       "Eloquent JavaScript",
       "You Don't Know JS Yet",
-      "HTML and CSS: Design and Build Websites",
-      "Learning Web Design",
-      "JavaScript: The Good Parts"
+      "Learning React",
+      "Node.js Design Patterns",
+      "Full Stack React"
     ]
   },
 
@@ -174,23 +176,23 @@
     "MySQL",
     "Git",
     "GitHub",
-    "VS Code",
+    "Docker",
     "Postman"
   ],
 
   "job_roles": [
+    "Full Stack Developer",
+    "Software Engineer",
+    "Web Application Developer",
     "Frontend Developer",
     "Backend Developer",
-    "Full Stack Developer",
-    "Web Application Developer",
-    "JavaScript Developer",
-    "React Developer",
-    "Software Engineer"
+    "MERN Stack Developer",
+    "JavaScript Developer"
   ],
 
   "salary": {
-    "entry_level": "₹4-8 LPA",
-    "mid_level": "₹8-18 LPA",
-    "senior_level": "₹18-40+ LPA"
+    "entry_level": "₹5-10 LPA",
+    "mid_level": "₹10-20 LPA",
+    "senior_level": "₹20-45+ LPA"
   }
 }

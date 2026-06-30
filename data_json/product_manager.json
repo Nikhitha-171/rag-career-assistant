@@ -1,0 +1,194 @@
+{
+  "career": "Product Manager",
+
+  "description": "A Product Manager identifies customer needs, defines product vision, prioritizes features, coordinates cross-functional teams, and ensures successful product delivery. They act as the bridge between business, technology, design, and customers to build products that solve real-world problems and create business value.",
+  
+  "recommended_for": {
+    "interests": [
+      "Product Development",
+      "Business Strategy",
+      "Technology",
+      "User Experience",
+      "Leadership",
+      "Problem Solving"
+    ],
+    "strengths": [
+      "Communication Skills",
+      "Leadership",
+      "Analytical Thinking",
+      "Strategic Thinking",
+      "Decision Making",
+      "Problem Solving"
+    ]
+  },
+
+  "skills": {
+    "product_management": [
+      "Product Strategy",
+      "Roadmap Planning",
+      "Product Lifecycle Management",
+      "Feature Prioritization",
+      "Go-to-Market Strategy"
+    ],
+    "business_skills": [
+      "Market Research",
+      "Competitive Analysis",
+      "Business Modeling",
+      "Revenue Analysis",
+      "Stakeholder Management"
+    ],
+    "analytics": [
+      "Data Analysis",
+      "SQL Basics",
+      "A/B Testing",
+      "Product Metrics",
+      "KPI Tracking"
+    ],
+    "agile_delivery": [
+      "Agile Methodology",
+      "Scrum",
+      "Sprint Planning",
+      "Backlog Management",
+      "User Stories"
+    ],
+    "user_experience": [
+      "Customer Discovery",
+      "User Research",
+      "User Personas",
+      "Journey Mapping",
+      "UX Fundamentals"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Product Management Fundamentals",
+    "Understand Business and Technology Basics",
+    "Study Product Development Lifecycle",
+    "Learn Market Research Techniques",
+    "Understand User Research and UX",
+    "Learn Agile and Scrum Frameworks",
+    "Master Product Metrics and KPIs",
+    "Learn Data Analysis and SQL Basics",
+    "Practice Writing Product Requirement Documents",
+    "Work on Product Case Studies",
+    "Build Product Portfolio Projects",
+    "Prepare for Product Management Interviews",
+    "Earn Product Management Certifications",
+    "Gain Experience Through Internships or Product Roles"
+  ],
+
+  "projects": [
+    "Product Requirement Document (PRD) for a Startup Idea",
+    "Mobile App Feature Prioritization Case Study",
+    "Competitor Analysis Dashboard",
+    "Customer Feedback Analysis System",
+    "E-Commerce Product Improvement Proposal",
+    "SaaS Product Roadmap Creation",
+    "User Research and Persona Development",
+    "Product Metrics Dashboard",
+    "A/B Testing Analysis Project",
+    "End-to-End Product Case Study"
+  ],
+
+  "interview_questions": [
+    "What is Product Management?",
+    "What is the role of a Product Manager?",
+    "What is a product roadmap?",
+    "How do you prioritize features?",
+    "What is a Product Requirement Document (PRD)?",
+    "What is the difference between a Product Manager and a Project Manager?",
+    "What is Agile methodology?",
+    "What is Scrum?",
+    "What is a user story?",
+    "What are product metrics?",
+    "What are North Star metrics?",
+    "How do you measure product success?",
+    "What is customer discovery?",
+    "What is market research?",
+    "How do you conduct competitor analysis?",
+    "What is product-market fit?",
+    "How do you handle stakeholder disagreements?",
+    "How do you decide which feature to build next?",
+    "What is A/B testing?",
+    "How would you improve a popular mobile app?",
+    "How would you launch a new product?",
+    "How do you gather customer feedback?",
+    "What is churn rate?",
+    "What is customer retention?",
+    "What is MVP (Minimum Viable Product)?",
+    "How do you balance business and user needs?",
+    "How do you manage product risks?",
+    "What frameworks do you use for prioritization?",
+    "How would you define success for a product?",
+    "Walk us through a product you admire and why."
+  ],
+
+  "certifications": [
+    "Google Project Management Professional Certificate",
+    "Product Management Certification",
+    "Certified Scrum Product Owner (CSPO)",
+    "Professional Scrum Product Owner (PSPO)",
+    "Product School Product Management Certification",
+    "Pragmatic Institute Product Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "Product School",
+      "Exponent",
+      "Lenny's Podcast",
+      "Aakash Gupta",
+      "The Product Folks"
+    ],
+    "courses": [
+      "Product Management Fundamentals",
+      "Become a Product Manager",
+      "Digital Product Management Specialization",
+      "Product Strategy Course",
+      "Certified Scrum Product Owner Training"
+    ],
+    "websites": [
+      "Product School",
+      "Mind the Product",
+      "Product Coalition",
+      "Lenny's Newsletter",
+      "The Product Folks"
+    ],
+    "books": [
+      "Inspired",
+      "The Lean Product Playbook",
+      "Hooked",
+      "Escaping the Build Trap",
+      "Lean Analytics"
+    ]
+  },
+
+  "tools": [
+    "JIRA",
+    "Confluence",
+    "Notion",
+    "Figma",
+    "Miro",
+    "Google Analytics",
+    "Mixpanel",
+    "Amplitude",
+    "Trello",
+    "Aha!"
+  ],
+
+  "job_roles": [
+    "Associate Product Manager",
+    "Product Manager",
+    "Technical Product Manager",
+    "Growth Product Manager",
+    "Senior Product Manager",
+    "Group Product Manager",
+    "Product Lead"
+  ],
+
+  "salary": {
+    "entry_level": "₹6-12 LPA",
+    "mid_level": "₹12-30 LPA",
+    "senior_level": "₹30-80+ LPA"
+  }
+}

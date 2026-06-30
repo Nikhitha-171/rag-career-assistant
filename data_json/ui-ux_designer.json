@@ -1,0 +1,194 @@
+{
+  "career": "UI/UX Designer",
+
+  "description": "A UI/UX Designer creates user-friendly, visually appealing, and intuitive digital experiences for websites, mobile apps, and software products. They research user needs, design interfaces, create prototypes, and improve usability to ensure a seamless user experience.",
+
+  "recommended_for": {
+    "interests": [
+      "Design",
+      "User Experience",
+      "User Research",
+      "Creativity",
+      "Psychology",
+      "Technology"
+    ],
+    "strengths": [
+      "Creativity",
+      "Empathy",
+      "Problem Solving",
+      "Communication Skills",
+      "Attention to Detail",
+      "Critical Thinking"
+    ]
+  },
+
+  "skills": {
+    "ux_design": [
+      "User Research",
+      "User Personas",
+      "User Journey Mapping",
+      "Information Architecture",
+      "Usability Testing"
+    ],
+    "ui_design": [
+      "Visual Design",
+      "Typography",
+      "Color Theory",
+      "Layout Design",
+      "Design Systems"
+    ],
+    "wireframing_prototyping": [
+      "Low-Fidelity Wireframes",
+      "High-Fidelity Mockups",
+      "Interactive Prototypes",
+      "User Flows",
+      "Storyboarding"
+    ],
+    "design_tools": [
+      "Figma",
+      "Adobe XD",
+      "Sketch",
+      "Photoshop",
+      "Illustrator"
+    ],
+    "professional_skills": [
+      "Design Thinking",
+      "Communication",
+      "Presentation Skills",
+      "Stakeholder Collaboration",
+      "Problem Solving"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Design Fundamentals",
+    "Study Color Theory and Typography",
+    "Understand UX Principles",
+    "Learn User Research Methods",
+    "Create User Personas",
+    "Learn Wireframing Techniques",
+    "Master Figma",
+    "Build Interactive Prototypes",
+    "Learn Design Systems",
+    "Conduct Usability Testing",
+    "Work on Real-World Design Projects",
+    "Build a Professional Portfolio",
+    "Learn Accessibility Principles",
+    "Prepare for UI/UX Interviews"
+  ],
+
+  "projects": [
+    "Personal Portfolio Website Design",
+    "Mobile Banking App Redesign",
+    "Food Delivery App UI Design",
+    "E-Commerce Website UX Improvement",
+    "Travel Booking Application Design",
+    "Healthcare Mobile App Design",
+    "Learning Management System UI",
+    "Fitness Tracking App Design",
+    "SaaS Dashboard Design",
+    "Complete Product Design Case Study"
+  ],
+
+  "interview_questions": [
+    "What is the difference between UI and UX?",
+    "What is user-centered design?",
+    "What is design thinking?",
+    "What are user personas?",
+    "What is a user journey map?",
+    "What is information architecture?",
+    "What is wireframing?",
+    "What is prototyping?",
+    "What is usability testing?",
+    "What is accessibility in design?",
+    "What is a design system?",
+    "What are heuristics in UX design?",
+    "How do you conduct user research?",
+    "What is A/B testing?",
+    "What is responsive design?",
+    "How do you choose colors for a design?",
+    "What role does typography play in UX?",
+    "How do you handle stakeholder feedback?",
+    "What is visual hierarchy?",
+    "What are micro-interactions?",
+    "How do you measure user experience success?",
+    "What is cognitive load?",
+    "What is Figma?",
+    "What is the difference between low-fidelity and high-fidelity prototypes?",
+    "How would you redesign a poorly performing application?",
+    "What are common usability issues?",
+    "How do you improve user retention through design?",
+    "How do you create accessible interfaces?",
+    "How do you present your design decisions?",
+    "Walk us through your design process."
+  ],
+
+  "certifications": [
+    "Google UX Design Professional Certificate",
+    "UI/UX Design Specialization",
+    "Human-Computer Interaction Certification",
+    "Interaction Design Foundation UX Certification",
+    "Figma UI/UX Design Certification",
+    "Certified User Experience Professional (CXP)"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "AJ&Smart",
+      "The Futur",
+      "Flux Academy",
+      "DesignCourse",
+      "Jesse Showalter"
+    ],
+    "courses": [
+      "Google UX Design Professional Certificate",
+      "UI/UX Design Specialization",
+      "User Experience Design Essentials",
+      "Figma UI UX Design Course",
+      "Human-Computer Interaction Course"
+    ],
+    "websites": [
+      "Interaction Design Foundation",
+      "Nielsen Norman Group",
+      "Figma Community",
+      "Dribbble",
+      "Behance"
+    ],
+    "books": [
+      "Don't Make Me Think",
+      "The Design of Everyday Things",
+      "Hooked",
+      "100 Things Every Designer Needs to Know About People",
+      "Sprint"
+    ]
+  },
+
+  "tools": [
+    "Figma",
+    "Adobe XD",
+    "Sketch",
+    "Photoshop",
+    "Illustrator",
+    "Miro",
+    "FigJam",
+    "InVision",
+    "Balsamiq",
+    "Zeplin"
+  ],
+
+  "job_roles": [
+    "UI Designer",
+    "UX Designer",
+    "Product Designer",
+    "Interaction Designer",
+    "UX Researcher",
+    "Visual Designer",
+    "Experience Designer"
+  ],
+
+  "salary": {
+    "entry_level": "₹4-8 LPA",
+    "mid_level": "₹8-18 LPA",
+    "senior_level": "₹18-40+ LPA"
+  }
+}
