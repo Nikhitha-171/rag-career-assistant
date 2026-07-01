@@ -1,0 +1,203 @@
+{
+  "career": "Prompt Engineer",
+
+  "description": "A Prompt Engineer designs, tests, optimizes, and evaluates prompts for Large Language Models (LLMs) and Generative AI systems. They improve AI outputs, build AI-powered applications, create workflows using AI tools, and collaborate with developers, product teams, and researchers to solve business problems using Generative AI.",
+
+  "recommended_for": {
+    "interests": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Natural Language Processing",
+      "Technology",
+      "Automation",
+      "Problem Solving"
+    ],
+    "strengths": [
+      "Creativity",
+      "Analytical Thinking",
+      "Communication Skills",
+      "Critical Thinking",
+      "Experimentation",
+      "Attention to Detail"
+    ]
+  },
+
+  "skills": {
+    "ai_fundamentals": [
+      "Machine Learning Basics",
+      "Generative AI Concepts",
+      "Large Language Models",
+      "AI Safety Basics",
+      "Natural Language Processing"
+    ],
+    "prompt_engineering": [
+      "Zero-Shot Prompting",
+      "Few-Shot Prompting",
+      "Chain of Thought Prompting",
+      "Role-Based Prompting",
+      "Prompt Optimization"
+    ],
+    "programming": [
+      "Python",
+      "API Integration",
+      "JSON",
+      "Basic SQL",
+      "Automation Scripting"
+    ],
+    "llm_tools": [
+      "OpenAI APIs",
+      "LangChain",
+      "LlamaIndex",
+      "Vector Databases",
+      "RAG Systems"
+    ],
+    "evaluation": [
+      "Prompt Testing",
+      "Output Evaluation",
+      "Hallucination Detection",
+      "AI Benchmarking",
+      "Performance Analysis"
+    ],
+    "productivity_tools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Microsoft Copilot",
+      "AI Workflow Automation"
+    ]
+  },
+
+  "roadmap": [
+    "Understand AI and Machine Learning Basics",
+    "Learn Generative AI Fundamentals",
+    "Study Large Language Models",
+    "Master Prompt Engineering Techniques",
+    "Practice Zero-Shot and Few-Shot Prompting",
+    "Learn Python Programming",
+    "Understand APIs and JSON",
+    "Study Retrieval-Augmented Generation (RAG)",
+    "Learn LangChain and LlamaIndex",
+    "Build AI Automation Projects",
+    "Study AI Evaluation Techniques",
+    "Create Prompt Engineering Portfolio Projects",
+    "Learn AI Product Development Basics",
+    "Prepare for AI and Prompt Engineering Interviews"
+  ],
+
+  "projects": [
+    "AI Resume Analyzer",
+    "AI Career Guidance Assistant",
+    "Custom Chatbot using RAG",
+    "AI Research Assistant",
+    "AI Content Generation Tool",
+    "AI-Powered Interview Coach",
+    "Document Question Answering System",
+    "Customer Support Chatbot",
+    "AI Study Planner",
+    "Multi-Agent AI Workflow System"
+  ],
+
+  "interview_questions": [
+    "What is Prompt Engineering?",
+    "What is a Large Language Model (LLM)?",
+    "What is Generative AI?",
+    "What is zero-shot prompting?",
+    "What is few-shot prompting?",
+    "What is chain-of-thought prompting?",
+    "What is role prompting?",
+    "How do you improve prompt quality?",
+    "What are prompt templates?",
+    "What is prompt chaining?",
+    "What is Retrieval-Augmented Generation (RAG)?",
+    "What is a vector database?",
+    "What is embedding in AI?",
+    "What is hallucination in LLMs?",
+    "How do you reduce hallucinations?",
+    "What is context window?",
+    "What is tokenization?",
+    "What is fine-tuning?",
+    "What is the difference between prompting and fine-tuning?",
+    "What is temperature in LLMs?",
+    "What are AI agents?",
+    "What is LangChain?",
+    "What is LlamaIndex?",
+    "How do you evaluate AI responses?",
+    "What metrics can be used for AI evaluation?",
+    "How would you design a customer support chatbot?",
+    "How would you build a RAG application?",
+    "What challenges do prompt engineers face?",
+    "How do you ensure AI safety and reliability?",
+    "Describe an AI project you have worked on."
+  ],
+
+  "certifications": [
+    "Generative AI for Everyone",
+    "Prompt Engineering for ChatGPT",
+    "Google Generative AI Certification",
+    "Microsoft Applied Skills: AI Solutions",
+    "AWS Generative AI Foundations",
+    "OpenAI API and LLM Development Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "DeepLearningAI",
+      "AI Jason",
+      "Krish Naik",
+      "freeCodeCamp",
+      "Matt Wolfe"
+    ],
+    "courses": [
+      "Prompt Engineering for ChatGPT",
+      "Generative AI with Large Language Models",
+      "Building Systems with ChatGPT API",
+      "LangChain for LLM Application Development",
+      "Google Generative AI Learning Path"
+    ],
+    "websites": [
+      "OpenAI Documentation",
+      "LangChain Documentation",
+      "Hugging Face",
+      "DeepLearning.AI",
+      "Prompting Guide"
+    ],
+    "books": [
+      "Hands-On Large Language Models",
+      "AI Engineering",
+      "Natural Language Processing with Transformers",
+      "Designing Machine Learning Systems",
+      "Building LLM Powered Applications"
+    ]
+  },
+
+  "tools": [
+    "ChatGPT",
+    "OpenAI API",
+    "Claude",
+    "Gemini",
+    "LangChain",
+    "LlamaIndex",
+    "Pinecone",
+    "Weaviate",
+    "Python",
+    "Jupyter Notebook",
+    "VS Code",
+    "Hugging Face"
+  ],
+
+  "job_roles": [
+    "Prompt Engineer",
+    "Generative AI Engineer",
+    "AI Application Developer",
+    "LLM Engineer",
+    "AI Solutions Engineer",
+    "Conversational AI Specialist",
+    "AI Product Specialist"
+  ],
+
+  "salary": {
+    "entry_level": "₹6-12 LPA",
+    "mid_level": "₹12-30 LPA",
+    "senior_level": "₹30-70+ LPA"
+  }
+}

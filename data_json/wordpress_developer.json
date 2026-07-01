@@ -1,0 +1,203 @@
+{
+  "career": "WordPress Developer",
+
+  "description": "A WordPress Developer designs, develops, customizes, and maintains websites using WordPress. They work on themes, plugins, website performance, security, SEO optimization, e-commerce integration, and custom functionality to build responsive and scalable websites for businesses and organizations.",
+
+  "recommended_for": {
+    "interests": [
+      "Web Development",
+      "Website Design",
+      "Content Management Systems",
+      "Freelancing",
+      "E-Commerce",
+      "Technology"
+    ],
+    "strengths": [
+      "Problem Solving",
+      "Creativity",
+      "Attention to Detail",
+      "Communication Skills",
+      "Logical Thinking",
+      "Adaptability"
+    ]
+  },
+
+  "skills": {
+    "web_fundamentals": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design",
+      "Web Accessibility"
+    ],
+    "wordpress_core": [
+      "WordPress Installation",
+      "WordPress Dashboard",
+      "Theme Management",
+      "Plugin Management",
+      "WordPress Configuration"
+    ],
+    "wordpress_development": [
+      "Theme Development",
+      "Plugin Development",
+      "Custom Post Types",
+      "WordPress Hooks",
+      "WordPress APIs"
+    ],
+    "backend_development": [
+      "PHP",
+      "MySQL",
+      "Database Management",
+      "REST APIs",
+      "Server Configuration"
+    ],
+    "seo_and_performance": [
+      "Technical SEO",
+      "Website Optimization",
+      "Caching",
+      "Image Optimization",
+      "Core Web Vitals"
+    ],
+    "ecommerce": [
+      "WooCommerce",
+      "Payment Gateway Integration",
+      "Product Management",
+      "Order Management",
+      "Online Store Development"
+    ]
+  },
+
+  "roadmap": [
+    "Learn HTML, CSS, and JavaScript",
+    "Understand Web Development Fundamentals",
+    "Learn PHP Basics",
+    "Master WordPress Installation and Setup",
+    "Understand WordPress Themes and Plugins",
+    "Learn Theme Customization",
+    "Study WordPress Theme Development",
+    "Learn Plugin Development",
+    "Understand MySQL Databases",
+    "Learn WooCommerce Development",
+    "Study Website Security and SEO",
+    "Build Real-World WordPress Projects",
+    "Create a Professional Portfolio",
+    "Prepare for Freelance and Developer Roles"
+  ],
+
+  "projects": [
+    "Personal Portfolio Website",
+    "Business Company Website",
+    "Blog Platform",
+    "Restaurant Website",
+    "School Management Website",
+    "WooCommerce E-Commerce Store",
+    "Real Estate Listing Website",
+    "Online Learning Platform",
+    "Booking and Appointment System",
+    "Custom WordPress Plugin Development"
+  ],
+
+  "interview_questions": [
+    "What is WordPress?",
+    "What is the difference between WordPress.com and WordPress.org?",
+    "What is a theme in WordPress?",
+    "What is a plugin in WordPress?",
+    "What is a child theme?",
+    "What are WordPress hooks?",
+    "What is the difference between actions and filters?",
+    "What is WooCommerce?",
+    "What is a custom post type?",
+    "What is a shortcode?",
+    "What is the WordPress REST API?",
+    "What is wp-config.php?",
+    "How do you improve WordPress website performance?",
+    "How do you secure a WordPress site?",
+    "What is caching in WordPress?",
+    "What are WordPress widgets?",
+    "What is a page builder?",
+    "What is Elementor?",
+    "How do you optimize WordPress for SEO?",
+    "What is a permalink?",
+    "How do you migrate a WordPress website?",
+    "What is database optimization?",
+    "How do you troubleshoot plugin conflicts?",
+    "What is responsive web design?",
+    "How do you create a custom WordPress theme?",
+    "How do you develop a custom plugin?",
+    "How do you integrate payment gateways?",
+    "What are common WordPress vulnerabilities?",
+    "How do you maintain a WordPress website?",
+    "Describe a WordPress project you have developed."
+  ],
+
+  "certifications": [
+    "WordPress Developer Certification",
+    "PHP Certification",
+    "Google Digital Marketing Certification",
+    "WooCommerce Certification",
+    "Web Development Certification",
+    "SEO Fundamentals Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "WPCasts",
+      "Darrel Wilson",
+      "Ferdy Korpershoek",
+      "WPTuts",
+      "Traversy Media"
+    ],
+    "courses": [
+      "WordPress Development Bootcamp",
+      "Complete WordPress Website Developer Course",
+      "PHP for WordPress Development",
+      "WooCommerce Development Course",
+      "SEO for WordPress Websites"
+    ],
+    "websites": [
+      "WordPress Developer Documentation",
+      "WPBeginner",
+      "WPMU DEV",
+      "WordPress Codex",
+      "WooCommerce Documentation"
+    ],
+    "books": [
+      "Professional WordPress",
+      "WordPress Plugin Development Cookbook",
+      "WordPress Theme Development",
+      "PHP and MySQL Web Development",
+      "The Principles of Beautiful Web Design"
+    ]
+  },
+
+  "tools": [
+    "WordPress",
+    "Elementor",
+    "WooCommerce",
+    "PHP",
+    "MySQL",
+    "XAMPP",
+    "VS Code",
+    "Git",
+    "cPanel",
+    "Cloudflare",
+    "Yoast SEO",
+    "WP Rocket"
+  ],
+
+  "job_roles": [
+    "WordPress Developer",
+    "WordPress Theme Developer",
+    "WordPress Plugin Developer",
+    "WooCommerce Developer",
+    "CMS Developer",
+    "Web Developer",
+    "Freelance WordPress Developer"
+  ],
+
+  "salary": {
+    "entry_level": "₹3-6 LPA",
+    "mid_level": "₹6-15 LPA",
+    "senior_level": "₹15-35+ LPA"
+  }
+}

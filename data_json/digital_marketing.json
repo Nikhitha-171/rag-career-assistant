@@ -1,0 +1,203 @@
+{
+  "career": "Digital Marketing Specialist",
+
+  "description": "A Digital Marketing Specialist plans, executes, and optimizes online marketing campaigns to increase brand awareness, website traffic, lead generation, and sales. They work across search engines, social media platforms, email marketing, content marketing, paid advertising, and analytics to achieve business objectives.",
+
+  "recommended_for": {
+    "interests": [
+      "Marketing",
+      "Social Media",
+      "Advertising",
+      "Brand Building",
+      "Content Creation",
+      "Business Growth"
+    ],
+    "strengths": [
+      "Creativity",
+      "Communication Skills",
+      "Analytical Thinking",
+      "Strategic Thinking",
+      "Adaptability",
+      "Problem Solving"
+    ]
+  },
+
+  "skills": {
+    "digital_marketing_fundamentals": [
+      "Marketing Strategy",
+      "Customer Journey",
+      "Brand Management",
+      "Lead Generation",
+      "Marketing Funnels"
+    ],
+    "search_engine_optimization": [
+      "Keyword Research",
+      "On-Page SEO",
+      "Off-Page SEO",
+      "Technical SEO",
+      "Link Building"
+    ],
+    "paid_advertising": [
+      "Google Ads",
+      "Meta Ads",
+      "Pay-Per-Click (PPC)",
+      "Campaign Optimization",
+      "Retargeting"
+    ],
+    "content_marketing": [
+      "Copywriting",
+      "Blog Writing",
+      "Content Strategy",
+      "Storytelling",
+      "Content Distribution"
+    ],
+    "social_media_marketing": [
+      "Instagram Marketing",
+      "Facebook Marketing",
+      "LinkedIn Marketing",
+      "YouTube Marketing",
+      "Community Management"
+    ],
+    "analytics_and_tools": [
+      "Google Analytics",
+      "Google Search Console",
+      "A/B Testing",
+      "Conversion Tracking",
+      "Marketing Automation"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Marketing Fundamentals",
+    "Understand Customer Behavior",
+    "Study SEO Basics",
+    "Learn Content Marketing",
+    "Master Social Media Marketing",
+    "Understand Google Ads and PPC",
+    "Learn Email Marketing",
+    "Study Web Analytics",
+    "Practice Campaign Management",
+    "Learn Conversion Optimization",
+    "Build Real-World Marketing Projects",
+    "Create a Digital Marketing Portfolio",
+    "Earn Industry Certifications",
+    "Apply for Marketing Internships and Roles"
+  ],
+
+  "projects": [
+    "SEO Audit for a Website",
+    "Google Ads Campaign",
+    "Social Media Growth Strategy",
+    "Email Marketing Campaign",
+    "Content Marketing Plan",
+    "E-Commerce Marketing Funnel",
+    "YouTube Channel Growth Analysis",
+    "Lead Generation Campaign",
+    "Marketing Analytics Dashboard",
+    "Complete Digital Marketing Case Study"
+  ],
+
+  "interview_questions": [
+    "What is Digital Marketing?",
+    "What are the main channels of digital marketing?",
+    "What is SEO?",
+    "What is the difference between SEO and SEM?",
+    "What is keyword research?",
+    "What is PPC advertising?",
+    "What is Google Ads?",
+    "What is Quality Score in Google Ads?",
+    "What is CTR (Click Through Rate)?",
+    "What is conversion rate?",
+    "What is ROI in marketing?",
+    "What is content marketing?",
+    "What is email marketing?",
+    "What is social media marketing?",
+    "What is influencer marketing?",
+    "What is affiliate marketing?",
+    "What is Google Analytics?",
+    "What is Google Search Console?",
+    "What is A/B testing?",
+    "What is a landing page?",
+    "What is lead generation?",
+    "What is a marketing funnel?",
+    "What is customer acquisition cost (CAC)?",
+    "What is customer lifetime value (CLV)?",
+    "How do you improve website traffic?",
+    "How do you increase conversion rates?",
+    "How do you measure campaign performance?",
+    "How would you market a new product online?",
+    "How do you stay updated with marketing trends?",
+    "Describe a successful marketing campaign you have worked on."
+  ],
+
+  "certifications": [
+    "Google Digital Marketing & E-Commerce Certificate",
+    "Google Ads Certification",
+    "Google Analytics Certification",
+    "HubSpot Digital Marketing Certification",
+    "Meta Certified Digital Marketing Associate",
+    "SEMrush SEO Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "Neil Patel",
+      "HubSpot",
+      "Simplilearn",
+      "Adam Erhart",
+      "Surfside PPC"
+    ],
+    "courses": [
+      "Google Digital Marketing & E-Commerce Certificate",
+      "Digital Marketing Specialization",
+      "Google Ads Masterclass",
+      "SEO Training Course",
+      "HubSpot Content Marketing Certification"
+    ],
+    "websites": [
+      "HubSpot",
+      "Moz",
+      "SEMrush",
+      "Search Engine Journal",
+      "Neil Patel Blog"
+    ],
+    "books": [
+      "Digital Marketing for Dummies",
+      "Jab, Jab, Jab, Right Hook",
+      "Contagious",
+      "Influence",
+      "Building a StoryBrand"
+    ]
+  },
+
+  "tools": [
+    "Google Analytics",
+    "Google Ads",
+    "Google Search Console",
+    "SEMrush",
+    "Ahrefs",
+    "Meta Business Suite",
+    "Canva",
+    "Mailchimp",
+    "HubSpot",
+    "Buffer",
+    "Hootsuite",
+    "ChatGPT"
+  ],
+
+  "job_roles": [
+    "Digital Marketing Specialist",
+    "SEO Specialist",
+    "SEM Specialist",
+    "Performance Marketing Analyst",
+    "Content Marketing Manager",
+    "Social Media Manager",
+    "Growth Marketing Executive"
+  ],
+
+  "salary": {
+    "entry_level": "₹3-6 LPA",
+    "mid_level": "₹6-15 LPA",
+    "senior_level": "₹15-40+ LPA"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "career": "Information Technology (IT) Specialist",
+
+  "description": "An Information Technology (IT) Specialist manages, supports, secures, and optimizes an organization's technology infrastructure. They work with computer systems, networks, software, databases, cloud platforms, cybersecurity tools, and technical support services to ensure smooth business operations.",
+
+  "recommended_for": {
+    "interests": [
+      "Technology",
+      "Computer Systems",
+      "Networking",
+      "Cybersecurity",
+      "Cloud Computing",
+      "Problem Solving"
+    ],
+    "strengths": [
+      "Analytical Thinking",
+      "Troubleshooting",
+      "Communication Skills",
+      "Attention to Detail",
+      "Logical Reasoning",
+      "Adaptability"
+    ]
+  },
+
+  "skills": {
+    "computer_systems": [
+      "Operating Systems",
+      "Windows Administration",
+      "Linux Administration",
+      "Hardware Troubleshooting",
+      "System Configuration"
+    ],
+    "networking": [
+      "TCP/IP",
+      "DNS",
+      "DHCP",
+      "Network Configuration",
+      "Network Troubleshooting"
+    ],
+    "cybersecurity": [
+      "Security Fundamentals",
+      "Access Control",
+      "Endpoint Security",
+      "Risk Management",
+      "Incident Response Basics"
+    ],
+    "cloud_computing": [
+      "AWS Basics",
+      "Microsoft Azure",
+      "Google Cloud Platform",
+      "Cloud Storage",
+      "Virtualization"
+    ],
+    "database_management": [
+      "SQL",
+      "Database Administration",
+      "Data Backup",
+      "Database Security",
+      "Data Recovery"
+    ],
+    "it_support": [
+      "Technical Support",
+      "Help Desk Operations",
+      "IT Service Management",
+      "Remote Troubleshooting",
+      "Customer Support"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Computer Fundamentals",
+    "Understand Operating Systems",
+    "Study Networking Basics",
+    "Learn Windows and Linux Administration",
+    "Understand Database Fundamentals",
+    "Learn Cybersecurity Basics",
+    "Study Cloud Computing Concepts",
+    "Learn IT Support and Troubleshooting",
+    "Practice System Administration",
+    "Understand Virtualization Technologies",
+    "Build IT Infrastructure Projects",
+    "Prepare for IT Certifications",
+    "Gain Hands-On Experience Through Labs",
+    "Apply for IT Support and Infrastructure Roles"
+  ],
+
+  "projects": [
+    "Home Network Setup and Documentation",
+    "Linux Server Configuration",
+    "Windows Active Directory Setup",
+    "IT Asset Management System",
+    "Help Desk Ticketing System",
+    "Network Monitoring Dashboard",
+    "Cloud Storage Deployment",
+    "Backup and Recovery Solution",
+    "IT Security Assessment Project",
+    "Virtualized IT Infrastructure Lab"
+  ],
+
+  "interview_questions": [
+    "What is Information Technology?",
+    "What are the responsibilities of an IT Specialist?",
+    "What is an operating system?",
+    "What is the difference between Windows and Linux?",
+    "What is TCP/IP?",
+    "What is DNS?",
+    "What is DHCP?",
+    "What is a firewall?",
+    "What is virtualization?",
+    "What is cloud computing?",
+    "What is a VPN?",
+    "What is Active Directory?",
+    "What is system administration?",
+    "What is endpoint security?",
+    "What is data backup?",
+    "What is disaster recovery?",
+    "What is RAID?",
+    "What is network troubleshooting?",
+    "What is a help desk?",
+    "What is ITIL?",
+    "What is a database?",
+    "What is SQL?",
+    "What is access control?",
+    "What is multi-factor authentication?",
+    "What is patch management?",
+    "How would you troubleshoot a computer that won't boot?",
+    "How would you diagnose a network issue?",
+    "How would you secure an organization's systems?",
+    "What are common IT support challenges?",
+    "Describe an IT project you have worked on."
+  ],
+
+  "certifications": [
+    "CompTIA A+",
+    "CompTIA Network+",
+    "CompTIA Security+",
+    "Microsoft Certified: Azure Fundamentals",
+    "AWS Certified Cloud Practitioner",
+    "Google IT Support Professional Certificate"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "NetworkChuck",
+      "Professor Messer",
+      "PowerCert Animated Videos",
+      "David Bombal",
+      "KevTech IT Support"
+    ],
+    "courses": [
+      "Google IT Support Professional Certificate",
+      "CompTIA A+ Training",
+      "CompTIA Network+ Course",
+      "Microsoft Azure Fundamentals",
+      "AWS Cloud Practitioner Essentials"
+    ],
+    "websites": [
+      "Microsoft Learn",
+      "Cisco Networking Academy",
+      "AWS Skill Builder",
+      "CompTIA",
+      "Google Cloud Skills Boost"
+    ],
+    "books": [
+      "CompTIA A+ Certification All-in-One Exam Guide",
+      "CompTIA Network+ Study Guide",
+      "The Practice of System and Network Administration",
+      "How Linux Works",
+      "IT Essentials Companion Guide"
+    ]
+  },
+
+  "tools": [
+    "Windows Server",
+    "Linux",
+    "Active Directory",
+    "Wireshark",
+    "VMware",
+    "VirtualBox",
+    "Microsoft Azure",
+    "AWS",
+    "ServiceNow",
+    "PowerShell",
+    "Nmap",
+    "TeamViewer"
+  ],
+
+  "job_roles": [
+    "IT Support Specialist",
+    "System Administrator",
+    "Network Administrator",
+    "IT Analyst",
+    "Infrastructure Engineer",
+    "Technical Support Engineer",
+    "IT Operations Specialist"
+  ],
+
+  "salary": {
+    "entry_level": "₹3-7 LPA",
+    "mid_level": "₹7-15 LPA",
+    "senior_level": "₹15-35+ LPA"
+  }
+}

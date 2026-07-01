@@ -1,0 +1,203 @@
+{
+  "career": "Software Testing Engineer",
+
+  "description": "A Software Testing Engineer ensures the quality, reliability, security, and performance of software applications by identifying defects and verifying that products meet business and technical requirements. They perform manual testing, automation testing, API testing, performance testing, and collaborate with developers throughout the software development lifecycle.",
+
+  "recommended_for": {
+    "interests": [
+      "Software Development",
+      "Quality Assurance",
+      "Problem Solving",
+      "Technology",
+      "Automation",
+      "Debugging"
+    ],
+    "strengths": [
+      "Attention to Detail",
+      "Analytical Thinking",
+      "Logical Reasoning",
+      "Patience",
+      "Communication Skills",
+      "Critical Thinking"
+    ]
+  },
+
+  "skills": {
+    "manual_testing": [
+      "Test Case Design",
+      "Test Planning",
+      "Bug Reporting",
+      "Functional Testing",
+      "Regression Testing"
+    ],
+    "automation_testing": [
+      "Selenium",
+      "TestNG",
+      "Cypress",
+      "Playwright",
+      "Automation Frameworks"
+    ],
+    "api_testing": [
+      "REST APIs",
+      "Postman",
+      "API Validation",
+      "JSON",
+      "Swagger"
+    ],
+    "performance_testing": [
+      "Load Testing",
+      "Stress Testing",
+      "JMeter",
+      "Performance Analysis",
+      "Scalability Testing"
+    ],
+    "programming": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Basic Data Structures"
+    ],
+    "quality_assurance": [
+      "Agile Testing",
+      "Defect Management",
+      "Test Automation Strategy",
+      "CI/CD Testing",
+      "Software Development Lifecycle"
+    ]
+  },
+
+  "roadmap": [
+    "Learn Software Testing Fundamentals",
+    "Understand SDLC and STLC",
+    "Master Manual Testing Concepts",
+    "Learn Test Case Writing",
+    "Study Bug Life Cycle",
+    "Learn SQL for Testers",
+    "Understand API Testing",
+    "Learn Postman",
+    "Learn Java or Python",
+    "Master Selenium Automation",
+    "Study TestNG or PyTest",
+    "Learn Performance Testing",
+    "Build Testing Automation Projects",
+    "Prepare for QA Interviews and Certifications"
+  ],
+
+  "projects": [
+    "E-Commerce Website Test Automation",
+    "Banking Application Testing",
+    "API Testing Framework",
+    "Automated Login Validation System",
+    "Cross-Browser Testing Suite",
+    "Bug Tracking and Reporting Dashboard",
+    "Mobile Application Testing Project",
+    "Performance Testing with JMeter",
+    "CI/CD Testing Pipeline",
+    "End-to-End Test Automation Framework"
+  ],
+
+  "interview_questions": [
+    "What is software testing?",
+    "What is the difference between QA and QC?",
+    "What is SDLC?",
+    "What is STLC?",
+    "What is a test case?",
+    "What is a test scenario?",
+    "What is regression testing?",
+    "What is smoke testing?",
+    "What is sanity testing?",
+    "What is functional testing?",
+    "What is non-functional testing?",
+    "What is black-box testing?",
+    "What is white-box testing?",
+    "What is integration testing?",
+    "What is system testing?",
+    "What is user acceptance testing (UAT)?",
+    "What is a bug life cycle?",
+    "What is defect severity?",
+    "What is defect priority?",
+    "What is test automation?",
+    "What is Selenium?",
+    "What is TestNG?",
+    "What is API testing?",
+    "What is Postman?",
+    "What is SQL used for in testing?",
+    "What is performance testing?",
+    "What is load testing?",
+    "What is stress testing?",
+    "How do you decide which tests to automate?",
+    "Describe a testing project you have worked on."
+  ],
+
+  "certifications": [
+    "ISTQB Certified Tester Foundation Level (CTFL)",
+    "Certified Selenium Professional",
+    "Automation Testing Certification",
+    "Postman API Fundamentals Student Expert",
+    "Certified Agile Tester",
+    "Software Testing Professional Certification"
+  ],
+
+  "learning_resources": {
+    "youtube": [
+      "Automation Step by Step",
+      "SDET-QA Automation Techie",
+      "Naveen AutomationLabs",
+      "Testing Mini Bytes",
+      "LambdaTest"
+    ],
+    "courses": [
+      "Software Testing Masterclass",
+      "Selenium WebDriver with Java",
+      "API Testing with Postman",
+      "Automation Testing Bootcamp",
+      "Performance Testing with JMeter"
+    ],
+    "websites": [
+      "Guru99",
+      "ToolsQA",
+      "Software Testing Help",
+      "Ministry of Testing",
+      "Test Automation University"
+    ],
+    "books": [
+      "Foundations of Software Testing",
+      "Lessons Learned in Software Testing",
+      "How Google Tests Software",
+      "The Art of Software Testing",
+      "Agile Testing"
+    ]
+  },
+
+  "tools": [
+    "Selenium",
+    "Playwright",
+    "Cypress",
+    "Postman",
+    "JMeter",
+    "TestNG",
+    "JUnit",
+    "JIRA",
+    "Git",
+    "Jenkins",
+    "Appium",
+    "BrowserStack"
+  ],
+
+  "job_roles": [
+    "QA Engineer",
+    "Software Test Engineer",
+    "Automation Test Engineer",
+    "SDET (Software Development Engineer in Test)",
+    "Performance Test Engineer",
+    "QA Analyst",
+    "Quality Assurance Engineer"
+  ],
+
+  "salary": {
+    "entry_level": "₹3.5-7 LPA",
+    "mid_level": "₹7-18 LPA",
+    "senior_level": "₹18-40+ LPA"
+  }
+}
