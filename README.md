@@ -171,7 +171,7 @@ AI-Career-Coach/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Nikhitha-171/rag-career-assistant
 ```
 
 Install dependencies:
