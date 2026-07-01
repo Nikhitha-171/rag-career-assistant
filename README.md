@@ -1,36 +1,140 @@
-# 🎯 Career Coach AI
+# 🎯 AI Career Coach
 
-Career Coach AI is an intelligent career guidance application built using Python and Streamlit.
-
-The application helps users explore different career paths, understand required skills, view learning roadmaps, discover projects, prepare for interviews, and learn about certifications, tools, job roles, and salary expectations.
+An intelligent career guidance application built using Python and Streamlit that helps users explore career paths, identify skill gaps, compare careers, and generate personalized career reports.
 
 ---
 
 ## 🚀 Features
 
-### 📚 Career Information
-- Career Description
+### 💬 Career Assistant
+Ask career-related questions such as:
+
+- Skills required
+- Roadmaps
+- Projects
+- Certifications
+- Learning Resources
+- Job Roles
+- Salary Information
+- Interview Questions
+
+Example:
+
+```
+Skills for Data Scientist
+Projects for Data Analyst
+Salary of AI Engineer
+Resources for Machine Learning Engineer
+```
+
+---
+
+### 🎯 Career Recommendation Engine
+
+Get career suggestions based on your:
+
+- Interests
+- Strengths
+- Skills
+
+Example:
+
+```
+Coding, AI, Mathematics
+```
+
+Returns the most suitable career matches.
+
+---
+
+### 📈 Skill Gap Analyzer
+
+Analyze your current skills against a target career.
+
+Provides:
+
+- Readiness Score
+- Skills You Have
+- Missing Skills
+- Personalized Learning Suggestions
+
+Example:
+
+```
+Target Career: Machine Learning Engineer
+
+Current Skills:
+Python, SQL, Pandas
+```
+
+---
+
+### ⚖️ Career Comparison
+
+Compare two careers side-by-side.
+
+Example:
+
+```
+Data Scientist vs Machine Learning Engineer
+```
+
+Compare:
+
+- Description
+- Skills
+- Salary
+- Career Paths
+
+---
+
+### 📄 Career Report Generator
+
+Generate downloadable career reports containing:
+
+- Description
 - Recommended For
-- Skills Required
-- Tools Used
-- Learning Roadmap
-- Project Ideas
+- Skills
+- Roadmap
+- Projects
 - Interview Questions
 - Certifications
+- Learning Resources
+- Tools
 - Job Roles
-- Salary Insights
+- Salary Information
 
-### 💼 Supported Careers
+---
 
-- Machine Learning Engineer
-- Data Scientist
-- Data Analyst
+## 📂 Supported Careers
+
 - AI Engineer
+- Aerospace Engineer
+- Backend Developer
+- Blockchain Developer
 - Business Analyst
 - Cloud Engineer
 - Cybersecurity Analyst
+- Data Analyst
+- Data Scientist
+- Digital Marketing Specialist
+- Embedded Systems Engineer
+- Frontend Developer
+- Full Stack Developer
+- Game Developer
 - Graphic Designer
+- Information Technology Specialist
+- Machine Learning Engineer
+- Mobile App Developer
+- Network Engineer
+- Product Manager
+- Prompt Engineer
+- SOC Analyst
+- Social Media Marketing Specialist
+- Software Testing Engineer
+- UI/UX Designer
 - Web Developer
+- WordPress Developer
 
 ---
 
@@ -38,77 +142,45 @@ The application helps users explore different career paths, understand required 
 
 - Python
 - Streamlit
-- JSON Knowledge Base
+- JSON
+- VS Code
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-```text
-RAG-career-assistant/
+```
+AI-Career-Coach/
+│
+├── app.py
 │
 ├── data_json/
 │   ├── ai_engineer.json
-│   ├── business_analyst.json
-│   ├── cloud_engineer.json
-│   ├── cybersecurity.json
-│   ├── data_analyst.json
 │   ├── data_scientist.json
-│   ├── graphic_designer.json
+│   ├── data_analyst.json
 │   ├── ml_engineer.json
-│   └── web_developer.json
+│   └── ...
 │
-├── rag/
-│   ├── chunk_documents.py
-│   ├── create_embeddings.py
-│   ├── faiss_search.py
-│   └── rag_chatbot.py
-│
-├── app.py
-├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## ⚙️ Installation
+## ▶️ Installation
 
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd RAG-career-assistant
-```
-
-Create virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate virtual environment:
-
-### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-### Linux / Mac
-
-```bash
-source venv/bin/activate
+git clone <repository-url>
 ```
 
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install streamlit
 ```
 
----
-
-## ▶️ Run Application
+Run the application:
 
 ```bash
 streamlit run app.py
@@ -116,56 +188,14 @@ streamlit run app.py
 
 ---
 
-## 💡 Example Questions
+## 🎯 Future Improvements
 
-### Skills
-
-```text
-What skills are needed for a Data Scientist?
-```
-
-### Roadmap
-
-```text
-How do I become a Machine Learning Engineer?
-```
-
-### Projects
-
-```text
-Give projects for Data Analyst
-```
-
-### Interview Questions
-
-```text
-Give interview questions for AI Engineer
-```
-
-### Certifications
-
-```text
-What certifications should a Cybersecurity Analyst do?
-```
-
-### Salary
-
-```text
-What is the salary of a Cloud Engineer?
-```
-
----
-
-## 🔮 Future Improvements
-
-- Career Recommendation Engine
-- Career Comparison System
-- Personalized Career Roadmaps
-- Resume Guidance
-- Mock Interview Simulator
-- Learning Resource Recommendations
-- Advanced NLP Search
-- RAG-based Knowledge Retrieval
+- Resume Analyzer
+- PDF Career Reports
+- AI-powered Career Chatbot
+- Career Demand Trends
+- Job Recommendation Engine
+- Internship Recommendation System
 
 ---
 
@@ -173,10 +203,4 @@ What is the salary of a Cloud Engineer?
 
 Nikhitha Bantu
 
-BTech Student | AI & Machine Learning Enthusiast
-
----
-
-## ⭐ Project Status
-
-Currently under active development as part of an AI Career Guidance System.
+B.Tech Student | AI & Machine Learning Enthusiast
